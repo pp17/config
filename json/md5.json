@@ -1,6 +1,6 @@
 {
-    "maxV": 20180301,
-    "forceV": 20180301,
-	"downUrl": "http://suo.im/3vSwDn",
-	"hint": "新版本请更新"
+    "maxV": 300,
+    "forceV": 300,
+	"downUrl": "https://gitee.com/svo/config/raw/master/apk/md5.apk",
+	"hint": "1.修改MD5更快\n2.全新改版\n增加批量修改功能"
 }
