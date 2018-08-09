@@ -1,6 +1,6 @@
 {
-    "maxV": 300,
+    "maxV": 310,
     "forceV": 300,
-	"downUrl": "https://gitee.com/svo/config/raw/master/apk/md5.apk",
-	"hint": "1.修改MD5更快\n2.全新改版\n增加批量修改功能"
+	"downUrl": "http://lovevideo.bj.bcebos.com/apk%2FMD5.apk",
+	"hint": "1.修改MD5更快\n2.优化用户体验"
 }
