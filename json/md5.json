@@ -2,6 +2,6 @@
     "maxV": 375,
     "forceV": 300,
 	"downUrl": "http://lovevideo.bj.bcebos.com/apk%2FMD5.apk",
-    "adImgUrl": "https://n.sinaimg.cn/sports/590/w240h350/20190413/s6yV-hvscktf2645559.jpg",
+    "adImgUrl": "",
 	"hint": "1.优化修改md5方案\n2.增加解析火山小视频功能\n3.优化视频录制功能"
 }
