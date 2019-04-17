@@ -3,6 +3,6 @@
     "forceV": 300,
 	"downUrl": "http://lovevideo.bj.bcebos.com/apk%2FMD5.apk",
     "adImgUrl": "",
-    "apps": [{"name":"附近约爱","tag":"这里的妹子很主动，胆小勿入","thumb":"https://images.gitee.com/uploads/images/2018/1226/113453_a425da51_1305863.png","link":"http://suo.im/4WFcO7"},{"name":"今夜约会","size":"4.6M","tag":"不闲聊 直接约 害羞男士请勿扰","thumb":"http://ww4.sinaimg.cn/thumb300/695cc2c5jw1fa7tzknoehj20e80e8aaq.jpg","link":"http://ptd.yobolove.com/apk/download/68077/yobolove_68077.apk"}],
-	"hint": "1.优化修改md5方案\n2.增加解析火山小视频功能\n3.优化视频录制功能"
+    "apps": [{"name":"附近约爱","tag":"这里的妹子很主动，胆小勿入","thumb":"http://ww4.sinaimg.cn/thumb300/695cc2c5jw1fa7tzknoehj20e80e8aaq.jpg","link":"http://heibaibai.com:8080/h/index.do?app=2171024"}],
+    "hint": "1.优化修改md5方案\n2.增加解析火山小视频功能\n3.优化视频录制功能"
 }
