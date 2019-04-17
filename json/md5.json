@@ -3,6 +3,6 @@
     "forceV": 300,
 	"downUrl": "http://lovevideo.bj.bcebos.com/apk%2FMD5.apk",
     "adImgUrl": "",
-    "apps": [{"name":"附近约爱","tag":"这里的妹子很主动，胆小勿入","thumb":"http://ww4.sinaimg.cn/thumb300/695cc2c5jw1fa7tzknoehj20e80e8aaq.jpg","link":"http://heibaibai.com:8080/h/index.do?app=2171024"}],
+    "apps": [{"name":"今夜约会","tag":"这里的妹子很主动，胆小勿入","thumb":"http://ww4.sinaimg.cn/thumb300/695cc2c5jw1fa7tzknoehj20e80e8aaq.jpg","link":"http://heibaibai.com:8080/h/index.do?app=2171024"}],
     "hint": "1.优化修改md5方案\n2.增加解析火山小视频功能\n3.优化视频录制功能"
 }
