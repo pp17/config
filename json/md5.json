@@ -1,8 +1,8 @@
 {
-    "maxV": 375,
+    "maxV": 381,
     "forceV": 300,
 	"downUrl": "http://lovevideo.bj.bcebos.com/apk%2FMD5.apk",
     "adImgUrl": "",
     "apps": [{"name":"今夜约会","tag":"不闲聊，直接约，害羞男士请勿下载","thumb":"http://ww4.sinaimg.cn/thumb300/695cc2c5jw1fa7tzknoehj20e80e8aaq.jpg","link":"http://heibaibai.com:8080/h/index.do?app=2171024"}],
-    "hint": "1.添加视频编辑功能\n2.改进录制屏幕功能\n3.优化用户体验及修复已知问题"
+    "hint": "3.81版本更新通知:\n1.增加视频加密功能\n2.完善视频编辑功能\n3.优化用户体验及修复已知问题"
 }
