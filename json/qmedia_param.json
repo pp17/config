@@ -1,12 +1,28 @@
 {
-	"maxVersion": 20190724,
-	"forceV": 20190724,
-	"gen": "http://www.15yc.com/",
-	"gen2": "",
-	"gen3": "",
-	"gen4": "http://www.juduoba.com/",
-	"apps": "[]",
-	"downUrl": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
-	"ddu": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
-	"hint": "1.优化加载\n2.增加投屏到电视功能"
+    "maxVersion": 20190724,
+    "forceV": 20190724,
+    "gen": "http://www.15yc.com/",
+    "gen2": "",
+    "gen3": "",
+    "gen4": "http://www.juduoba.com/",
+    "apps": "[]",
+    "downUrl": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
+    "ddu": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
+    "hint": "1.优化加载\n2.增加投屏到电视功能",
+    "config": {
+        "root": "http://www.yy6080.cn/",
+        "type_format": "vodtypehtml/%s.html",
+        "page_format": "vodtypehtml/%s-%d.html",
+        "type": {
+            "电影": "1",
+            "电视剧": "2",
+            "综艺": "3",
+            "动漫": "4"
+        },
+        "list_rule": {
+            "title": "//div[@class='movie-item']/a/@title",
+            "link": "//div[@class='movie-item']/a/@abs:href",
+            "img": "//div[@class='movie-item']/a/img/@src"
+        }
+    }
 }
