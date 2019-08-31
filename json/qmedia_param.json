@@ -17,7 +17,16 @@
             "电影": "1",
             "电视剧": "2",
             "综艺": "4",
+			"午夜恐怖": "9",
             "动漫": "7"
+        },
+		"home_rule": {
+            "section": "//div[@class='row']",
+            "section_title": "//div[1]/h3/allText()",
+            "section_link": "//div[1]/span/a/@abs:href",
+			"list_title": "//div[@class='movie-item']/a/@title",
+            "list_link": "//div[@class='movie-item']/a/@abs:href",
+			"list_img": "//div[@class='movie-item']/a/img/@src"
         },
         "list_rule": {
             "title": "//div[@class='movie-item']/a/@title",
