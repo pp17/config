@@ -10,14 +10,14 @@
     "ddu": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
     "hint": "1.优化加载\n2.增加投屏到电视功能",
     "config": {
-        "root": "http://www.yy6080.cn/",
-        "type_format": "http://www.yy6080.cn/vodtypehtml/%s.html",
-        "page_format": "http://www.yy6080.cn/vodtypehtml/%s-%d.html",
+        "root": "http://www.k2938.com/",
+        "type_format": "http://www.k2938.com/type/%s.html",
+        "page_format": "http://www.k2938.com/type/%s/%d.html",
         "type": {
             "电影": "1",
             "电视剧": "2",
-            "综艺": "3",
-            "动漫": "4"
+            "综艺": "4",
+            "动漫": "7"
         },
         "list_rule": {
             "title": "//div[@class='movie-item']/a/@title",
