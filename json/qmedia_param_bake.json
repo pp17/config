@@ -10,14 +10,15 @@
     "ddu": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
     "hint": "1.优化加载\n2.增加投屏到电视功能",
     "config": {
-        "root": "http://www.yy6080.cn/",
-        "type_format": "http://www.yy6080.cn/vodtypehtml/%s.html",
-        "page_format": "http://www.yy6080.cn/vodtypehtml/%s-%d.html",
+        "root": "http://www.k2938.com/",
+        "type_format": "http://www.k2938.com/type/%s.html",
+        "page_format": "http://www.k2938.com/type/%s/%d.html",
         "type": {
             "电影": "1",
             "电视剧": "2",
-            "综艺": "3",
-            "动漫": "4"
+            "综艺": "4",
+			"恐怖": "9",
+            "动漫": "7"
         },
 		"home_rule": {
             "section": "//div[@class='row']",
@@ -36,7 +37,7 @@
             "play_url": "//div[@class='online-button']/a/@abs:href",
             "intro": "//p[@class='summary']/text()",
             "thumb": "//img[@class='img-thumbnail']/@src",
-            "items": "//div[@class='col-md-12']//a",
+            "items": "//li[@class='dslist-group-item']/a",
 			"attribute": ["//table/tbody/tr[2]/td[1]/allText()","//table/tbody/tr[2]/td[2]/allText()","//table/tbody/tr[4]/td[1]/allText()","//table/tbody/tr[4]/td[2]/allText()","//table/tbody/tr[6]/td[1]/allText()","//table/tbody/tr[6]/td[2]/allText()","//table/tbody/tr[1]/td[1]/allText()","//table/tbody/tr[1]/td[2]/allText()","//table/tbody/tr[7]/td[1]/allText()","//table/tbody/tr[7]/td[2]/allText()"]
         },
 		"play_video":"//iframe/@src"
