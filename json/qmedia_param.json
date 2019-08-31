@@ -23,6 +23,12 @@
             "title": "//div[@class='movie-item']/a/@title",
             "link": "//div[@class='movie-item']/a/@abs:href",
             "img": "//div[@class='movie-item']/a/img/@src"
+        },
+        "detail_rule": {
+            "play_url": "//div[@class='online-button']/a/@abs:href",
+            "intro": "//p[@class='summary']/text()",
+            "thumb": "//img[@class='img-thumbnail']/@src",
+            "items": "//li[@class='dslist-group-item']/a"
         }
     }
 }
