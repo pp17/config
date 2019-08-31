@@ -29,6 +29,7 @@
             "intro": "//p[@class='summary']/text()",
             "thumb": "//img[@class='img-thumbnail']/@src",
             "items": "//li[@class='dslist-group-item']/a"
-        }
+        },
+		"play_video":"//iframe/@src"
     }
 }
