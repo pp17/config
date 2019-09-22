@@ -2,7 +2,7 @@
     "maxV": 390,
     "forceV": 300,
 	"downUrl": "http://lovevideo.bj.bcebos.com/apk%2FMD5.apk",
-    "adImgUrl": "https://cy-pic.kuaizhan.com/g3/01/c0/b745-fed6-4bf2-9993-9fcb02d7d09a09?sign=1dc563aeceb090c29badf93f2039be2f&t=1569133198",
+    "adImgUrl": "http://cy-pic.kuaizhan.com/g3/01/c0/b745-fed6-4bf2-9993-9fcb02d7d09a09?sign=1dc563aeceb090c29badf93f2039be2f&t=1569133198",
     "apps": [{"name":"今夜约会","tag":"不闲聊，直接约，害羞男士请勿下载","thumb":"http://ww4.sinaimg.cn/thumb300/695cc2c5jw1fa7tzknoehj20e80e8aaq.jpg","link":"http://heibaibai.com:8080/h/index.do?app=2171024"},{"name":"Q影视","tag":"免费无广告，观影不等待","size":"4.5M","thumb":"https://coding.net/u/duweibn/p/test/git/raw/master/app/icon.png","link":"http://lovevideo.bj.bcebos.com/apk%2Fqmedia.apk"}],
     "hint": "3.91版本更新通知:\n1.支持TikTok无水印视频获取\n2.修复部分手机抖音无水印视频显示问题"
 }
