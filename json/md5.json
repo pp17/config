@@ -3,7 +3,7 @@
     "forceV": 300,
 	"downUrl": "http://lovevideo.bj.bcebos.com/apk%2FMD5.apk",
     "adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1g84fp4nu2qj30jm0jmjsx.jpg",
-    "apps": [[{
+    "apps": [{
 	"name": "刷粉自助平台",
 	"tag": "抖音 刷粉 刷赞 自助平台",
 	"thumb": "https://wx4.sinaimg.cn/mw690/007ZCETily1g84fp4nu2qj30jm0jmjsx.jpg",
@@ -19,6 +19,6 @@
 	"size": "4.5M",
 	"thumb": "https://coding.net/u/duweibn/p/test/git/raw/master/app/icon.png",
 	"link": "http://lovevideo.bj.bcebos.com/apk%2Fqmedia.apk"
-}]],
+}],
     "hint": "3.91版本更新通知:\n1.支持TikTok无水印视频获取\n2.修复部分手机抖音无水印视频显示问题"
 }
