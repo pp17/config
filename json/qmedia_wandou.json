@@ -20,12 +20,12 @@
             "动漫": "3"
         },
 		"home_rule": {
-            "section": "//div[@class='row']",
-            "section_title": "//div[1]/h3/allText()",
-            "section_link": "//div[1]/span/a/@abs:href",
-			"list_title": "//div[@class='movie-item']/a/@title",
-            "list_link": "//div[@class='movie-item']/a/@abs:href",
-			"list_img": "//div[@class='movie-item']/a/img/@src"
+            "section": "//div[@class$='ff-bg']",
+            "section_title": "//div[1]/h2/a/allText()",
+            "section_link": "//div[1]/h2/a/@abs:href",
+			"list_title": "//li[@class^='col-sm-3']/p/a/img/@alt",
+            "list_link": "//li[@class^='col-sm-3']/p/a/@abs:href",
+			"list_img": "//li[@class^='col-sm-3']/p/a/img/@data-original"
         },
         "list_rule": {
             "title": "//li[@class^='col-md-2']/p/a/img/@alt",
