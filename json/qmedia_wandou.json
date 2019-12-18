@@ -44,6 +44,6 @@
             "items": "//li[@class^='col-md-1']/a",
 			"attribute": ["//div[@class='media-body']/dl/dt[1]/allText()","//div[@class='media-body']/dl/dd[1]/allText()","//div[@class='media-body']/dl/dt[2]/allText()","//div[@class='media-body']/dl/dd[2]/allText()","//div[@class='media-body']/dl/dt[4]/allText()","//div[@class='media-body']/dl/dd[4]/allText()","//div[@class='media-body']/dl/dt[5]/allText()","//div[@class='media-body']/dl/dd[5]/allText()","//div[@class='media-body']/dl/dt[6]/allText()","//div[@class='media-body']/dl/dd[6]/allText()"]
         },
-		"play_video":"//iframe/@src"
+		"play_video":""
     }
 }
