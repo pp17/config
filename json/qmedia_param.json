@@ -1,7 +1,7 @@
 {
     "maxVersion": 201912120,
     "forceV": 201912120,
-    "gen": "https://www.wandouys.com/",
+    "gen": "http://www.15yc.com/",
     "gen2": "",
     "gen3": "",
     "gen4": "http://www.juduoba.com/",
@@ -10,14 +10,15 @@
     "ddu": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
     "hint": "1.优化加载\n2.增加投屏到电视功能",
     "config": {
-        "root": "https://www.wandouys.com/",
-        "type_format": "https://www.wandouys.com/video/type/%s------hits.html",
-        "page_format": "https://www.wandouys.com/video/type/%s------hits-%d.html",
+        "root": "http://www.k2938.com/",
+        "type_format": "http://www.k2938.com/type/%s.html",
+        "page_format": "http://www.k2938.com/type/%s/%d.html",
         "type": {
             "电影": "1",
             "电视剧": "2",
-            "综艺": "4"
-            "动漫": "3"
+            "综艺": "4",
+			"恐怖": "9",
+            "动漫": "7"
         },
 		"home_rule": {
             "section": "//div[@class='row']",
@@ -28,9 +29,9 @@
 			"list_img": "//div[@class='movie-item']/a/img/@src"
         },
         "list_rule": {
-            "title": "//li[@class='col-md-2 col-sm-3 col-xs-4']/p/a/@alt",
-            "link": "//li[@class='col-md-2 col-sm-3 col-xs-4']/p/a/@abs:href",
-            "img": "//li[@class='col-md-2 col-sm-3 col-xs-4']/p/a/img/@data-original"
+            "title": "//div[@class='movie-item']/a/@title",
+            "link": "//div[@class='movie-item']/a/@abs:href",
+            "img": "//div[@class='movie-item']/a/img/@src"
         },
 		"search_rule": {
             "title": "//div[@class='movie-item']/a/@title",
@@ -38,11 +39,11 @@
             "img": "//div[@class='movie-item']/a/img/@src"
         },
         "detail_rule": {
-            "play_url": "//li[@class='col-md-1 col-xs-4']/a",
-            "intro": "//div[@class='media-body']/div[@class='hidden-xs hidden-sm']/text()",
-            "thumb": "//div[@class='media']/div[@class='media-left']/a/img/@src",
-            "items": "//li[@class='col-md-1 col-xs-4']/a",
-			"attribute": ["//div[@class='media-body']/dl/dt[1]/allText()","//div[@class='media-body']/dl/dd[1]/allText()","//div[@class='media-body']/dl/dt[2]/allText()","//div[@class='media-body']/dl/dd[2]/allText()","//div[@class='media-body']/dl/dt[4]/allText()","//div[@class='media-body']/dl/dd[4]/allText()","//div[@class='media-body']/dl/dt[5]/allText()","//div[@class='media-body']/dl/dd[5]/allText()","//div[@class='media-body']/dl/dt[6]/allText()","//div[@class='media-body']/dl/dd[6]/allText()"]
+            "play_url": "//div[@class='online-button']/a/@abs:href",
+            "intro": "//p[@class='summary']/text()",
+            "thumb": "//img[@class='img-thumbnail']/@src",
+            "items": "//li[@class='dslist-group-item']/a",
+			"attribute": ["//table/tbody/tr[2]/td[1]/allText()","//table/tbody/tr[2]/td[2]/allText()","//table/tbody/tr[4]/td[1]/allText()","//table/tbody/tr[4]/td[2]/allText()","//table/tbody/tr[6]/td[1]/allText()","//table/tbody/tr[6]/td[2]/allText()","//table/tbody/tr[1]/td[1]/allText()","//table/tbody/tr[1]/td[2]/allText()","//table/tbody/tr[7]/td[1]/allText()","//table/tbody/tr[7]/td[2]/allText()"]
         },
 		"play_video":"//iframe/@src"
     }
