@@ -28,9 +28,9 @@
 			"list_img": "//div[@class='movie-item']/a/img/@src"
         },
         "list_rule": {
-            "title": "//li[@class='col-md-2 col-sm-3 col-xs-4']/p/a/img/@alt",
-            "link": "//li[@class='col-md-2 col-sm-3 col-xs-4']/p/a/@abs:href",
-            "img": "//li[@class='col-md-2 col-sm-3 col-xs-4']/p/a/img/@data-original"
+            "title": "//li[@class^='col-md-2']/p/a/img/@alt",
+            "link": "//li[@class^='col-md-2']/p/a/@abs:href",
+            "img": "//li[@class^='col-md-2']/p/a/img/@data-original"
         },
 		"search_rule": {
             "title": "//div[@class='movie-item']/a/@title",
