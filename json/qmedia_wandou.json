@@ -33,11 +33,7 @@
             "link": "//li[@class^='col-md-2']/p/a/@abs:href",
             "img": "//li[@class^='col-md-2']/p/a/img/@data-original"
         },
-		"search_rule": {
-            "title": "//div[@class='movie-item']/a/@title",
-            "link": "//div[@class='movie-item']/a/@abs:href",
-            "img": "//div[@class='movie-item']/a/img/@src"
-        },
+		
         "detail_rule": {
             "play_url": "//li[@class^='col-md-1']/a",
             "intro": "//div[@class='media-body']/div[@class^='hidden-xs']/text()",
