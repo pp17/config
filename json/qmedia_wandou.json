@@ -13,6 +13,7 @@
         "root": "https://www.wandouys.com/",
         "type_format": "https://www.wandouys.com/video/type/%s------hits.html",
         "page_format": "https://www.wandouys.com/video/type/%s------hits-%d.html",
+		"search_format": "https://www.wandouys.com/video/search/%s.html",
         "type": {
             "电影": "1",
             "电视剧": "2",
