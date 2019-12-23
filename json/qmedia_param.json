@@ -13,6 +13,7 @@
         "root": "http://www.k2938.com/",
         "type_format": "http://www.k2938.com/type/%s.html",
         "page_format": "http://www.k2938.com/type/%s/%d.html",
+		"search_format": "http://www.k2938.com/search?wd=%s",
         "type": {
             "电影": "1",
             "电视剧": "2",
