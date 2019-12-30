@@ -9,6 +9,7 @@
     "downUrl": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
     "ddu": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
     "hint": "1.优化加载\n2.增加投屏到电视功能",
+	"search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s1.json"],
     "config": {
         "root": "http://www.k2938.com/",
         "type_format": "http://www.k2938.com/type/%s.html",
