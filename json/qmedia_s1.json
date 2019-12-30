@@ -1,5 +1,5 @@
 {
-	"root": "http://huanjugu.com/"
+	"root": "http://huanjugu.com/",
 	"search_format": "http://huanjugu.com/index.php/vod/search.html?wd=%s",
 	"search_rule": {
 		"title": "//ul[@class='show-list']/li/a/img/@alt",
