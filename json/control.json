@@ -1,1 +1,35 @@
-dingzhi_enable
+private String TAG = "ScreenCaptureActivity";
+private int result = 0;
+private Intent intent = null;
+private int REQUEST_MEDIA_PROJECTION = 1;
+private MediaProjectionManager mMediaProjectionManager;
+private MarkSizeView markSizeView;
+private Rect markedArea;
+private MarkSizeView.GraphicPath mGraphicPath;
+private TextView captureTips;
+private Button captureAll;
+private Button markType;
+private boolean isMarkRect=true;
+private ScreenCapture screenCaptureService;
+@Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(null);
+
+        if (Build.VERSION.SDK_INT < Build.VERSION_CODES.LOLLIPOP) {
+            ToastUtil.show(R.string.can_not_capture_under_5_0);
+            finish();
+            return;
+        }
+
+        ArcTipViewController.getInstance().showHideFloatImageView();
+
+        initWindow();
+        mMediaProjectionManager = (MediaProjectionManager) getApplication().getSystemService(Context.MEDIA_PROJECTION_SERVICE);
+
+
+        setContentView(R.layout.activity_screen_capture);
+
+        markSizeView = (MarkSizeView) findViewById(R.id.mark_size);
+        captureTips = (TextView) findViewById(R.id.capture_tips);
+        captureAll = (Button) findViewById(R.id.capture_all);dingzhi_enable
+        markType = (Button) findViewById(R.id.mark_type);
