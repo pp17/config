@@ -1,0 +1,24 @@
+{
+    "maxVersion": 201912120,
+    "forceV": 201912120,
+    "downUrl": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
+    "hint": "1.优化加载\n2.增加投屏到电视功能",
+    "config": [{
+        "root": "http://www.k2938.com/",
+        "page_format": "http://www.k2938.com/type/%s/%d.html",
+		"search_format": "http://www.k2938.com/search?wd=%s",
+		"search_rule": {
+            "title": "//div[@class='movie-item']/a/@title",
+            "link": "//div[@class='movie-item']/a/@abs:href",
+            "img": "//div[@class='movie-item']/a/img/@src"
+        },
+        "detail_rule": {
+            "play_url": "//div[@class='online-button']/a/@abs:href",
+            "intro": "//p[@class='summary']/text()",
+            "thumb": "//img[@class='img-thumbnail']/@src",
+            "items": "//li[@class='dslist-group-item']/a",
+			"attribute": ["//table/tbody/tr[2]/td[1]/allText()","//table/tbody/tr[2]/td[2]/allText()","//table/tbody/tr[4]/td[1]/allText()","//table/tbody/tr[4]/td[2]/allText()","//table/tbody/tr[6]/td[1]/allText()","//table/tbody/tr[6]/td[2]/allText()","//table/tbody/tr[1]/td[1]/allText()","//table/tbody/tr[1]/td[2]/allText()","//table/tbody/tr[7]/td[1]/allText()","//table/tbody/tr[7]/td[2]/allText()"]
+        },
+		"play_video":""
+    }]
+}
