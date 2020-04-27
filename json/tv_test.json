@@ -1,0 +1,114 @@
+{
+  "maxVersion": 202004270,
+  "forceV": 201912120,
+  "downUrl": "https://lovevideo.bj.bcebos.com/apk%2Fqmedia_tv.apk",
+  "hint": "1.搜索更多资源",
+  "config": [
+    {
+      "root": "http://www.k2938.com/",
+      "page_format": "http://www.k2938.com/type/%s/%d.html",
+      "search_format": "http://www.k2938.com/search?wd=%s",
+      "search_rule": {
+        "title": "//div[@class='movie-item']/a/@title",
+        "link": "//div[@class='movie-item']/a/@abs:href",
+        "img": "//div[@class='movie-item']/a/img/@src"
+      },
+      "detail_rule": {
+        "play_url": "//div[@class='online-button']/a/@abs:href",
+        "intro": "//p[@class='summary']/text()",
+        "thumb": "//img[@class='img-thumbnail']/@src",
+        "items": "//li[@class='dslist-group-item']/a",
+        "attribute": [
+          "//table/tbody/tr[2]/td[1]/allText()",
+          "//table/tbody/tr[2]/td[2]/allText()",
+          "//table/tbody/tr[4]/td[1]/allText()",
+          "//table/tbody/tr[4]/td[2]/allText()",
+          "//table/tbody/tr[6]/td[1]/allText()",
+          "//table/tbody/tr[6]/td[2]/allText()",
+          "//table/tbody/tr[1]/td[1]/allText()",
+          "//table/tbody/tr[1]/td[2]/allText()",
+          "//table/tbody/tr[7]/td[1]/allText()",
+          "//table/tbody/tr[7]/td[2]/allText()"
+        ]
+      },
+      "play_video": ""
+    },
+    {
+      "root": "http://huanjugu.com/",
+      "search_format": "http://huanjugu.com/index.php/vod/search.html?wd=%s",
+      "search_rule": {
+        "title": "//ul[@class='show-list']/li/a/img/@alt",
+        "link": "//ul[@class='show-list']/li/a/@abs:href",
+        "img": "//ul[@class='show-list']/li/a/img/@abs:src"
+      },
+      "detail_rule": {
+        "play_url": "//li[@class^='col-md-1']/a",
+        "intro": "//div[@class='tjuqing']/text()",
+        "thumb": "//div[@class^='detail-pic']/img/@abs:src",
+        "items": "//div[@class^='video_list']/a",
+        "attribute": [
+          "//div[@class^='info']/dl[1]/dt/allText()",
+          "//div[@class^='info']/dl[1]/dd/allText()",
+          "//div[@class^='info']/dl[2]/dt/allText()",
+          "//div[@class^='info']/dl[2]/dd/allText()",
+          "//div[@class^='info']/dl[4]/dt/allText()",
+          "//div[@class^='info']/dl[4]/dd/allText()",
+          "//div[@class^='info']/dl[5]/dt/allText()",
+          "//div[@class^='info']/dl[5]/dd/allText()",
+          "//div[@class^='info']/dl[6]/dt/allText()",
+          "//div[@class^='info']/dl[6]/dd/allText()"
+        ]
+      },
+      "play_video": "regex:url.{2,8}(http.+?\\.m3u8);1"
+    },
+    {
+      "root": "https://www.ywtx.cc/",
+	  "charset": "gb2312",
+      "search_format": "https://www.ywtx.cc/search.asp?searchword=%s",
+      "search_rule": {
+        "title": "//div[@class='channel b']/ul/li/a/img/@alt",
+        "link": "//div[@class='channel b']/ul/li/a/@abs:href",
+        "img": "//div[@class='channel b']/ul/li/a/img/@abs:src"
+      },
+      "detail_rule": {
+        "play_url": "",
+        "intro": "//div[@id='des']/ul/text()",
+        "thumb": "//div[@class='l poster']//img/@abs:src",
+        "items": "//div[@id='vlink_1']/ul/li/a",
+        "attribute": [
+          "//div[@class^='info']/dl[1]/dt/allText()",
+          "//div[@class^='info']/dl[1]/dd/allText()",
+          "//div[@class^='info']/dl[2]/dt/allText()",
+          "//div[@class^='info']/dl[2]/dd/allText()",
+          "//div[@class^='info']/dl[4]/dt/allText()",
+          "//div[@class^='info']/dl[4]/dd/allText()",
+          "//div[@class^='info']/dl[5]/dt/allText()",
+          "//div[@class^='info']/dl[5]/dd/allText()",
+          "//div[@class^='info']/dl[6]/dt/allText()",
+          "//div[@class^='info']/dl[6]/dd/allText()"
+        ]
+      },
+      "play_video": ""
+    },
+    {
+      "root": "http://v.saohuo.la/",
+	  "user-agent": "android",
+      "search_format": "http://v.saohuo.la/search.php?searchword=%s",
+      "search_rule": {
+        "title": "//ul[@class='v_list']/li/div/a/@title",
+        "link": "//ul[@class='v_list']/li/div/a/@abs:href",
+        "img": "//ul[@class='v_list']/li/div/a/img/@abs:data-original"
+      },
+      "detail_rule": {
+        "play_url": "",
+        "intro": "//p[@class='p_txt show_part']/text()",
+        "thumb": "//div[@class='l poster']//img/@abs:src",
+        "items": "//ul[@id='play_link']/li/a",
+        "attribute": [
+          "//section[@class='grid_box v_info_box']/p/allText()"
+        ]
+      },
+      "play_video": ""
+    }
+  ]
+}

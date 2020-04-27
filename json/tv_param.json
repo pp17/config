@@ -1,8 +1,8 @@
 {
-  "maxVersion": 202004140,
+  "maxVersion": 202004270,
   "forceV": 201912120,
-  "downUrl": "http://182.151.248.118/app.znds.com/update/2020-03-25/dangbeimarket_4.2.3_230_znds.apk",
-  "hint": "1.优化加载\n2.增加投屏到电视功能",
+  "downUrl": "https://lovevideo.bj.bcebos.com/apk%2Fqmedia_tv.apk",
+  "hint": "1.搜索更多资源",
   "config": [
     {
       "root": "http://www.k2938.com/",
@@ -60,33 +60,55 @@
         ]
       },
       "play_video": "regex:url.{2,8}(http.+?\\.m3u8);1"
-    },{
-	"root": "https://www.ywtx.cc/",
-	"search_format": "https://www.ywtx.cc/search.asp?searchword=%s",
-	"search_rule": {
-		"title": "//div[@class='channel b']/ul/li/a/img/@alt",
-		"link": "//div[@class='channel b']/ul/li/a/@abs:href",
-		"img": "//div[@class='channel b']/ul/li/a/img/@abs:src"
-	},
-	"detail_rule": {
-		"play_url": "",
-		"intro": "//div[@id='des']/ul/text()",
-		"thumb": "//div[@class='l poster']//img/@abs:src",
-		"items": "//div[@id='vlink_1']/ul/li/a",
-		"attribute": [
-			"//div[@class^='info']/dl[1]/dt/allText()",
-			"//div[@class^='info']/dl[1]/dd/allText()",
-			"//div[@class^='info']/dl[2]/dt/allText()",
-			"//div[@class^='info']/dl[2]/dd/allText()",
-			"//div[@class^='info']/dl[4]/dt/allText()",
-			"//div[@class^='info']/dl[4]/dd/allText()",
-			"//div[@class^='info']/dl[5]/dt/allText()",
-			"//div[@class^='info']/dl[5]/dd/allText()",
-			"//div[@class^='info']/dl[6]/dt/allText()",
-			"//div[@class^='info']/dl[6]/dd/allText()"
-		]
-	},
-	"play_video": ""
-}
+    },
+    {
+      "root": "https://www.ywtx.cc/",
+	  "charset": "gb2312",
+      "search_format": "https://www.ywtx.cc/search.asp?searchword=%s",
+      "search_rule": {
+        "title": "//div[@class='channel b']/ul/li/a/img/@alt",
+        "link": "//div[@class='channel b']/ul/li/a/@abs:href",
+        "img": "//div[@class='channel b']/ul/li/a/img/@abs:src"
+      },
+      "detail_rule": {
+        "play_url": "",
+        "intro": "//div[@id='des']/ul/text()",
+        "thumb": "//div[@class='l poster']//img/@abs:src",
+        "items": "//div[@id='vlink_1']/ul/li/a",
+        "attribute": [
+          "//div[@class^='info']/dl[1]/dt/allText()",
+          "//div[@class^='info']/dl[1]/dd/allText()",
+          "//div[@class^='info']/dl[2]/dt/allText()",
+          "//div[@class^='info']/dl[2]/dd/allText()",
+          "//div[@class^='info']/dl[4]/dt/allText()",
+          "//div[@class^='info']/dl[4]/dd/allText()",
+          "//div[@class^='info']/dl[5]/dt/allText()",
+          "//div[@class^='info']/dl[5]/dd/allText()",
+          "//div[@class^='info']/dl[6]/dt/allText()",
+          "//div[@class^='info']/dl[6]/dd/allText()"
+        ]
+      },
+      "play_video": ""
+    },
+    {
+      "root": "http://v.saohuo.la/",
+	  "user-agent": "android",
+      "search_format": "http://v.saohuo.la/search.php?searchword=%s",
+      "search_rule": {
+        "title": "//ul[@class='v_list']/li/div/a/@title",
+        "link": "//ul[@class='v_list']/li/div/a/@abs:href",
+        "img": "//ul[@class='v_list']/li/div/a/img/@abs:data-original"
+      },
+      "detail_rule": {
+        "play_url": "",
+        "intro": "//p[@class='p_txt show_part']/text()",
+        "thumb": "//div[@class='l poster']//img/@abs:src",
+        "items": "//ul[@id='play_link']/li/a",
+        "attribute": [
+          "//section[@class='grid_box v_info_box']/p/allText()"
+        ]
+      },
+      "play_video": ""
+    }
   ]
 }
