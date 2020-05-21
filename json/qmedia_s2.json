@@ -1,0 +1,18 @@
+{
+	"root": "https://m.88ys.com/",
+	"search_format": "https://m.88ys.com/search/?wd=%s",
+	"isPost": true,
+	"search_rule": {
+		"title": "//div[@class='con']/a/@title",
+		"link": "//div[@class='con']/a/@abs:href",
+		"img": "//div[@class='con']/a/img/@abs:data-src"
+	},
+	"detail_rule": {
+		"play_url": "//li[@class^='col-md-1']/a",
+		"intro": "//p[@id='movie_info_intro_s']/text()",
+		"thumb": "//div[@class^='detail-pic']/img/@abs:src",
+		"items": "//ul[@class^='ulNumList']/li/a",
+		"attribute": ["//div[@class^='introTxt']/li[2]/allText()","//div[@class^='introTxt']/li[3]/allText()","//div[@class^='introTxt']/li[4]/allText()","//div[@class^='introTxt']/li[5]/allText()","//div[@class^='introTxt']/li[6]/allText()"]
+	},
+	"play_video":""
+}
