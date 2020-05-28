@@ -18,7 +18,7 @@
 	}],
 	"hint": "3.93版本更新通知:\n1.支持TikTok无水印视频获取\n2.修复部分手机抖音无水印视频显示问题",
 	"home_config": {
-		"hide": ["md5", "encrypt"],
+		"hide": [],
 		"ads": [{
 			"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1ge9ax2vdihj30j60j675q.jpg",
 			"adLink": "https://t.cn/A6wDWJC7",
