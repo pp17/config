@@ -6,6 +6,7 @@
     "gen3": "http://www.k2938.com/",
     "kemi": "https://9bo.tv/",
     "apps": "[{\"name\":\"桔子影视TV版\",\"size\":\"1.95M\",\"tag\":\"VIP资源免费看,破解神器\",\"thumb\":\"https://gitee.com/svo/config/raw/master/media/img/icon.png\",\"apk\":\"https://lovevideo.bj.bcebos.com/apk%2Fqmedia_tv.apk\"}]",
+    "ads": [{"name":"桔子影视TV版","size":"1.95M","tag":"VIP资源免费看,破解神器","thumb":"https://gitee.com/svo/config/raw/master/media/img/icon.png","apk":"https://lovevideo.bj.bcebos.com/apk%2Fqmedia_tv.apk"}],
     "downUrl": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
     "ddu": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
     "hint": "1.扩展搜索功能,增加更多来源",
