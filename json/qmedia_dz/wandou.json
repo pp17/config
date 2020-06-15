@@ -12,16 +12,16 @@
     "hint": "1.扩展搜索功能,增加更多来源",
 	"search_plug": [],
     "config": {
-        "root": "http://www.k2938.com/",
-        "type_format": "http://www.k2938.com/type/%s.html",
-        "page_format": "http://www.k2938.com/type/%s/%d.html",
-		"search_format": "http://www.k2938.com/search?wd=%s",
+        "root": "https://9bo.tv/",
+        "type_format": "https://9bo.tv/%s/index.html",
+        "page_format": "https://9bo.tv/type/%s/%d.html",
+		"search_format": "https://9bo.tv/search?wd=%s",
         "type": {
-            "电影": "1",
-            "电视剧": "2",
-            "综艺": "4",
-			"恐怖": "9",
-            "动漫": "7"
+            "电影": "dianying",
+            "电视剧": "dianshi",
+            "综艺": "qiyivip",
+			"伦理": "lunli",
+            "动漫": "donghua"
         },
 		"home_rule": {
             "section": "//div[@class='row']",
