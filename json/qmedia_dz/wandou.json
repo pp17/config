@@ -32,9 +32,9 @@
 			"list_img": "//div[@class='movie-item']/a/img/@src"
         },
         "list_rule": {
-            "title": "//img[@class='lazy']/a/@alt",
-            "link": "//img[@class='lazy']/a/@abs:href",
-            "img": "//img[@class='lazy']/a/img/@data-original"
+            "title": "//img[@class='lazy']/@alt",
+            "link": "//img[@class='lazy']/@abs:href",
+            "img": "//img[@class='lazy']/@data-original"
         },
 		"search_rule": {
             "title": "//div[@class='movie-item']/a/@title",
