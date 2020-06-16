@@ -10,7 +10,7 @@
     "downUrl": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
     "ddu": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
     "hint": "1.扩展搜索功能,增加更多来源",
-	"search_plug": [],
+	"search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s1.json"],
     "config": {
         "root": "http://www.k2938.com/",
         "type_format": "http://www.k2938.com/type/%s.html",
