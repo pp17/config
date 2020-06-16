@@ -46,7 +46,7 @@
             "intro": "//div[@class='cdes1']/allText()",
             "thumb": "//div[@class='img']/img/@src",
             "items": "//div[@id='stab_11']/ul/li/a",
-			"attribute": ["//table/tbody/tr[2]/td[1]/allText()","//table/tbody/tr[2]/td[2]/allText()","//table/tbody/tr[4]/td[1]/allText()","//table/tbody/tr[4]/td[2]/allText()","//table/tbody/tr[6]/td[1]/allText()","//table/tbody/tr[6]/td[2]/allText()","//table/tbody/tr[1]/td[1]/allText()","//table/tbody/tr[1]/td[2]/allText()","//table/tbody/tr[7]/td[1]/allText()","//table/tbody/tr[7]/td[2]/allText()"]
+			"attribute": ["//div[@class='info']/dl[1]/dt/allText()","//div[@class='info']/dl[1]/dd/allText()","//div[@class='info']/dl[2]/dt/allText()","//div[@class='info']/dl[2]/dd/allText()","//div[@class='info']/dl[4]/dt/allText()","//div[@class='info']/dl[4]/dd/allText()","//div[@class='info']/dl[6]/dt/allText()","//div[@class='info']/dl[6]/dd/allText()","//div[@class='info']/dl[7]/dt/allText()","//div[@class='info']/dl[7]/dt/allText()"]
         },
 		"play_video":""
     }
