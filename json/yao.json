@@ -7,10 +7,10 @@
     "ddu": "https://apk.meizitu.net/app/mzitu.apk",
     "hint": "1.扩展搜索功能,增加更多来源",
     "config": {
-        "root": "http://www.k2938.com/",
-        "type_format": "http://www.k2938.com/type/%s.html",
-        "page_format": "http://www.k2938.com/type/%s/%d.html",
-		"search_format": "http://www.k2938.com/search?wd=%s",
+        "root": "https://www.mzitu.com/",
+        "type_format": "https://www.mzitu.com/type/%s.html",
+        "page_format": "https://www.mzitu.com/type/%s/%d.html",
+		"search_format": "https://www.mzitu.com/search?wd=%s",
         "type": {
             "电影": "1",
             "电视剧": "2",
