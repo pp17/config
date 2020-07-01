@@ -24,7 +24,7 @@
 	},{
 		"name": "百万保险免费领取",
 		"tag": "国华人寿和华瑞保险联合甄选爱相随重疾保障",
-		"thumb": "",
+		"thumb": "https://gitee.com/svo/config/raw/master/media/img/aixiangsui.png",
 		"link": "https://m.huaruisales.com/act2/receive/seminarrisk/HRWX_HRP_PS6117?comid=10038003&comremark=dx005"
 	}],
 	"hint": "3.93版本更新通知:\n1.支持TikTok无水印视频获取\n2.修复部分手机抖音无水印视频显示问题",
