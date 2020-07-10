@@ -21,11 +21,6 @@
 		"tag": "VIP资源免费看,破解神器",
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
 		"link": "https://51video.github.io/"
-	},{
-		"name": "百万保险免费领取",
-		"tag": "国华人寿和华瑞保险联合甄选爱相随重疾保障",
-		"thumb": "https://gitee.com/svo/config/raw/master/media/img/aixiangsui.png",
-		"link": "https://m.huaruisales.com/act2/receive/seminarrisk/HRWX_HRP_PS6117?comid=10038003&comremark=dx005"
 	}],
 	"hint": "4.05版本更新通知:\n1.首页架构调整\n2.视频编辑完善及调整\n3.无水印视频获取功能完善\n4.修复16:9视频在屏幕录制时的问题",
 	"home_config": {
