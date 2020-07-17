@@ -37,9 +37,9 @@
             "img": "//li[@class='vbox']/a/@style"
         },
 		"search_rule": {
-            "title": "//div[@class='movie-item']/a/@title",
-            "link": "//div[@class='movie-item']/a/@abs:href",
-            "img": "//div[@class='movie-item']/a/img/@src"
+            "title": "//li[@class='vbox']/a/@title",
+            "link": "//li[@class='vbox']/a/@abs:href",
+            "img": "//li[@class='vbox']/a/@style"
         },
         "detail_rule": {
             "play_url": "//div[@class='btn']/a[1]/@abs:href",
