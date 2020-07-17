@@ -29,12 +29,12 @@
             "section_link": "//div[1]/a/@abs:href",
 			"list_title": "//li[@class='vbox']/a/@title",
             "list_link": "//li[@class='vbox']/a/@abs:href",
-			"list_img": "//li[@class='vbox']/a/img/@src"
+			"list_img": "//li[@class='vbox']/a/@style"
         },
         "list_rule": {
             "title": "//li[@class='vbox']/a/@title",
             "link": "//li[@class='vbox']/a/@abs:href",
-            "img": "//li[@class='vbox']/a/img/@src"
+            "img": "//li[@class='vbox']/a/@style"
         },
 		"search_rule": {
             "title": "//div[@class='movie-item']/a/@title",
@@ -46,7 +46,7 @@
             "intro": "//div[@class='tbox_js']/text()",
             "thumb": "//img[@class='img-thumbnail']/@src",
             "items": "//ul[@class^='list_block']/li/a",
-			"attribute": ["//table/tbody/tr[2]/td[1]/allText()","//table/tbody/tr[2]/td[2]/allText()","//table/tbody/tr[4]/td[1]/allText()","//table/tbody/tr[4]/td[2]/allText()","//table/tbody/tr[6]/td[1]/allText()","//table/tbody/tr[6]/td[2]/allText()","//table/tbody/tr[1]/td[1]/allText()","//table/tbody/tr[1]/td[2]/allText()","//table/tbody/tr[7]/td[1]/allText()","//table/tbody/tr[7]/td[2]/allText()"]
+			"attribute": ["//div[@class='data']/p[1]/allText()","//div[@class='data']/p[2]/allText()","//div[@class='data']/p[3]/allText()"]
         },
 		"play_video":""
     }
