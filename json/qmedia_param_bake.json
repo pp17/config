@@ -42,10 +42,10 @@
             "img": "//div[@class='movie-item']/a/img/@src"
         },
         "detail_rule": {
-            "play_url": "//div[@class='online-button']/a/@abs:href",
+            "play_url": "//div[@class='btn']/a[1]/@abs:href",
             "intro": "//div[@class='tbox_js']/text()",
             "thumb": "//img[@class='img-thumbnail']/@src",
-            "items": "//ul[@class='list_block show']/li/a",
+            "items": "//ul[@class^='list_block']/li/a",
 			"attribute": ["//table/tbody/tr[2]/td[1]/allText()","//table/tbody/tr[2]/td[2]/allText()","//table/tbody/tr[4]/td[1]/allText()","//table/tbody/tr[4]/td[2]/allText()","//table/tbody/tr[6]/td[1]/allText()","//table/tbody/tr[6]/td[2]/allText()","//table/tbody/tr[1]/td[1]/allText()","//table/tbody/tr[1]/td[2]/allText()","//table/tbody/tr[7]/td[1]/allText()","//table/tbody/tr[7]/td[2]/allText()"]
         },
 		"play_video":""
