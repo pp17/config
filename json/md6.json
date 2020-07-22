@@ -1,7 +1,7 @@
 {
 	"maxV": 202007140,
 	"forceV": 391,
-	"downUrl": "https://lovevideo.bj.bcebos.com/apk%2FMD5.apk",
+	"downUrl": "http://www.apk.anzhi.com/data5/apk/202007/22/3441b81b0d4633645d3fb7daa48866d5_88960600.apk",
 	"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1ge9ax2vdihj30j60j675q.jpg",
 	"adLink": "https://t.cn/A6wDWJC7",
 	"apps": [{
@@ -22,7 +22,7 @@
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
 		"link": "https://51video.github.io/"
 	}],
-	"hint": "4.07版本更新通知:\n1.增加修改视频封面功能\n2.视频编辑完善\n3.增加批量修改MD5功能\n4.性能优化",
+	"hint": "4.09版本更新通知:\n1.提升智能标签扫描速度\n2.优化无水印视频功能\n3.优化解析视频功能",
 	"home_config": {
 		"hide": [],
 		"ads": [{
