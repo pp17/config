@@ -48,6 +48,7 @@
             "items": "//ul[@class^='list_block']/li/a",
 			"attribute": ["//div[@class='data']/p[1]/allText()","//div[@class='data']/p[2]/allText()","//div[@class='data']/p[3]/allText()"]
         },
-		"play_video":""
+		"play_video":"",
+        "isPageFinish":true
     }
 }
