@@ -48,7 +48,7 @@
             "items": "//ul[@class^='list_block']/li/a",
 			"attribute": ["//div[@class='data']/p[1]/allText()","//div[@class='data']/p[2]/allText()","//div[@class='data']/p[3]/allText()"]
         },
-		"play_video":"regex:(\"https.*79da\\.com\\?.*\");1",
+		"play_video":"//iframe/@src",
         "isPageFinish":true
     }
 }
