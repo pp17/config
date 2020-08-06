@@ -1,9 +1,9 @@
 {
-    "maxV": 202007070,
+    "maxV": 202008060,
     "forceV": 500,
 	"downUrl": "http://www.apk.anzhi.com/data5/apk/202007/22/3441b81b0d4633645d3fb7daa48866d5_88960600.apk",
     "adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1ge9ax2vdihj30j60j675q.jpg",
     "adLink": "https://t.cn/A6wDWJC7",
     "apps":[{"name":"桔子影视","tag":"庆余年等VIP资源免费看,可投屏到电视","size":"3.3M","thumb":"https://coding.net/u/duweibn/p/test/git/raw/master/app/icon.png","link":"http://lovevideo.bj.bcebos.com/apk%2Fqmedia.apk"}],
-    "hint": "4.09版本更新通知:\n1.首页架构调整\n2.视频编辑完善及调整\n3.无水印视频获取功能完善\n4.修复16:9视频在屏幕录制时的问题"
+    "hint": "4.10版本更新通知:\n1.首页架构调整\n2.视频编辑完善及调整\n3.无水印视频获取功能完善\n4.修复16:9视频在屏幕录制时的问题"
 }
