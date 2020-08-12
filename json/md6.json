@@ -1,7 +1,7 @@
 {
-	"maxV": 202008060,
+	"maxV": 202008111,
 	"forceV": 391,
-	"downUrl": "https://lovevideo.bj.bcebos.com/apk%2FMD5.apk",
+	"downUrl": "http://www.apk.anzhi.com/data5/apk/202008/11/47e1431f081b9a7e0f84ca52613f6169_36192700.apk",
 	"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1ge9ax2vdihj30j60j675q.jpg",
 	"adLink": "https://t.cn/A6wDWJC7",
 	"apps": [{
@@ -28,7 +28,7 @@
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/watermark_logo.png",
 		"link": "https://lovevideo.bj.bcebos.com/apk%2Fwatermark.apk"
 	}],
-	"hint": "4.10版本更新通知:\n1.增加爬取网站视频链接功能",
+	"hint": "4.40版本更新通知:\n1.增加爬取网站视频链接功能\n2.优化屏幕录制功能\n3.优化解析视频功能",
 	"home_config": {
 		"hide": [],
 		"ads": [{
