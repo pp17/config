@@ -2,8 +2,7 @@
 	"maxV": 202008111,
 	"forceV": 391,
 	"downUrl": "http://www.apk.anzhi.com/data5/apk/202008/11/47e1431f081b9a7e0f84ca52613f6169_36192700.apk",
-	"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1ge9ax2vdihj30j60j675q.jpg",
-	"adLink": "https://t.cn/A6wDWJC7",
+    "search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s1.json"],
 	"apps": [{
 		"name": "妖色",
 		"tag": "美女私房照-大饱眼福",
