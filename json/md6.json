@@ -33,7 +33,7 @@
 		"hide": [],
 		"ads": [{
 			"adImgUrl": "https://gitee.com/svo/config/raw/master/media/img/ad2.jpg",
-			"adLink": "weixin",
+			"adLink": "http://svo.gitee.io/svo/2020/08/13/ad2_link/",
 			"alpha": 255,
 			"adTxt": "显示内容"
 		},{
