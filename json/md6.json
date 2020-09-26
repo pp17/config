@@ -34,6 +34,7 @@
 		"ads": [{
 			"adImgUrl": "https://gitee.com/svo/config/raw/master/media/img/ad2.png",
 			"adLink": "weixin",
+			"alpha": 255,
 			"adTxt": "显示内容"
 		},{
 			"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1gf8arcd8a4j30fk09d75k.jpg",
