@@ -28,7 +28,7 @@
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/watermark_logo.png",
 		"link": "https://lovevideo.bj.bcebos.com/apk%2Fwatermark.apk"
 	}],
-	"hint": "5.1.0版本更新通知:\n1.增加m3u8视频下载功能\n2.增加爬虫功能\n3.调整视频解析为嗅探者",
+	"hint": "5.1.0版本更新通知:\n1.增加在线影视观看功能，海量大片免费看\n2.增加无线投屏功能",
 	"home_config": {
 		"hide": [],
 		"ads": [{
