@@ -5,6 +5,12 @@
 	"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1ge9ax2vdihj30j60j675q.jpg",
 	"adLink": "https://t.cn/A6wDWJC7",
 	"apps": [{
+		"name": "51投屏",
+		"tag": "无线投屏-海量影视免费看",
+		"size": "5.85M",
+		"thumb": "https://svo.gitee.io/index_files/dlna_logo.png",
+		"link": "https://lovevideo.bj.bcebos.com/apk%2Fdlna.apk"
+	},{
 		"name": "妖色",
 		"tag": "美女私房照-大饱眼福",
 		"size": "4.04M",
