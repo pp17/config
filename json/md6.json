@@ -1,6 +1,6 @@
 {
-	"maxV": 202009130,
-	"forceV": 391,
+	"maxV": 202009280,
+	"forceV": 202008180,
 	"downUrl": "http://www.apk.anzhi.com/data5/apk/202009/29/e7533ffbf6d0d15c0edabfc90930bdec_65528000.apk",
 	"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1ge9ax2vdihj30j60j675q.jpg",
 	"adLink": "https://t.cn/A6wDWJC7",
@@ -34,7 +34,7 @@
 		"ads": [{
 			"adImgUrl": "https://gitee.com/svo/config/raw/master/media/img/ad2.jpg",
 			"adLink": "http://svo.gitee.io/svo/2020/08/13/ad2_link/",
-			"alpha": 255,
+			"alpha": 199,
 			"adTxt": "显示内容"
 		},{
 			"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1gf8arcd8a4j30fk09d75k.jpg",
