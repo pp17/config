@@ -1,5 +1,5 @@
 {
-	"maxV": 202009280,
+	"maxV": 202010120,
 	"forceV": 202008180,
 	"downUrl": "http://www.apk.anzhi.com/data5/apk/202010/15/fa66b9d55fcfc51d6d1cac3fa790cc19_82559400.apk",
 	"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1ge9ax2vdihj30j60j675q.jpg",
@@ -28,7 +28,7 @@
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
 		"link": "https://51video.github.io/"
 	}],
-	"hint": "5.1.0版本更新通知:\n1.增加在线影视观看功能，海量大片免费看\n2.增加无线投屏功能",
+	"hint": "5.3.0版本更新通知:\n1.增加视频复原/视频增大功能\n2.视频处理增加对h265/hevc编解码的支持",
 	"home_config": {
 		"hide": [],
 		"ads": [{
