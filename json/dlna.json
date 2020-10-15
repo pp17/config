@@ -1,5 +1,5 @@
 {
-	"maxV": 202009230,
+	"maxV": 202009270,
 	"forceV": 391,
 	"downUrl": "http://www.apk.anzhi.com/data5/apk/202007/14/e0691a977cb5d6a9ecaecca430439104_12935700.apk",
 	"apps": [{
@@ -20,7 +20,7 @@
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
 		"link": "https://51video.github.io/"
 	}],
-	"hint": "3.93版本更新通知:\n1.支持TikTok无水印视频获取\n2.修复部分手机抖音无水印视频显示问题",
+	"hint": "1.0.1版本更新通知:\n1.增加在线直播投屏功能\n2.增加影视搜索、观看及投屏功能",
 	"home_config": {
 		"hide": [],
 		"ads": [{
