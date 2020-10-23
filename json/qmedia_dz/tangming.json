@@ -35,10 +35,10 @@
             "link": "//a[@class^='fed-list-pics']/@abs:href",
             "img": "//a[@class^='fed-list-pics']/@data-original"
         },
-		"search_rule": {
-            "title": "//div[@class='movie-item']/a/@title",
-            "link": "//div[@class='movie-item']/a/@abs:href",
-            "img": "//div[@class='movie-item']/a/img/@src"
+		"list_rule": {
+            "title": "//a[@class^='fed-list-title']/text()",
+            "link": "//a[@class^='fed-list-pics']/@abs:href",
+            "img": "//a[@class^='fed-list-pics']/@data-original"
         },
         "detail_rule": {
             "play_url": "//div[@class='online-button']/a/@abs:href",
