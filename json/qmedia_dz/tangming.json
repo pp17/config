@@ -1,0 +1,53 @@
+{
+    "maxVersion": 202005190,
+    "forceV": 201912120,
+    "gen": "http://www.meiaiya.com/",
+    "gen2": "http://www.aiaiaike.com/",
+    "gen3": "http://www.k2938.com/",
+    "kemi": "https://9bo.tv/",
+    "apps": "[{\"name\":\"桔子影视TV版\",\"size\":\"1.95M\",\"tag\":\"VIP资源免费看,破解神器\",\"thumb\":\"https://gitee.com/svo/config/raw/master/media/img/icon.png\",\"apk\":\"https://lovevideo.bj.bcebos.com/apk%2Fqmedia_tv.apk\"}]",
+    "ads": [{"name":"桔子影视TV版","type":"html","tag":"VIP资源免费看,破解神器","thumb":"https://gitee.com/svo/config/raw/master/media/img/icon.png","link":"https://51video.github.io"}],
+    "downUrl": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
+    "ddu": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
+    "hint": "1.扩展搜索功能,增加更多来源",
+	"search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s1.json"],
+    "config": {
+        "root": "http://wx.79da.com/",
+        "type_format": "http://wx.79da.com/type/%s.html",
+        "page_format": "http://wx.79da.com/type/%s/%d.html",
+		"search_format": "http://wx.79da.com/search?wd=%s",
+        "type": {
+            "电影": "1",
+            "电视剧": "2",
+            "综艺": "4",
+			"恐怖": "9",
+            "动漫": "7"
+        },
+		"home_rule": {
+            "section": "//div[@class='row']",
+            "section_title": "//div[1]/h3/allText()",
+            "section_link": "//div[1]/span/a/@abs:href",
+			"list_title": "//div[@class='movie-item']/a/@title",
+            "list_link": "//div[@class='movie-item']/a/@abs:href",
+			"list_img": "//div[@class='movie-item']/a/img/@src"
+        },
+        "list_rule": {
+            "title": "//div[@class='movie-item']/a/@title",
+            "link": "//div[@class='movie-item']/a/@abs:href",
+            "img": "//div[@class='movie-item']/a/img/@src"
+        },
+		"search_rule": {
+            "title": "//div[@class='movie-item']/a/@title",
+            "link": "//div[@class='movie-item']/a/@abs:href",
+            "img": "//div[@class='movie-item']/a/img/@src"
+        },
+        "detail_rule": {
+            "play_url": "//div[@class='online-button']/a/@abs:href",
+            "intro": "//p[@class='summary']/text()",
+            "thumb": "//img[@class='img-thumbnail']/@src",
+            "items": "//li[@class='dslist-group-item']/a",
+			"attribute": ["//table/tbody/tr[2]/td[1]/allText()","//table/tbody/tr[2]/td[2]/allText()","//table/tbody/tr[4]/td[1]/allText()","//table/tbody/tr[4]/td[2]/allText()","//table/tbody/tr[6]/td[1]/allText()","//table/tbody/tr[6]/td[2]/allText()","//table/tbody/tr[1]/td[1]/allText()","//table/tbody/tr[1]/td[2]/allText()","//table/tbody/tr[7]/td[1]/allText()","//table/tbody/tr[7]/td[2]/allText()"]
+        },
+		"play_video":""
+    }
+}
