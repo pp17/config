@@ -13,7 +13,7 @@
 	"search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s1.json"],
     "config": {
         "root": "http://www.808yingyuan.com/",
-        "type_format": "http://www.808yingyuan.com/vodtype/%d.html",
+        "type_format": "http://www.808yingyuan.com/vodtype/%s.html",
         "page_format": "http://wx.79da.com/type/%s/%d.html",
 		"search_format": "http://www.808yingyuan.com/vodsearch/-------------.html?wd=%s",
         "type": {
