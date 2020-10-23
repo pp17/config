@@ -12,16 +12,15 @@
     "hint": "1.扩展搜索功能,增加更多来源",
 	"search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s1.json"],
     "config": {
-        "root": "http://wx.79da.com/",
-        "type_format": "http://wx.79da.com/type/%s.html",
+        "root": "http://www.808yingyuan.com/",
+        "type_format": "http://www.808yingyuan.com/vodtype/%d.html",
         "page_format": "http://wx.79da.com/type/%s/%d.html",
-		"search_format": "http://wx.79da.com/search?wd=%s",
+		"search_format": "http://www.808yingyuan.com/vodsearch/-------------.html?wd=%s",
         "type": {
             "电影": "1",
             "电视剧": "2",
-            "综艺": "4",
-			"恐怖": "9",
-            "动漫": "7"
+            "综艺": "3",
+            "动漫": "4"
         },
 		"home_rule": {
             "section": "//div[@class='row']",
