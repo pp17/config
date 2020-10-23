@@ -31,7 +31,7 @@
 			"list_img": "//div[@class='movie-item']/a/img/@src"
         },
         "list_rule": {
-            "title": "//a[@class^='fed-list-pics']/span[3]/text()",
+            "title": "//a[@class^='fed-list-title']/text()",
             "link": "//a[@class^='fed-list-pics']/@abs:href",
             "img": "//a[@class^='fed-list-pics']/@data-original"
         },
