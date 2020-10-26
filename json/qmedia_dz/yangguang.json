@@ -6,7 +6,12 @@
     "gen3": "http://www.k2938.com/",
     "kemi": "https://9bo.tv/",
     "apps": "[{\"name\":\"桔子影视TV版\",\"size\":\"1.95M\",\"tag\":\"VIP资源免费看,破解神器\",\"thumb\":\"https://gitee.com/svo/config/raw/master/media/img/icon.png\",\"apk\":\"https://lovevideo.bj.bcebos.com/apk%2Fqmedia_tv.apk\"}]",
-    "ads": [{"name":"赚赏金","type":"html","tag":"手机做任务赚赏金平台注册（悬赏金）","thumb":"https://gitee.com/svo/config/raw/master/media/img/icon.png","link":"https://w.url.cn/s/AUFoWz0"},{"name":"本地吃喝玩乐住天天5折平台","type":"html","tag":"本地吃喝玩乐住天天5折平台","thumb":"https://gitee.com/svo/config/raw/master/media/img/icon.png","link":"http://t.yunkezan.com/5rT5INxBxi"}],
+    "ads": [{"name":"赚赏金","type":"html","tag":"手机做任务赚赏金平台注册（悬赏金）","thumb":"https://gitee.com/svo/config/raw/master/media/img/icon.png","link":"https://w.url.cn/s/AUFoWz0"}
+	,{"name":"绝版软件免费下载群加入","type":"html","tag":"绝版软件免费下载群加入","thumb":"https://gitee.com/svo/config/raw/master/media/img/icon.png","link":"https://h5.clewm.net/?url=qr61.cn%2Fo5egjn%2FqVudoIf&hasredirect=1"}
+	,{"name":"免费拥有50TB空间网盘城通网盘注册下载","type":"html","tag":"免费拥有50TB空间网盘城通网盘注册下载","thumb":"https://gitee.com/svo/config/raw/master/media/img/icon.png","link":"https://www.ctfile.com/linker/19922950"}
+	,{"name":"饿了么每天可领最高36元红包","type":"html","tag":"饿了么每天可领最高36元红包","thumb":"https://gitee.com/svo/config/raw/master/media/img/icon.png","link":"https://h5.clewm.net/?url=qr61.cn%2Fo5egjn%2FqwtflJy&hasredirect=1"}
+	,{"name":"全国电影票6折起优惠购买","type":"html","tag":"全国电影票6折起优惠购买","thumb":"https://gitee.com/svo/config/raw/master/media/img/icon.png","link":"https://h5.clewm.net/?url=qr61.cn%2Fo5egjn%2FqYp9hcF&hasredirect=1"}
+	],
     "downUrl": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
     "ddu": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
     "hint": "1.扩展搜索功能,增加更多来源",
