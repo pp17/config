@@ -7,12 +7,5 @@
 		"link": "//div[@class='search_liebiao_left']/ul/li/a/@abs:href",
 		"img": "//div[@class='search_liebiao_left']/ul/li/a/img/@abs:src"
 	},
-	"detail_rule": {
-		"play_url": "//li[@class^='col-md-1']/a",
-		"intro": "//div[@class='tjuqing']/text()",
-		"thumb": "//div[@class^='detail-pic']/img/@abs:src",
-		"items": "//div[@class^='video_list']/a",
-		"attribute": ["//div[@class^='info']/dl[1]/dt/allText()","//div[@class^='info']/dl[1]/dd/allText()","//div[@class^='info']/dl[2]/dt/allText()","//div[@class^='info']/dl[2]/dd/allText()","//div[@class^='info']/dl[4]/dt/allText()","//div[@class^='info']/dl[4]/dd/allText()","//div[@class^='info']/dl[5]/dt/allText()","//div[@class^='info']/dl[5]/dd/allText()","//div[@class^='info']/dl[6]/dt/allText()","//div[@class^='info']/dl[6]/dd/allText()"]
-	},
 	"play_video":"regex:url.{2,8}(http.+?\\.m3u8);1"
 }
