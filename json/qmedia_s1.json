@@ -1,10 +1,11 @@
 {
-	"root": "http://huanjugu.com/",
-	"search_format": "http://huanjugu.com/index.php/vod/search.html?wd=%s",
+	"root": "http://www.yakuhd.com",
+	"search_format": "http://www.yakuhd.com/index.php/Search?type=v&k=%s&think_html_token=",
+	"isPost": true,
 	"search_rule": {
-		"title": "//ul[@class='show-list']/li/a/img/@alt",
-		"link": "//ul[@class='show-list']/li/a/@abs:href",
-		"img": "//ul[@class='show-list']/li/a/img/@abs:src"
+		"title": "//div[@class='search_liebiao_left']/ul/li/a[2]/allText()",
+		"link": "//div[@class='search_liebiao_left']/ul/li/a/@abs:href",
+		"img": "//div[@class='search_liebiao_left']/ul/li/a/img/@abs:src"
 	},
 	"detail_rule": {
 		"play_url": "//li[@class^='col-md-1']/a",
