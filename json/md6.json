@@ -32,11 +32,6 @@
 	"home_config": {
 		"hide": [],
 		"ads": [{
-			"adImgUrl": "https://gitee.com/svo/config/raw/master/media/img/ad2.jpg",
-			"adLink": "http://svo.gitee.io/svo/2020/08/13/ad2_link/",
-			"alpha": 199,
-			"adTxt": "显示内容"
-		},{
 			"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1gf8arcd8a4j30fk09d75k.jpg",
 			"adLink": "https://w.url.cn/s/AM4HBXs",
 			"adTxt": "显示内容"
