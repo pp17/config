@@ -1,6 +1,6 @@
 {
 	"root": "http://www.yakuhd.com",
-	"search_format": "http://www.yakuhd.com/index.php/Search?type=v&k=%s&think_html_token=",
+	"search_format": "http://www.yakuhd.com/index.php/Search?type=v&k=%s",
 	"isPost": true,
 	"search_rule": {
 		"title": "//div[@class='search_liebiao_left']/ul/li/a[2]/allText()",
