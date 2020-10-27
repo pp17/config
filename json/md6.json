@@ -1,7 +1,7 @@
 {
-	"maxV": 202010120,
+	"maxV": 202010270,
 	"forceV": 202008180,
-	"downUrl": "http://www.apk.anzhi.com/data5/apk/202010/15/fa66b9d55fcfc51d6d1cac3fa790cc19_82559400.apk",
+	"downUrl": "http://www.apk.anzhi.com/data5/apk/202010/27/7ddd926588860a4020c5c7675c07c05e_07843200.apk",
 	"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1ge9ax2vdihj30j60j675q.jpg",
 	"adLink": "https://t.cn/A6wDWJC7",
 	"apps": [{
@@ -28,7 +28,7 @@
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
 		"link": "https://51video.github.io/"
 	}],
-	"hint": "5.3.0版本更新通知:\n1.增加视频复原/视频增大功能\n2.视频处理增加对h265/hevc编解码的支持\n3.优化及修复已知问题",
+	"hint": "5.3.7版本更新通知:\n1.增加一键搬运功能\n2.加快视频处理速度，升级视频库\n3.修改部分音频md5问题\n4.优化及首页调整",
 	"home_config": {
 		"hide": [],
 		"ads": [{
