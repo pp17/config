@@ -1,5 +1,5 @@
 {
-	"maxV": 202010190,
+	"maxV": 202010280,
 	"forceV": 202008180,
 	"downUrl": "https://lovevideo.bj.bcebos.com/apk/MD5.apk",
 	"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1ge9ax2vdihj30j60j675q.jpg",
@@ -28,7 +28,7 @@
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
 		"link": "https://51video.github.io/"
 	}],
-	"hint": "5.3.7版本更新通知:\n1.增加一键搬运功能\n2.加快视频处理速度，升级视频库\n3.修改部分音频md5问题\n4.优化及首页调整",
+	"hint": "5.4.0版本更新通知:\n1.增加一键搬运功能\n2.修改部分音频md5问题\n3.优化及首页调整",
 	"home_config": {
 		"hide": [],
 		"ads": [{
