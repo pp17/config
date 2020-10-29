@@ -1,9 +1,9 @@
 {
-    "maxV": 202009230,
+    "maxV": 202010280,
     "forceV": 500,
-	"downUrl": "http://www.apk.anzhi.com/data5/apk/202009/24/d8140ec286db13a2d59578a80743dcb3_73701900.apk",
+	"downUrl": "http://www.apk.anzhi.com/data5/apk/202010/28/0e3cd5aca34a69b3196ae6b0fb8f1cc6_96611800.apk",
     "adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1ge9ax2vdihj30j60j675q.jpg",
     "adLink": "https://t.cn/A6wDWJC7",
     "apps":[{"name":"桔子影视","tag":"庆余年等VIP资源免费看,可投屏到电视","size":"3.3M","thumb":"https://coding.net/u/duweibn/p/test/git/raw/master/app/icon.png","link":"http://lovevideo.bj.bcebos.com/apk%2Fqmedia.apk"}],
-    "hint": "5.0.2版本更新通知:\n1.首页架构调整\n2.视频编辑完善及调整\n3.增加爬虫功能\n4.增加m3u8视频下载功能"
+    "hint": "5.4.0版本更新通知:\n1.首页架构调整\n2.视频编辑完善及调整\n3.增加一键搬运功能"
 }
