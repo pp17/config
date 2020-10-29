@@ -37,6 +37,7 @@
 			"adTxt": "显示内容"
 		},{
 			"adImgUrl": "https://gitee.com/svo/config/raw/master/media/img/yunshanfu.jpg",
+            "alpha":255,
 			"adLink": "https://wallet.95516.com/s/wl/webV3/activity/vInvite/html/snsIndex.html?r=b8b27880f6625b71216da6d684c7daef&code=ctoc00000000089&channel=7",
 			"adTxt": "显示内容"
 		}]
