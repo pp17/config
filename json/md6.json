@@ -29,7 +29,7 @@
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
 		"link": "https://51video.github.io/"
 	}],
-	"hint": "5.4.0版本更新通知:\n1.增加一键搬运功能\n2.修改部分音频md5问题\n3.优化及首页调整",
+	"hint": "5.4.1版本限时升级:\n1.一键搬运功能完善\n2.m3u8视频下载完善\n3.优化及部分调整",
 	"home_config": {
 		"hide": [],
 		"ads": [{
