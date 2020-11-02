@@ -32,10 +32,6 @@
 	"hint": "5.4.2版本升级:\n1.一键搬运功能完善\n2.m3u8视频下载完善\n3.优化及部分调整",
 	"home_config": {
 		"hide": [],
-		"ads": [{
-			"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1gf8arcd8a4j30fk09d75k.jpg",
-			"adLink": "https://w.url.cn/s/AM4HBXs",
-			"adTxt": "刷抖音"
-		}]
+		"ads": []
 	}
 }
