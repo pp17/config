@@ -1,7 +1,7 @@
 {
 	"maxV": 202010280,
 	"forceV": 202008180,
-	"downUrl": "http://www.apk.anzhi.com/data5/apk/202010/28/0e3cd5aca34a69b3196ae6b0fb8f1cc6_96611800.apk",
+	"downUrl": "https://lovevideo.bj.bcebos.com/apk/MD5.apk",
 	"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1ge9ax2vdihj30j60j675q.jpg",
     "hints":{"onekeyHint": "1.不要选择影视剧，涉及版权.\n2.为避免人脸识别判重，请勾选左右反转或者换个视频","buy1":"批量有优惠,3个9折,5个8折,10个68折;代理 右上角"},
     "wxs":{"ak001":"duweibn","ak002":"18691579751"},
@@ -29,7 +29,7 @@
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
 		"link": "https://51video.github.io/"
 	}],
-	"hint": "5.4.0版本升级:\n1.一键搬运功能完善\n2.m3u8视频下载完善\n3.优化及部分调整",
+	"hint": "5.4.2版本升级:\n1.一键搬运功能完善\n2.m3u8视频下载完善\n3.优化及部分调整",
 	"home_config": {
 		"hide": [],
 		"ads": [{
