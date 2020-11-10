@@ -29,7 +29,7 @@
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
 		"link": "https://51video.github.io/"
 	}],
-	"hint": "5.4.5版本限时升级:\n1.增加西瓜视频解析下载功能\n2.m3u8视频下载完善\n3.改进视频制作功能\n4.优化选择文件功能",
+	"hint": "5.4.5版本限时升级:\n1.增加西瓜视频解析下载功能\n2.m3u8视频下载完善\n3.改进视频制作功能\n4.优化选择文件功能\n5.增加图片霓虹效果",
 	"home_config": {
 		"hide": [],
 		"ads": []
