@@ -1,5 +1,5 @@
 {
-	"maxV": 202011130,
+	"maxV": 202011132,
 	"forceV": 202008180,
 	"downUrl": "https://lovevideo.bj.bcebos.com/apk/MD5.apk",
 	"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1ge9ax2vdihj30j60j675q.jpg",
@@ -29,7 +29,7 @@
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
 		"link": "https://51video.github.io/"
 	}],
-	"hint": "5.4.7版本升级:\n1.增加西瓜视频解析下载功能\n2.一键搬运优化\n3.改进视频制作功能\n4.优化选择文件功能\n5.增加图片霓虹效果",
+	"hint": "5.4.9版本升级:\n1.全面支持主流平台无水印视频链接解析\n2.优化选择文件功能\n",
 	"home_config": {
 		"hide": [],
 		"ads": []
