@@ -33,7 +33,7 @@
         "list_rule": {
             "title": "//tbody[@id='data_list']/a[1]/allText()",
             "link": "//tbody[@id='data_list']/a[1]/@abs:href",
-            "img": ""
+            "img": "//tbody[@id='data_list']/a[1]/@abs:href"
         },
 		"search_rule": {
             "title": "//li[@class='vbox']/a/@title",
