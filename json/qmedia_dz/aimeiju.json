@@ -33,7 +33,10 @@
         "list_rule": {
             "title": "//tbody[@id='data_list']/tr/td[1]/a/allText()",
             "link": "//tbody[@id='data_list']/tr/td[1]/a/@abs:href",
-            "img": "//tbody[@id='data_list']/tr/td[1]/a/@abs:href"
+            "info1": "//tbody[@id='data_list']/tr/td[2]/allText()",
+            "info2": "//tbody[@id='data_list']/tr/td[3]/allText()",
+            "info3": "//tbody[@id='data_list']/tr/td[4]/allText()",
+            "info4": "//tbody[@id='data_list']/tr/td[6]/allText()"
         },
 		"search_rule": {
             "title": "//li[@class='vbox']/a/@title",
