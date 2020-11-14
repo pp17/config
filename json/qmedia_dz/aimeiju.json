@@ -48,7 +48,7 @@
             "intro": "//div[@class='movievod']/p[2]/allText()",
             "thumb": "//div[@class='videoPic']/img/@src",
             "items": "//div[@class='movievod']/ul/li/input/@value",
-			"attribute": ["//div[@class='videoDetail']/li[3]/allText()","//div[@class='videoDetail']/li[4]/allText()","//div[@class='videoDetail']/li[5]/allText()"]
+			"attribute": ["//div[@class='videoDetail']/li[3]/allText()","//div[@class='videoDetail']/li[4]/allText()","//div[@class='videoDetail']/li[5]/allText()","//div[@class='videoDetail']/li[7]/allText()"]
         },
 		"play_video":""
     }
