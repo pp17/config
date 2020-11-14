@@ -12,16 +12,15 @@
     "hint": "1.完善播放历史功能\n2.完善视频解析",
 	"search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s3.json"],
     "config": {
-        "root": "http://www.yc2050.com/",
-        "type_format": "http://www.yc2050.com/type/%s.html",
-        "page_format": "http://www.yc2050.com/type/%s/%d.html",
-		"search_format": "http://www.yc2050.com/search?wd=%s",
+        "root": "http://bajiezy.cc/",
+        "type_format": "http://bajiezy.cc/?m=vod-type-id-%s.html",
+        "page_format": "http://bajiezy.cc/?m=vod-type-id-%s-pg-%d.html",
+		"search_format": "http://bajiezy.cc/index.php?m=vod-search&wd=%s",
         "type": {
             "电影": "1",
             "电视剧": "2",
-            "综艺": "4",
-			"恐怖": "9",
-            "动漫": "7"
+            "综艺": "3",
+            "动漫": "4"
         },
 		"home_rule": {
             "section": "//div[@class='tbox']",
@@ -32,9 +31,9 @@
 			"list_img": "//li[@class='vbox']/a/@style"
         },
         "list_rule": {
-            "title": "//li[@class='vbox']/a/@title",
-            "link": "//li[@class='vbox']/a/@abs:href",
-            "img": "//li[@class='vbox']/a/@style"
+            "title": "//tbody[@id='data_list']/a[1]/allText()",
+            "link": "//tbody[@id='data_list']/a[1]/@abs:href",
+            "img": ""
         },
 		"search_rule": {
             "title": "//li[@class='vbox']/a/@title",
