@@ -9,13 +9,13 @@
     "ads": [{"name":"妖色","size":"4.04M","tag":"美女私房照","thumb":"https://gitee.com/svo/config/raw/master/media/img/yaose.png","apk":"https://lovevideo.bj.bcebos.com/apk%2Fyaose.apk"},{"name":"桔子影视TV版","type":"html","tag":"VIP资源免费看,破解神器","thumb":"https://gitee.com/svo/config/raw/master/media/img/icon.png","link":"https://51video.github.io/"}],
     "downUrl": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
     "ddu": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
-    "hint": "1.修改播放问题",
-	"search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s1.json"],
+    "hint": "1.完善播放历史功能\n2.完善视频解析",
+	"search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s3.json"],
     "config": {
-        "root": "http://www.biqiaqia.com/",
-        "type_format": "http://www.biqiaqia.com/type/%s.html",
-        "page_format": "http://www.biqiaqia.com/type/%s/%d.html",
-		"search_format": "http://www.biqiaqia.com/search?wd=%s",
+        "root": "http://www.yc2050.com/",
+        "type_format": "http://www.yc2050.com/type/%s.html",
+        "page_format": "http://www.yc2050.com/type/%s/%d.html",
+		"search_format": "http://www.yc2050.com/search?wd=%s",
         "type": {
             "电影": "1",
             "电视剧": "2",
@@ -24,29 +24,29 @@
             "动漫": "7"
         },
 		"home_rule": {
-            "section": "//div[@class='row']",
+            "section": "//div[@class='tbox']",
             "section_title": "//div[1]/h3/allText()",
-            "section_link": "//div[1]/span/a/@abs:href",
-			"list_title": "//div[@class='movie-item']/a/@title",
-            "list_link": "//div[@class='movie-item']/a/@abs:href",
-			"list_img": "//div[@class='movie-item']/a/img/@src"
+            "section_link": "//div[1]/a/@abs:href",
+			"list_title": "//li[@class='vbox']/a/@title",
+            "list_link": "//li[@class='vbox']/a/@abs:href",
+			"list_img": "//li[@class='vbox']/a/@style"
         },
         "list_rule": {
-            "title": "//div[@class='movie-item']/a/@title",
-            "link": "//div[@class='movie-item']/a/@abs:href",
-            "img": "//div[@class='movie-item']/a/img/@src"
+            "title": "//li[@class='vbox']/a/@title",
+            "link": "//li[@class='vbox']/a/@abs:href",
+            "img": "//li[@class='vbox']/a/@style"
         },
 		"search_rule": {
-            "title": "//div[@class='movie-item']/a/@title",
-            "link": "//div[@class='movie-item']/a/@abs:href",
-            "img": "//div[@class='movie-item']/a/img/@src"
+            "title": "//li[@class='vbox']/a/@title",
+            "link": "//li[@class='vbox']/a/@abs:href",
+            "img": "//li[@class='vbox']/a/@style"
         },
         "detail_rule": {
-            "play_url": "//div[@class='online-button']/a/@abs:href",
-            "intro": "//p[@class='summary']/text()",
+            "play_url": "//div[@class='btn']/a[1]/@abs:href",
+            "intro": "//div[@class='tbox_js']/text()",
             "thumb": "//img[@class='img-thumbnail']/@src",
-            "items": "//li[@class='dslist-group-item']/a",
-			"attribute": ["//table/tbody/tr[2]/td[1]/allText()","//table/tbody/tr[2]/td[2]/allText()","//table/tbody/tr[4]/td[1]/allText()","//table/tbody/tr[4]/td[2]/allText()","//table/tbody/tr[6]/td[1]/allText()","//table/tbody/tr[6]/td[2]/allText()","//table/tbody/tr[1]/td[1]/allText()","//table/tbody/tr[1]/td[2]/allText()","//table/tbody/tr[7]/td[1]/allText()","//table/tbody/tr[7]/td[2]/allText()"]
+            "items": "//ul[@class^='list_block']/li/a",
+			"attribute": ["//div[@class='data']/p[1]/allText()","//div[@class='data']/p[2]/allText()","//div[@class='data']/p[3]/allText()"]
         },
 		"play_video":""
     }
