@@ -44,7 +44,7 @@
             "play_url": "//div[@class='btn']/a[1]/@abs:href",
             "intro": "//div[@class='movievod']/p[2]/allText()",
             "thumb": "//div[@class='videoPic']/img/@src",
-            "items": "//div[@class='movievod']/ul/li/text()",
+            "items": "//div[@class='movievod']/ul/li/input/@value",
 			"attribute": ["//div[@class='videoDetail']/li[3]/allText()","//div[@class='videoDetail']/li[4]/allText()","//div[@class='videoDetail']/li[5]/allText()"]
         },
 		"play_video":""
