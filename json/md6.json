@@ -1,5 +1,5 @@
 {
-	"maxV": 202011132,
+	"maxV": 202011201,
 	"forceV": 202008180,
 	"downUrl": "http://www.apk.anzhi.com/data5/apk/202011/18/426b82a4ef7f6e30fdc2844ed3481aea_87378200.apk",
 	"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1ge9ax2vdihj30j60j675q.jpg",
@@ -29,7 +29,7 @@
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
 		"link": "https://51video.github.io/"
 	}],
-	"hint": "5.4.9版本升级:\n1.全面支持主流平台无水印视频链接解析\n2.优化选择文件功能\n",
+	"hint": "5.5.0版本升级:\n1.增加视频扫光特效功能\n2.首页添加短视频解析入口\n3.使用说明完善",
 	"home_config": {
 		"hide": [],
 		"ads": []
