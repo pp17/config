@@ -1,7 +1,7 @@
 {
-	"maxV": 202011201,
+	"maxV": 202011220,
 	"forceV": 202008180,
-	"downUrl": "http://www.apk.anzhi.com/data5/apk/202011/20/8a6842f2391a6a69a9e321b304412ea1_93441600.apk",
+	"downUrl": "https://lovevideo.bj.bcebos.com/apk/MD5.apk",
 	"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1ge9ax2vdihj30j60j675q.jpg",
     "hints":{"onekeyHint": "1.不要选择影视剧，涉及版权.\n2.为避免人脸识别判重，请勾选左右反转或者换个视频","buy1":"批量有优惠,3个9折,5个8折,10个68折;代理赚钱 右上角"},
     "wxs":{"ak001":"duweibn","ak002":"18691579751"},
@@ -34,7 +34,7 @@
 		"thumb": "https://src.onlinedown.net/d/imgjpg/005bb5b75d0d4175e5fd4f33a66570b7.jpg",
 		"link": "https://wenda.lanzous.com/ihwaue9lhri"
 	}],
-	"hint": "5.5.0版本升级:\n1.增加视频扫光特效功能\n2.首页添加短视频解析入口\n3.使用说明完善",
+	"hint": "5.5.1版本升级:\n1.增加批量解析功能\n2.完善",
 	"home_config": {
 		"hide": ["xigua"],
 		"ads": []
