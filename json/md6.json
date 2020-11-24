@@ -1,5 +1,5 @@
 {
-	"maxV": 202011200,
+	"maxV": 202011241,
 	"forceV": 202010180,
 	"downUrl": "https://lovevideo.bj.bcebos.com/apk/MD5.apk",
 	"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1ge9ax2vdihj30j60j675q.jpg",
@@ -34,7 +34,7 @@
 		"thumb": "https://src.onlinedown.net/d/imgjpg/005bb5b75d0d4175e5fd4f33a66570b7.jpg",
 		"link": "https://wenda.lanzous.com/ihwaue9lhri"
 	}],
-	"hint": "5.5.3版本升级:\n1.修复选择文件时闪退问题\n2.增加批量解析功能",
+	"hint": "5.5.4版本升级:\n1.修复选择文件时闪退问题\n2.增加批量解析功能",
 	"home_config": {
 		"hide": ["xigua"],
 		"ads": []
