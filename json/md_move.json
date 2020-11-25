@@ -1,0 +1,45 @@
+{
+	"maxV": 202010280,
+	"forceV": 202008180,
+	"downUrl": "http://www.apk.anzhi.com/data5/apk/202010/28/0e3cd5aca34a69b3196ae6b0fb8f1cc6_96611800.apk",
+	"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1ge9ax2vdihj30j60j675q.jpg",
+	"adLink": "https://t.cn/A6wDWJC7",
+	"apps": [{
+		"name": "51投屏",
+		"tag": "无线投屏-海量影视免费看",
+		"size": "5.85M",
+		"thumb": "https://svo.gitee.io/index_files/dlna_logo.png",
+		"link": "https://lovevideo.bj.bcebos.com/apk%2Fdlna.apk"
+	},{
+		"name": "妖色",
+		"tag": "美女私房照-大饱眼福",
+		"size": "4.04M",
+		"thumb": "https://gitee.com/svo/config/raw/master/media/img/yaose.png",
+		"link": "https://lovevideo.bj.bcebos.com/apk%2Fyaose.apk?time=20201021"
+	},{
+		"name": "桔子影视",
+		"tag": "VIP资源免费看,破解神器",
+		"size": "3.87M",
+		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
+		"link": "http://lovevideo.bj.bcebos.com/apk%2Fqmedia.apk"
+	},{
+		"name": "桔子影视TV版",
+		"tag": "VIP资源免费看,破解神器",
+		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
+		"link": "https://51video.github.io/"
+	}],
+	"hint": "5.4.0版本更新通知:\n1.增加一键搬运功能\n2.修改部分音频md5问题\n3.优化及首页调整",
+	"home_config": {
+		"hide": [],
+		"ads": [{
+			"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1gf8arcd8a4j30fk09d75k.jpg",
+			"adLink": "https://w.url.cn/s/AM4HBXs",
+			"adTxt": "显示内容"
+		},{
+			"adImgUrl": "https://gitee.com/svo/config/raw/master/media/img/yunshanfu.jpg",
+            "alpha":255,
+			"adLink": "https://wallet.95516.com/s/wl/webV3/activity/vInvite/html/snsIndex.html?r=b8b27880f6625b71216da6d684c7daef&code=ctoc00000000089&channel=7",
+			"adTxt": "显示内容"
+		}]
+	}
+}

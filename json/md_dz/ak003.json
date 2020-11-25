@@ -1,0 +1,42 @@
+{
+	"maxV": 202011241,
+	"forceV": 202010180,
+	"downUrl": "https://lovevideo.bj.bcebos.com/apk/MD5.apk",
+	"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1ge9ax2vdihj30j60j675q.jpg",
+    "hints":{"onekeyHint": "1.不要选择影视剧，涉及版权.\n2.为避免人脸识别判重，请勾选左右反转或者换个视频","buy1":"批量有优惠,3个9折,5个8折,10个68折;代理赚钱 右上角"},
+    "wxs":{"ak001":"duweibn","ak003":"759267767"},
+	"apps": [{
+		"name": "51投屏",
+		"tag": "无线投屏-海量影视免费看",
+		"size": "5.85M",
+		"thumb": "https://gitee.com/svo/config/raw/master/media/img/dlna.png",
+		"link": "https://lovevideo.bj.bcebos.com/apk%2Fdlna.apk"
+	},{
+		"name": "妖色",
+		"tag": "美女私房照-大饱眼福",
+		"size": "4.04M",
+		"thumb": "https://gitee.com/svo/config/raw/master/media/img/yaose.png",
+		"link": "https://lovevideo.bj.bcebos.com/apk%2Fyaose.apk?time=20201021"
+	},{
+		"name": "桔子影视",
+		"tag": "VIP资源免费看,破解神器",
+		"size": "3.87M",
+		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
+		"link": "http://lovevideo.bj.bcebos.com/apk%2Fqmedia.apk"
+	},{
+		"name": "桔子影视TV版",
+		"tag": "VIP资源免费看,破解神器",
+		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
+		"link": "https://51video.github.io/"
+	},{
+		"name": "酷我音乐破解版",
+		"tag": "会员音乐免费听、免费下载",
+		"thumb": "https://src.onlinedown.net/d/imgjpg/005bb5b75d0d4175e5fd4f33a66570b7.jpg",
+		"link": "https://wenda.lanzous.com/ihwaue9lhri"
+	}],
+	"hint": "5.5.5版本升级:\n1.修复闪退问题\n2.加快视频处理速度\n3.增加设置图片透明度功能",
+	"home_config": {
+		"hide": ["xigua"],
+		"ads": []
+	}
+}
