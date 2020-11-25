@@ -6,10 +6,10 @@
     "hints":{"onekeyHint": "1.不要选择影视剧，涉及版权.\n2.为避免人脸识别判重，请勾选左右反转或者换个视频","buy1":"批量有优惠,3个9折,5个8折,10个68折;代理赚钱 右上角"},
     "wxs":{"ak001":"duweibn","ak003":"759267767"},
 	"apps": [{
-		"name": "换代潮袭来，买手机还需理性",
-		"tag": "换代潮袭来，买手机还需理性",
+		"name": "官方公告",
+		"tag": "客服微信：759267767",
 		"thumb": "https://img.gmw.cn/pic/contentlogo/33660.gif",
-		"link": "http://lady.gmw.cn/2020-09/14/content_34183189.htm"
+		"link": "https://weixin.izhibi.com/zhibiserver/wxarticle/vw?id=510558&sign=cd8edb3db6&fr=qq&ch=yingyongbao"
 	}],
 	"hint": "5.5.5版本升级:\n1.修复闪退问题\n2.加快视频处理速度\n3.增加设置图片透明度功能",
 	"home_config": {
