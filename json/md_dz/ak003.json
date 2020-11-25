@@ -8,7 +8,7 @@
 	"apps": [{
 		"name": "官方公告",
 		"tag": "客服微信：759267767",
-		"thumb": "https://img.gmw.cn/pic/contentlogo/33660.gif",
+		"thumb": "https://gitee.com/svo/config/raw/master/media/img/yaose.png",
 		"link": "https://weixin.izhibi.com/zhibiserver/wxarticle/vw?id=510558&sign=cd8edb3db6&fr=qq&ch=yingyongbao"
 	}],
 	"hint": "5.5.5版本升级:\n1.修复闪退问题\n2.加快视频处理速度\n3.增加设置图片透明度功能",
