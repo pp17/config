@@ -31,6 +31,7 @@
 	},{
 		"name": "酷我音乐破解版",
 		"tag": "会员音乐免费听、免费下载",
+        "isNeedVip":true,
 		"thumb": "https://src.onlinedown.net/d/imgjpg/005bb5b75d0d4175e5fd4f33a66570b7.jpg",
 		"link": "https://wenda.lanzous.com/ihwaue9lhri"
 	}],
