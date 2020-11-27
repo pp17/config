@@ -34,6 +34,12 @@
         "isNeedVip":true,
 		"thumb": "https://src.onlinedown.net/d/imgjpg/005bb5b75d0d4175e5fd4f33a66570b7.jpg",
 		"link": "https://wenda.lanzous.com/ihwaue9lhri"
+	},{
+		"name": "虚拟定位",
+		"tag": "模拟GPS定位等",
+        "isNeedVip":true,
+		"thumb": "https://gitee.com/svo/config/raw/master/media/img/logo_location.png",
+		"link": "https://wenda.lanzous.com/iqwwce7cvsh"
 	}],
 	"hint": "5.5.5版本升级:\n1.修复闪退问题\n2.加快视频处理速度\n3.增加设置图片透明度功能",
 	"home_config": {
