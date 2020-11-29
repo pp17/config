@@ -45,6 +45,11 @@
 	"hint": "5.5.5版本升级:\n1.修复闪退问题\n2.加快视频处理速度\n3.增加设置图片透明度功能",
 	"home_config": {
 		"hide": ["xigua"],
-		"ads": []
+		"ads": [{
+	"adImgUrl": "https://gitee.com/svo/config/raw/master/media/img/learn.jpg",
+	"adLink": "https://v.kuaishou.com/8ubqpS",
+	"alpha": 255,
+	"adTxt": "显示内容"
+}]
 	}
 }
