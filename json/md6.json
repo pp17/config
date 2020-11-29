@@ -32,6 +32,11 @@
 	"hint": "5.5.6版本升级:\n1.视频编辑问题修正\n2.M3U8下载增加暂停、继续、删除功能\n3.增加短视频解析渠道\n4.启动应用时不删除处理好的文件.",
 	"home_config": {
 		"hide": ["xigua"],
-		"ads": []
+		"ads": [{
+	"adImgUrl": "https://gitee.com/svo/config/raw/master/media/img/learn.jpg",
+	"adLink": "https://v.kuaishou.com/8ubqpS",
+	"alpha": 255,
+	"adTxt": "显示内容"
+}]
 	}
 }
