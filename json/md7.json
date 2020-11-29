@@ -6,6 +6,11 @@
     "hints":{"onekeyHint": "1.尽量不要选择影视剧，涉及版权.\n2.为避免人脸识别判重，请勾选左右反转或者换个视频","buy1":"批量有优惠,3个9折,5个8折,10个68折;代理赚钱 右上角"},
     "wxs":{"ak001":"duweibn","ak002":"wf78680375","ak003":"759267767"},
 	"apps": [{
+		"name": "交易发布区",
+		"tag": "出售抖音号、收抖音号等",
+		"thumb": "https://bkimg.cdn.bcebos.com/pic/9a504fc2d5628535566f21249eef76c6a7ef632c",
+		"link": "https://lovevideo.bj.bcebos.com/html/deal.html"
+	},{
 		"name": "51投屏",
 		"tag": "无线投屏-海量影视免费看",
 		"size": "5.85M",
