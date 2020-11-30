@@ -1,7 +1,7 @@
 {
-	"maxV": 202011250,
+	"maxV": 202011300,
 	"forceV": 202010180,
-	"downUrl": "http://www.apk.anzhi.com/data5/apk/202011/25/008b9492c6d0d998ea071b244415381b_72157400.apk",
+	"downUrl": "http://www.apk.anzhi.com/data5/apk/202011/30/081a8a08e165cd8a512f0fbad4b0a072_35975300.apk",
 	"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1ge9ax2vdihj30j60j675q.jpg",
     "hints":{"onekeyHint": "1.尽量不要选择影视剧，涉及版权.\n2.为避免人脸识别判重，请勾选左右反转或者换个视频","buy1":"批量有优惠,3个9折,5个8折,10个68折;代理赚钱 右上角"},
     "wxs":{"ak001":"duweibn","ak002":"wf78680375","ak003":"759267767","ak004":"z001zk"},
@@ -47,7 +47,7 @@
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/logo_location.png",
 		"link": "https://wenda.lanzous.com/iqwwce7cvsh"
 	}],
-	"hint": "5.5.5版本升级:\n1.修复闪退问题\n2.加快视频处理速度\n3.增加设置图片透明度功能",
+	"hint": "5.5.7版本升级:\n1.完善腾讯优酷等链接解析\n2.修复m3u8未开始下载任务删除问题\n3.视频拼接功能完善",
 	"home_config": {
 		"hide": ["xigua"],
 		"ads": [{
