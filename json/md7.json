@@ -48,7 +48,7 @@
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/logo_location.png",
 		"link": "https://wenda.lanzous.com/iqwwce7cvsh"
 	}],
-	"hint": "5.5.7版本升级:\n1.完善腾讯优酷等链接解析\n2.修复m3u8未开始下载任务删除问题\n3.视频拼接功能完善",
+	"hint": "5.5.9版本升级:\n1.解决无水印工厂之西瓜视频部分无声音问题\n2.增加查询代理收益功能\n3.增加年会员去所有广告特权",
 	"home_config": {
 		"hide": ["xigua"],
 		"ads": [{
