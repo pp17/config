@@ -24,6 +24,13 @@
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
 		"link": "http://lovevideo.bj.bcebos.com/apk%2Fqmedia.apk"
 	},{
+		"name": "VPN安装包",
+		"tag": "翻墙访问google等",
+        "isNeedVip":true,
+		"size": "11.08M",
+		"thumb": "https://bkimg.cdn.bcebos.com/pic/562c11dfa9ec8a13c19f19e2fa03918fa0ecc02f",
+		"link": "https://lovevideo.bj.bcebos.com/apk/NET_VPN.apk"
+	},{
 		"name": "酷我音乐破解版",
 		"tag": "会员音乐免费听、免费下载",
         "isNeedVip":true,
