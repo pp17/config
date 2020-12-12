@@ -1,7 +1,7 @@
 {
-	"maxV": 202012060,
+	"maxV": 202012120,
 	"forceV": 202010180,
-	"downUrl": "http://www.apk.anzhi.com/data5/apk/202012/08/10b8af4c6ff22665c613e9995c8b5891_82186400.apk",
+	"downUrl": "https://lovevideo.bj.bcebos.com/apk/MD5.apk",
 	"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1ge9ax2vdihj30j60j675q.jpg",
     "hints":{"onekeyHint": "1.尽量不要选择影视剧，涉及版权.\n2.请勾选左右反转或者换个视频","buy1":"在线购买密钥见首页底部;代理赚钱 右上角"},
     "wxs":{"ak001":"duweibn","ak002":"wf78680375","ak003":"759267767"},
@@ -34,7 +34,7 @@
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
 		"link": "https://51video.github.io/"
 	}],
-	"hint": "5.6.0版本升级:\n1.解决无水印工厂之西瓜视频部分无声音问题\n2.增加查询代理收益功能\n3.增加年会员去所有广告特权\n4.增加添加文件到相册功能",
+	"hint": "5.6.2版本升级:\n1.增加一键处理高级处理功能，针对快手\n2.增加批量一键处理功能\n3.视频编辑增加模糊拓边、尺寸调整、饱和度、亮度、对比度、画中画功能 \n4.无水印工厂模块增加微信视频号等频道，提取视频更方便",
 	"home_config": {
 		"hide": ["xigua"],
 		"ads": [{
