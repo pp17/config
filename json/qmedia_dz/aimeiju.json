@@ -31,7 +31,7 @@
 			"list_img": "//li[@class='vbox']/a/@style"
         },
         "list_rule": {
-            "title": "//tbody[@id='data_list']/tr/td[1]/a/allText()",
+            "title": "//tbody[@id='data_list']/tr/td[1]/a/text()",
             "link": "//tbody[@id='data_list']/tr/td[1]/a/@abs:href",
             "info1": "//tbody[@id='data_list']/tr/td[2]/allText()",
             "info2": "//tbody[@id='data_list']/tr/td[3]/allText()",
