@@ -57,7 +57,7 @@
 	}],
 	"hint": "5.6.4版本升级:\n1.修复替换音频空白问题",
 	"home_config": {
-		"hide": ["xigua"],
+		"hide": [],
 		"ads": [{
 	"adImgUrl": "https://gitee.com/svo/config/raw/master/media/img/learn.jpg",
 	"adLink": "https://v.kuaishou.com/8ubqpS",
