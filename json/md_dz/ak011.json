@@ -1,5 +1,5 @@
 {
-	"maxV": 202012160,
+	"maxV": 202101010,
 	"forceV": 202010180,
 	"downUrl": "https://lovevideo.bj.bcebos.com/apk/md_ak011.apk",
 	"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1ge9ax2vdihj30j60j675q.jpg",
@@ -48,9 +48,9 @@
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/logo_location.png",
 		"link": "https://wenda.lanzous.com/iqwwce7cvsh"
 	}],
-	"hint": "5.6.0版本升级:\n1.解决无水印工厂之西瓜视频部分无声音问题\n2.增加查询代理收益功能\n3.增加年会员去所有广告特权\n4.增加添加文件到相册功能",
+	"hint": "5.7.1版本升级:\n1.大大增加视频处理速度 \n2.完善m3u8下载功能 \n3.修复闪退问题",
 	"home_config": {
-		"hide": ["xigua"],
+		"hide": [],
 		"ads": [{
 	"adImgUrl": "https://gitee.com/svo/config/raw/master/media/img/learn.jpg",
 	"adLink": "https://v.kuaishou.com/8ubqpS",
