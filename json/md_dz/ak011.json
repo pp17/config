@@ -1,5 +1,5 @@
 {
-	"maxV": 202101010,
+	"maxV": 202101021,
 	"forceV": 202010180,
 	"downUrl": "https://lovevideo.bj.bcebos.com/apk/md_ak011.apk",
 	"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1ge9ax2vdihj30j60j675q.jpg",
@@ -48,7 +48,7 @@
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/logo_location.png",
 		"link": "https://wenda.lanzous.com/iqwwce7cvsh"
 	}],
-	"hint": "5.7.1版本升级:\n1.大大增加视频处理速度 \n2.完善m3u8下载功能 \n3.修复闪退问题",
+	"hint": "5.7.3版本升级:\n1.大大增加视频处理速度 \n2.完善m3u8下载功能 \n3.增加爱奇艺高清、无水印视频下载功能",
 	"home_config": {
 		"hide": [],
 		"ads": [{
