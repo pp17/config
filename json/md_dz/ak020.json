@@ -1,0 +1,61 @@
+{
+	"maxV": 202101021,
+	"forceV": 202010180,
+	"downUrl": "https://lovevideo.bj.bcebos.com/apk/md_ak018.apk",
+	"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1ge9ax2vdihj30j60j675q.jpg",
+    "hints":{"onekeyHint": "1.尽量不要选择影视剧，涉及版权.\n2.为避免人脸识别判重，请勾选左右反转或者换个视频","buy1":"代理赚钱 右上角"},
+    "wxs":{"ak020":"cailili2953"},
+	"apps": [{
+		"name": "51投屏",
+		"tag": "无线投屏-海量影视免费看",
+		"size": "5.85M",
+		"thumb": "https://gitee.com/svo/config/raw/master/media/img/dlna.png",
+		"link": "https://lovevideo.bj.bcebos.com/apk%2Fdlna.apk"
+	},{
+		"name": "妖色",
+		"tag": "美女私房照-大饱眼福",
+		"size": "4.04M",
+		"thumb": "https://gitee.com/svo/config/raw/master/media/img/yaose.png",
+		"link": "https://lovevideo.bj.bcebos.com/apk%2Fyaose.apk?time=20201021"
+	},{
+		"name": "桔子影视",
+		"tag": "VIP资源免费看,破解神器",
+		"size": "3.87M",
+		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
+		"link": "http://lovevideo.bj.bcebos.com/apk%2Fqmedia.apk"
+	},{
+		"name": "酷我音乐破解版",
+		"tag": "会员音乐免费听、免费下载",
+        "isNeedVip":true,
+		"thumb": "https://src.onlinedown.net/d/imgjpg/005bb5b75d0d4175e5fd4f33a66570b7.jpg",
+		"link": "https://wenda.lanzous.com/ihwaue9lhri"
+	},{
+		"name": "酷狗音乐会员版",
+		"tag": "会员音乐免费下载",
+        "isNeedVip":true,
+		"thumb": "https://bkimg.cdn.bcebos.com/pic/3801213fb80e7bec54e73cea7364ae389b504fc23d2c",
+		"link": "https://www.lanzoui.com/tp/ixoBhitzltc"
+	},{
+		"name": "TIKTOK",
+		"tag": "抖音国际版",
+        "isNeedVip":true,
+		"thumb": "https://bkimg.cdn.bcebos.com/pic/9a504fc2d5628535566f21249eef76c6a7ef632c",
+		"link": "https://wenda.lanzous.com/igO6te9l4oh"
+	},{
+		"name": "虚拟定位",
+		"tag": "模拟GPS定位等",
+        "isNeedVip":true,
+		"thumb": "https://gitee.com/svo/config/raw/master/media/img/logo_location.png",
+		"link": "https://wenda.lanzous.com/iqwwce7cvsh"
+	}],
+	"hint": "5.7.3版本升级:\n1.大大增加视频处理速度 \n2.完善m3u8下载功能 \n3.增加爱奇艺高清、无水印视频下载功能",
+	"home_config": {
+		"hide": [],
+		"ads": [{
+	"adImgUrl": "https://gitee.com/svo/config/raw/master/media/img/learn.jpg",
+	"adLink": "https://v.kuaishou.com/8ubqpS",
+	"alpha": 255,
+	"adTxt": "显示内容"
+}]
+	}
+}
