@@ -1,4 +1,5 @@
 {
+    "includeOld": true,
     "version": 202101121,
     "help": "1不显示视频内容，0显示",
     "huawei": 1,
