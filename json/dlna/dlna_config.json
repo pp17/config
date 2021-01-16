@@ -4,6 +4,7 @@
     "help": "1不显示视频内容，0显示",
     "huawei": 1,
     "vivo": 1,
+    "baidu": 1,
     "potal": 1,
 	"xiaomi": 1
 }
