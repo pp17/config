@@ -1,6 +1,6 @@
 {
     "includeOld": false,
-    "version": 202101121,
+    "version": 202010250,
     "help": "1不显示视频内容，0显示",
     "huawei": 1,
     "vivo": 1,
