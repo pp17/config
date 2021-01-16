@@ -1,0 +1,8 @@
+{
+    "version": 202101121,
+    "help": "1不显示视频内容，0显示",
+    "huawei": 0,
+    "vivo": 0,
+    "potal": 0,
+	"xiaomi": 0
+}
