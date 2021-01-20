@@ -5,7 +5,8 @@
     "huawei": 0,
     "qihu": 1,
     "baidu": 1,
-    "potal": 1,
+    "potal": 0,
+    "qq": 1,
     "ali": 1,
 	"xiaomi": 1
 }
