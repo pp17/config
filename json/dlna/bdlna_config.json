@@ -1,0 +1,12 @@
+{
+    "includeOld": false,
+    "version": 202010250,
+    "help": "1不显示视频内容，0显示",
+    "huawei": 0,
+    "qihu": 1,
+    "baidu": 1,
+    "potal": 0,
+    "qq": 1,
+    "ali": 1,
+	"xiaomi": 1
+}
