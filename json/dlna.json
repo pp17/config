@@ -1,5 +1,5 @@
 {
-	"maxV": 202009270,
+	"maxV": 202101300,
 	"forceV": 391,
 	"downUrl": "https://lovevideo.bj.bcebos.com/apk/dlna.apk",
 	"apps": [{
@@ -20,7 +20,7 @@
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
 		"link": "https://51video.github.io/"
 	}],
-	"hint": "1.0.1版本更新通知:\n1.增加在线直播投屏功能\n2.增加影视搜索、观看及投屏功能",
+	"hint": "1.3.5版本更新通知:\n1.修复闪退问题\n2.功能优化",
 	"home_config": {
 		"hide": [],
 		"ads": [{
