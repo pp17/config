@@ -34,11 +34,13 @@
         "list_rule": {
             "title": "//li[@class='vbox']/a/@title",
             "link": "//li[@class='vbox']/a/@abs:href",
+            "tag": "//li[@class='vbox']/a/span/text()",
             "img": "//li[@class='vbox']/a/@style"
         },
 		"search_rule": {
             "title": "//li[@class='vbox']/a/@title",
             "link": "//li[@class='vbox']/a/@abs:href",
+            "tag": "//li[@class='vbox']/a/span/text()",
             "img": "//li[@class='vbox']/a/@style"
         },
         "detail_rule": {
