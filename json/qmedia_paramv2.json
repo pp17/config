@@ -29,6 +29,7 @@
             "section_link": "//div[1]/a/@abs:href",
 			"list_title": "//li[@class='vbox']/a/@title",
             "list_link": "//li[@class='vbox']/a/@abs:href",
+            "list_tag": "//li[@class='vbox']/a/span/text()",
 			"list_img": "//li[@class='vbox']/a/@style"
         },
         "list_rule": {
