@@ -1,5 +1,5 @@
 {
-	"maxV": 202102010,
+	"maxV": 202102130,
 	"forceV": 391,
 	"downUrl": "https://lovevideo.bj.bcebos.com/apk/dlna.apk",
 	"apps": [{
@@ -20,7 +20,7 @@
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
 		"link": "https://51video.github.io/"
 	}],
-	"hint": "1.3.6版本更新通知:\n1.功能优化\n2.已知问题修改",
+	"hint": "1.3.7版本更新通知:\n1.增加破解爱奇艺等会员视频功能，破解VIP,观看不卡顿",
 	"home_config": {
 		"hide": [],
 		"ads": [{
