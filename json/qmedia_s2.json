@@ -12,7 +12,7 @@
             "intro": "//div[@class='movie-detail']/allText()",
             "thumb": "//img[@data-toggle='lightbox']/@abs:data-image",
             "items": "//ul[@class='clearfix']/li/a",
-			"attribute": ["//div[@class^='col-md-9']/p[1]/allText()","//div[@class~='col-md-9']/p[2]/allText()","//div[@class='col-md-9 col-xs-7']/p[3]/allText()","//div[@class='col-md-9 col-xs-7']/p[4]/allText()","//div[@class='col-md-9 col-xs-7']/p[5]/allText()"]
+			"attribute": ["//div[@class^='col-md-9']/p[1]/allText()","//div[@class~='col-md-9']/p[2]/allText()","//div[@class^='col-md-9']/p[3]/allText()","//div[@class^='col-md-9']/p[4]/allText()","//div[@class^='col-md-9']/p[5]/allText()"]
         },
 	"play_video":""
 }
