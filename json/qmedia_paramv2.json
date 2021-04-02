@@ -33,6 +33,7 @@
         "list_rule": {
             "title": "//img[@class='lazy']/@alt",
             "link": "//a[@class='link']/@abs:href",
+            "tag": "//a[@class='link']/div/span/p[1]/text()",
             "img": "//img[@class='lazy']/@data-original"
         },
 		"search_rule": {
