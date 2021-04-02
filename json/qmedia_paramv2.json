@@ -12,44 +12,41 @@
     "hint": "1.优化主流网站视频解析功能，高清不卡顿\n2.修复无法观看直播问题\n3.修复投屏问题",
 	"search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s3.json"],
     "config": {
-        "root": "http://www.yc2050.com/",
-        "type_format": "http://www.yc2050.com/type/%s.html",
-        "page_format": "http://www.yc2050.com/type/%s/%d.html",
-		"search_format": "http://www.yc2050.com/search?wd=%s",
+        "root": "https://9bo.tv/",
+        "type_format": "https://9bo.tv/%s/index.html",
+        "page_format": "https://9bo.tv/type/%s/%d.html",
+		"search_format": "https://9bo.tv/search?wd=%s",
         "type": {
-            "电影": "1",
-            "电视剧": "2",
-            "综艺": "4",
-			"恐怖": "9",
-            "动漫": "7"
+            "电影": "dianying",
+            "电视剧": "dianshi",
+            "综艺": "qiyivip",
+			"伦理": "lunli",
+            "动漫": "donghua"
         },
 		"home_rule": {
-            "section": "//div[@class='tbox']",
+            "section": "//div[@class='row']",
             "section_title": "//div[1]/h3/allText()",
-            "section_link": "//div[1]/a/@abs:href",
-			"list_title": "//li[@class='vbox']/a/@title",
-            "list_link": "//li[@class='vbox']/a/@abs:href",
-            "list_tag": "//li[@class='vbox']/a/span/text()",
-			"list_img": "//li[@class='vbox']/a/@style"
+            "section_link": "//div[1]/span/a/@abs:href",
+			"list_title": "//div[@class='movie-item']/a/@title",
+            "list_link": "//div[@class='movie-item']/a/@abs:href",
+			"list_img": "//div[@class='movie-item']/a/img/@src"
         },
         "list_rule": {
-            "title": "//li[@class='vbox']/a/@title",
-            "link": "//li[@class='vbox']/a/@abs:href",
-            "tag": "//li[@class='vbox']/a/span/text()",
-            "img": "//li[@class='vbox']/a/@style"
+            "title": "//img[@class='lazy']/@alt",
+            "link": "//a[@class='link']/@abs:href",
+            "img": "//img[@class='lazy']/@data-original"
         },
 		"search_rule": {
-            "title": "//li[@class='vbox']/a/@title",
-            "link": "//li[@class='vbox']/a/@abs:href",
-            "tag": "//li[@class='vbox']/a/span/text()",
-            "img": "//li[@class='vbox']/a/@style"
+            "title": "//div[@class='movie-item']/a/@title",
+            "link": "//div[@class='movie-item']/a/@abs:href",
+            "img": "//div[@class='movie-item']/a/img/@src"
         },
         "detail_rule": {
-            "play_url": "//div[@class='btn']/a[1]/@abs:href",
-            "intro": "//div[@class='tbox_js']/text()",
-            "thumb": "//img[@class='img-thumbnail']/@src",
-            "items": "//ul[@class^='list_block']/li/a",
-			"attribute": ["//div[@class='data']/p[1]/allText()","//div[@class='data']/p[2]/allText()","//div[@class='data']/p[3]/allText()"]
+            "play_url": "//a[@class='ico play']/@abs:href",
+            "intro": "//div[@class='cdes1']/allText()",
+            "thumb": "//div[@class='img']/img/@src",
+            "items": "//div[@id='stab_11']/ul/li/a",
+			"attribute": ["//div[@class='info']/dl[1]/dt/allText()","//div[@class='info']/dl[1]/dd/allText()","//div[@class='info']/dl[2]/dt/allText()","//div[@class='info']/dl[2]/dd/allText()","//div[@class='info']/dl[4]/dt/allText()","//div[@class='info']/dl[4]/dd/allText()","//div[@class='info']/dl[6]/dt/allText()","//div[@class='info']/dl[6]/dd/allText()","//div[@class='info']/dl[7]/dt/allText()","//div[@class='info']/dl[7]/dd/allText()"]
         },
 		"play_video":""
     }
