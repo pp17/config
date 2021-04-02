@@ -1,11 +1,11 @@
 {
-	"root": "https://9bo.tv/",
-	"search_format": "https://9bo.tv/search?wd=%s",
-	"isPost": true,
+	"root": "https://www.0376mj.com/",
+	"search_format": "https://www.0376mj.com/vodsearch/-------------.html?wd=%s",
+	"isPost": false,
 	"search_rule": {
-		"title": "//div[@class='movie-item']/a/@title",
-        "link": "//div[@class='movie-item']/a/@abs:href",
-        "img": "//div[@class='movie-item']/a/img/@src"
+		"title": "//div[@class='card']/div[3]/strong/a/@title",
+        "link": "//div[@class='card']/div[3]/strong/a/@abs:href",
+        "img": "//div[@class='card']/div[1]//img/@abs:data-original"
 	},
 	"detail_rule": {
             "play_url": "//a[@class='ico play']/@abs:href",
