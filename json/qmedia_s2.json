@@ -9,7 +9,7 @@
 	},
 	"detail_rule": {
             "play_url": "//a[@class='ico play']/@abs:href",
-            "intro": "//div[@class='movie-detail']/allText()",
+            "intro": "//div[@class='movie-detail']/text()",
             "thumb": "//img[@data-toggle='lightbox']/@abs:data-image",
             "items": "//ul[@class='clearfix']/li/a",
 			"attribute": ["//div[@class='info']/dl[1]/dt/allText()","//div[@class='info']/dl[1]/dd/allText()","//div[@class='info']/dl[2]/dt/allText()","//div[@class='info']/dl[2]/dd/allText()","//div[@class='info']/dl[4]/dt/allText()","//div[@class='info']/dl[4]/dd/allText()","//div[@class='info']/dl[6]/dt/allText()","//div[@class='info']/dl[6]/dd/allText()","//div[@class='info']/dl[7]/dt/allText()","//div[@class='info']/dl[7]/dd/allText()"]
