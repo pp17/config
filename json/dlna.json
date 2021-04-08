@@ -1,10 +1,10 @@
 {
-	"maxV": 202104030,
+	"maxV": 202104080,
 	"forceV": 202104030,
 	"downUrl": "https://lovevideo.bj.bcebos.com/apk/dlna.apk",
     "jxUrl": "https://okjx.cc/?url=",
 	"apps": [],
-	"hint": "1.7.0版本更新通知:\n1.修改视频解析问题",
+	"hint": "1.8.0版本更新通知:\n1.修改视频解析问题",
 	"home_config": {
 		"hide": [],
 		"ads": [{
