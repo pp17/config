@@ -4,13 +4,9 @@
 	"downUrl": "https://lovevideo.bj.bcebos.com/apk/dlna.apk",
     "jxUrl": "https://okjx.cc/?url=",
 	"apps": [],
-	"hint": "1.8.0版本更新通知:\n1.修改视频解析问题",
+	"hint": "1.8.0版本更新通知:\n1.修改视频解析问题\n2.增加邀请好友去广告功能",
 	"home_config": {
 		"hide": [],
-		"ads": [{
-			"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1gf8arcd8a4j30fk09d75k.jpg",
-			"adLink": "https://t.cn/A6wDWJC7",
-			"adTxt": "显示内容"
-		}]
+		"ads": []
 	}
 }
