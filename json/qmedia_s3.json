@@ -9,9 +9,9 @@
 	},
 	"detail_rule": {
 		"play_url": "//div[@class='online-button']/a/@abs:href",
-        "intro": "//p[@class='data hidden-xs']/text()",
+        "intro": "//div[@class='myui-content__detail']/p[4]/text()",
         "thumb": "//a[@class='myui-vodlist__thumb picture']/img/@abs:data-original",
-        "items": "//ul[@class='myui-content__list sort-list clearfix']/li/a",
+        "items": "//ul[@class='myui-content__list']/li/a",
 		"attribute": [
           "//div[@class='myui-content__detail']/p[2]/allText()",
           "//div[@class='myui-content__detail']/p[3]/allText()",
