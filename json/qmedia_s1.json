@@ -9,9 +9,9 @@
 	},
     "detail_rule": {
             "play_url": "//div[@class='play-btny']/a/@abs:href",
-            "intro": "//span[@class='detail-content']/allText()",
+            "intro": "//div[@class='mo-paxs-5px mo-ptxs-0px']/allText()",
             "thumb": "//div[@class='stui-content__thumb']/a/img/@abs:data-original",
-            "items": "//ul[@class='stui-content__playlist']/li/a",
+            "items": "//ul[@class='mo-movs-item']/li/a",
 			"attribute": ["//div[@class^='stui-content__detail']/p[1]/allText()","//div[@class^='stui-content__detail']/p[2]/allText()","//div[@class^='stui-content__detail']/p[3]/allText()","//div[@class^='stui-content__detail']/p[3]/allText()","//div[@class^='stui-content__detail']/p[4]/allText()"]
         },
 	"play_video":"regex:url.{2,8}(http.+?\\.m3u8);1"
