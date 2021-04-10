@@ -12,7 +12,7 @@
             "intro": "//div[@class='mo-word-info']/allText()",
             "thumb": "//div[@class='stui-content__thumb']/a/img/@abs:data-original",
             "items": "//ul[@class='mo-movs-item']/li/a",
-			"attribute": ["//dl[@class^='mo-deta-info']//ul[@class='mo-cols-rows']/li[1]/allText()","//ul[@class='mo-cols-rows']/li[2]/allText()","//ul[@class='mo-cols-rows']/li[3]/allText()","//ul[@class='mo-cols-rows']/li[4]/allText()","//ul[@class='mo-cols-rows']/li[5]/allText()"]
+			"attribute": ["//dl[@class^='mo-deta-info']//ul[@class='mo-cols-rows']/li[1]/allText()","//dl[@class^='mo-deta-info']//ul[@class='mo-cols-rows']/li[2]/allText()","//dl[@class^='mo-deta-info']//ul[@class='mo-cols-rows']/li[3]/allText()","//dl[@class^='mo-deta-info']//ul[@class='mo-cols-rows']/li[4]/allText()","//dl[@class^='mo-deta-info']//ul[@class='mo-cols-rows']/li[5]/allText()"]
         },
 	"play_video":""
 }
