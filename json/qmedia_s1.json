@@ -1,11 +1,11 @@
 {
-	"root": "https://www.zhenbuka.com/",
-	"search_format": "https://www.zhenbuka.com/vodsearch/-------------/?wd=%s",
+	"root": "https://www.yuzhouys.com/",
+	"search_format": "https://www.yuzhouys.com/index.php/vod/search.html?wd=%s",
 	"isPost": false,
 	"search_rule": {
-		"title": "//ul[@class='stui-vodlist__media']/li/div[1]/a/@title",
-		"link": "//ul[@class='stui-vodlist__media']/li/div[1]/a/@abs:href",
-		"img": "//ul[@class='stui-vodlist__media']/li/div[1]/a/@abs:data-original"
+		"title": "//dl[@class='mo-deta-info']/dd/h1/a/allText()",
+		"link": "//dl[@class='mo-deta-info']/dd/h1/a/@abs:href",
+		"img": "//dl[@class='mo-deta-info']/dt/a/@abs:data-original"
 	},
     "detail_rule": {
             "play_url": "//div[@class='play-btny']/a/@abs:href",
