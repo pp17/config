@@ -1,28 +1,21 @@
 {
-	"root": "http://wx.79da.com/",
-	"search_format": "http://wx.79da.com/search?wd=%s",
+	"root": "http://www.gulangyc.com/",
+	"search_format": "http://www.gulangyc.com/search/%s.html",
 	"isPost": false,
 	"search_rule": {
-		"title": "//div[@class='movie-item']/a/@title",
-        "link": "//div[@class='movie-item']/a/@abs:href",
-        "img": "//div[@class='movie-item']/a/img/@src"
+		"title": "//ul[@id='searchList']/li/div[1]/a/img/@alt",
+        "link": "//ul[@id='searchList']/li/div[1]/a/@abs:href",
+        "img": "//ul[@id='searchList']/li/div[1]/a/img/@abs:data-original"
 	},
 	"detail_rule": {
 		"play_url": "//div[@class='online-button']/a/@abs:href",
-        "intro": "//p[@class='summary']/text()",
-        "thumb": "//img[@class='img-thumbnail']/@src",
-        "items": "//li[@class='dslist-group-item']/a",
+        "intro": "//p[@class='data hidden-xs']/text()",
+        "thumb": "//a[@class='myui-vodlist__thumb picture']/img/@abs:data-original",
+        "items": "//ul[@class='myui-content__list sort-list clearfix']/li/a",
 		"attribute": [
-          "//table/tbody/tr[2]/td[1]/allText()",
-          "//table/tbody/tr[2]/td[2]/allText()",
-          "//table/tbody/tr[4]/td[1]/allText()",
-          "//table/tbody/tr[4]/td[2]/allText()",
-          "//table/tbody/tr[6]/td[1]/allText()",
-          "//table/tbody/tr[6]/td[2]/allText()",
-          "//table/tbody/tr[1]/td[1]/allText()",
-          "//table/tbody/tr[1]/td[2]/allText()",
-          "//table/tbody/tr[7]/td[1]/allText()",
-          "//table/tbody/tr[7]/td[2]/allText()"
+          "//div[@class='myui-content__detail']/p[2]/allText()",
+          "//div[@class='myui-content__detail']/p[3]/allText()",
+          "//div[@class='myui-content__detail']/p[4]/allText()"
         ]
 	},
 	"play_video":""
