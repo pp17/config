@@ -10,7 +10,7 @@
     "downUrl": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
     "ddu": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
     "hint": "1.修复破解vip问题",
-	"search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s3.json","https://gitee.com/svo/config/blob/master/json/qmedia_s1.json"],
+	"search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s3.json"],
     "config": {
         "root": "https://9bo.tv/",
         "type_format": "https://9bo.tv/%s/index.html",
