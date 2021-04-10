@@ -14,5 +14,5 @@
             "items": "//ul[@class='mo-movs-item']/li/a",
 			"attribute": ["//ul[@class^='mo-cols-rows']/li[1]/allText()","//ul[@class^='mo-cols-rows']/li[2]/allText()","//ul[@class^='mo-cols-rows']/li[3]/allText()","//ul[@class^='mo-cols-rows']/li[4]/allText()","//ul[@class^='mo-cols-rows']/li[5]/allText()"]
         },
-	"play_video":"regex:url.{2,8}(http.+?\\.m3u8);1"
+	"play_video":""
 }
