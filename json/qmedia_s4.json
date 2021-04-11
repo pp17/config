@@ -13,10 +13,10 @@
         "thumb": "//img[@class='img-thumbnail']/@src",
         "items": "//ul[@class='myui-content__list']/li/a",
 		"attribute": [
-          "//div[@class='myui-content__detail']/p[1]/text()",
-          "//div[@class='myui-content__detail']/p[2]/text()",
-          "//div[@class='myui-content__detail']/p[3]/text()",
-          "//div[@class='myui-content__detail']/p[5]/text()"
+          "//div[@class='myui-content__detail']/p[1]/allText()",
+          "//div[@class='myui-content__detail']/p[2]/allText()",
+          "//div[@class='myui-content__detail']/p[3]/allText()",
+          "//div[@class='myui-content__detail']/p[5]/allText()"
         ]
 	},
 	"play_video":""
