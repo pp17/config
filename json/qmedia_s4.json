@@ -3,9 +3,9 @@
 	"search_format": "https://www.siguyy.com/search/-------------.html?wd=%s&submit=",
 	"isPost": false,
 	"search_rule": {
-		"title": "//ul[@id='searchList']/div[1]/a/@title",
-        "link": "//ul[@id='searchList']/div[1]/a/@abs:href",
-        "img": "//ul[@id='searchList']/div[1]/a/@abs:data-original"
+		"title": "//ul[@id='searchList']/li/div[1]/a/@title",
+        "link": "//ul[@id='searchList']/li/div[1]/a/@abs:href",
+        "img": "//ul[@id='searchList']/li/div[1]/a/@abs:data-original"
 	},
 	"detail_rule": {
 		"play_url": "//div[@class='online-button']/a/@abs:href",
