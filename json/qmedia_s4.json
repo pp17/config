@@ -1,28 +1,22 @@
 {
-	"root": "http://wx.79da.com/",
-	"search_format": "http://wx.79da.com/search?wd=%s",
+	"root": "https://www.siguyy.com/",
+	"search_format": "https://www.siguyy.com/search/-------------.html?wd=%s&submit=",
 	"isPost": false,
 	"search_rule": {
-		"title": "//div[@class='movie-item']/a/@title",
-        "link": "//div[@class='movie-item']/a/@abs:href",
-        "img": "//div[@class='movie-item']/a/img/@src"
+		"title": "//ul[@class='myui-vodlist__media']/div[1]/a/@title",
+        "link": "//ul[@class='myui-vodlist__media']/div[1]/a/@abs:href",
+        "img": "//ul[@class='myui-vodlist__media']/div[1]/a/@abs:data-original"
 	},
 	"detail_rule": {
 		"play_url": "//div[@class='online-button']/a/@abs:href",
-        "intro": "//p[@class='summary']/text()",
+        "intro": "//div[@class='myui-content__detail']/p[4]/text()",
         "thumb": "//img[@class='img-thumbnail']/@src",
-        "items": "//li[@class='dslist-group-item']/a",
+        "items": "//ul[@class='myui-content__list']/li/a",
 		"attribute": [
-          "//table/tbody/tr[2]/td[1]/allText()",
-          "//table/tbody/tr[2]/td[2]/allText()",
-          "//table/tbody/tr[4]/td[1]/allText()",
-          "//table/tbody/tr[4]/td[2]/allText()",
-          "//table/tbody/tr[6]/td[1]/allText()",
-          "//table/tbody/tr[6]/td[2]/allText()",
-          "//table/tbody/tr[1]/td[1]/allText()",
-          "//table/tbody/tr[1]/td[2]/allText()",
-          "//table/tbody/tr[7]/td[1]/allText()",
-          "//table/tbody/tr[7]/td[2]/allText()"
+          "//div[@class='myui-content__detail']/p[1]/text()",
+          "//div[@class='myui-content__detail']/p[2]/text()",
+          "//div[@class='myui-content__detail']/p[3]/text()",
+          "//div[@class='myui-content__detail']/p[5]/text()"
         ]
 	},
 	"play_video":""
