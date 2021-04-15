@@ -1,10 +1,10 @@
 {
-	"maxV": 202104090,
+	"maxV": 202104150,
 	"forceV": 202104090,
 	"downUrl": "https://lovevideo.bj.bcebos.com/apk/dlna.apk",
     "jxUrl": "https://okjx.cc/?url=",
 	"apps": [],
-	"hint": "1.9.0版本更新通知:\n1.修改视频解析问题\n2.增加邀请好友去广告功能\n3.增加投屏链接功能",
+	"hint": "1.9.1版本更新通知:\n1.视频搜索来源\n2.增加邀请好友去广告功能\n3.增加电影排行榜",
 	"home_config": {
 		"hide": [],
 		"ads": []
