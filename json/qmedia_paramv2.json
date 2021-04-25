@@ -15,7 +15,7 @@
     "config": {
         "root": "https://9bo.tv/",
         "type_format": "https://9bo.tv/%s/index.html",
-        "page_format": "https://9bo.tv/type/%s/%d.html",
+        "page_format": "https://9bo.tv/%s/index%d.html",
 		"search_format": "https://9bo.tv/search?wd=%s",
         "type": {
             "电影": "dianying",
