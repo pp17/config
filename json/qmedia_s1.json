@@ -1,6 +1,6 @@
 {
-	"root": "https://www.yuzhouys.com/",
-	"search_format": "https://www.yuzhouys.com/index.php/vod/search.html?wd=%s",
+	"root": "https://www.haimianys.com/",
+	"search_format": "https://www.haimianys.com/index.php/vod/search.html?wd=%s",
 	"isPost": false,
 	"search_rule": {
 		"title": "//dl[@class='mo-deta-info']/dd/h1/a/allText()",
