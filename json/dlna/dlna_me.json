@@ -1,7 +1,7 @@
 {
-	"maxV": 202009270,
+	"maxV": 202105130,
 	"forceV": 391,
-	"downUrl": "https://lovevideo.bj.bcebos.com/apk/dlna.apk",
+	"downUrl": "https://lovevideo.bj.bcebos.com/apk/dlna_me.apk",
     "jxUrl": "https://vip.bljiex.com/?v=",
 	"apps": [{
 		"name": "妖色",
@@ -21,7 +21,7 @@
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
 		"link": "https://51video.github.io/"
 	}],
-	"hint": "1.0.1版本更新通知:\n1.增加在线直播投屏功能\n2.增加影视搜索、观看及投屏功能",
+	"hint": "1.5.0版本更新通知:\n1.修复播放问题，使用内置播放器",
 	"home_config": {
 		"hide": [],
 		"ads": [{
