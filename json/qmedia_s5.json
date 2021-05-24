@@ -1,0 +1,23 @@
+{
+	"root": "https://www.858guakao.com/",
+	"search_format": "https://www.858guakao.com/search/-------------.html?wd=%s&submit=",
+	"isPost": false,
+	"search_rule": {
+		"title": "//ul[@id='searchList']/li/div[1]/a/@title",
+        "link": "//ul[@id='searchList']/li/div[1]/a/@abs:href",
+        "img": "//ul[@id='searchList']/li/div[1]/a/@abs:data-original"
+	},
+	"detail_rule": {
+		"play_url": "//div[@class='online-button']/a/@abs:href",
+        "intro": "//div[@class='myui-content__detail']/p[4]/text()",
+        "thumb": "//img[@class='img-thumbnail']/@src",
+        "items": "//ul[@class='myui-content__list']/li/a",
+		"attribute": [
+          "//div[@class='myui-content__detail']/p[1]/allText()",
+          "//div[@class='myui-content__detail']/p[2]/allText()",
+          "//div[@class='myui-content__detail']/p[3]/allText()",
+          "//div[@class='myui-content__detail']/p[5]/allText()"
+        ]
+	},
+	"play_video":""
+}
