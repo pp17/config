@@ -19,5 +19,6 @@
           "//div[@class='stui-content__detail']/p[4]/allText()"
         ]
 	}, 
+    "isPageFinish":true,
 	"play_video":"regex:http.+?\\.m3u8;0"
 } 
