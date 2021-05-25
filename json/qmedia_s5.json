@@ -1,11 +1,11 @@
 {
-	"root": "https://www.858guakao.com/",
-	"search_format": "https://www.858guakao.com/search/-------------.html?wd=%s&submit=",
+	"root": "https://www.wo03.com/",
+	"search_format": "https://www.wo03.com/search/-------------.html?wd=%s&submit=",
 	"isPost": false,
 	"search_rule": {
-		"title": "//ul[@id='searchList']/li/div[1]/a/@title",
-        "link": "//ul[@id='searchList']/li/div[1]/a/@abs:href",
-        "img": "//ul[@id='searchList']/li/div[1]/a/@abs:data-original"
+		"title": "//ul[@class='stui-vodlist__media col-pd clearfix']/li/div[1]/a/@title",
+        "link": "//ul[@class='stui-vodlist__media col-pd clearfix']/li/div[1]/a/@abs:href",
+        "img": "//ul[@class='stui-vodlist__media col-pd clearfix']/li/div[1]/a/@abs:data-original"
 	},
 	"detail_rule": {
 		"play_url": "//div[@class='online-button']/a/@abs:href",
