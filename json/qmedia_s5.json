@@ -1,4 +1,4 @@
-{
+ {
 	"root": "https://www.wo03.com/",
 	"search_format": "https://www.wo03.com/search/-------------.html?wd=%s&submit=",
 	"isPost": false,
@@ -18,6 +18,6 @@
           "//div[@class='myui-content__detail']/p[3]/allText()",
           "//div[@class='myui-content__detail']/p[5]/allText()"
         ]
-	},
+	}, 
 	"play_video":""
-}
+} 
