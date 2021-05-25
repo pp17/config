@@ -20,5 +20,5 @@
         ]
 	}, 
     "isPageFinish":false,
-	"play_video":"regex:http.+?\\.m3u8;0"
+	"play_video":"regex:\"http.+?\\.m3u8\";0"
 } 
