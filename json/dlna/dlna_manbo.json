@@ -1,0 +1,15 @@
+{
+	"maxV": 202104010,
+	"forceV": 391,
+	"downUrl": "https://lovevideo.bj.bcebos.com/apk/dlna0311.apk",
+	"apps": [],
+	"hint": "2.2.0版本更新通知:\n1.修复破解爱奇艺等会员视频功能",
+	"home_config": {
+		"hide": [],
+		"ads": [{
+			"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1gf8arcd8a4j30fk09d75k.jpg",
+			"adLink": "https://t.cn/A6wDWJC7",
+			"adTxt": "显示内容"
+		}]
+	}
+}
