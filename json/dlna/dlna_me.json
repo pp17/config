@@ -5,7 +5,7 @@
     "jxUrl": "https://okjx.cc/?url=",
     "ykJxUrl": "https://api.yueliangjx.com/?url=",
     "xtHelpUrl": "https://svo.gitee.io/svo/2021/07/02/xthelp/",
-    "isSupportMainSite":true,
+    "isSupportMainSite":false,
 	"sites": [{
 		"name": "BiliBili",
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
