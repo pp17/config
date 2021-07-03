@@ -3,10 +3,10 @@
     "version": 202105150,
     "help": "1不显示视频内容，0显示",
     "huawei": 0,
-    "qihu": 1,
-    "baidu": 1,
+    "qihu": 0,
+    "baidu": 0,
     "potal": 0,
-    "qq": 1,
+    "qq": 0,
     "ali": 0,
-	"xiaomi": 1
+	"xiaomi": 0
 }
