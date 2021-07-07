@@ -1,10 +1,10 @@
 {
-	"maxV": 202104010,
+	"maxV": 202107060,
 	"forceV": 391,
 	"downUrl": "https://lovevideo.bj.bcebos.com/apk/dlna0311.apk",
     "jxUrl": "https://okjx.cc/?url=",
 	"apps": [],
-	"hint": "2.2.0版本更新通知:\n1.修复破解爱奇艺等会员视频功能",
+	"hint": "2.3.7版本更新通知:\n1.增加美剧、日剧等来源\n2.搜索功能大调整\n3.修复电影分类问题",
 	"home_config": {
 		"hide": [],
 		"ads": [{
