@@ -1,11 +1,11 @@
 {
-	"root": "https://www.haimianys.com/",
-	"search_format": "https://www.haimianys.com/index.php/vod/search.html?wd=%s",
+	"root": "https://www.007ts.cc/",
+	"search_format": "https://www.007ts.cc/search/-------------.html?wd=%s",
 	"isPost": false,
 	"search_rule": {
-		"title": "//dl[@class='mo-deta-info']/dd/h1/a/allText()",
-		"link": "//dl[@class='mo-deta-info']/dd/h1/a/@abs:href",
-		"img": "//dl[@class='mo-deta-info']/dt/a/@abs:data-original"
+		"title": "//div[@class='module-search-item']//img/@alt",
+		"link": "//div[@class='module-search-item']//a[@class='video-serial']/@abs:href",
+		"img": "//div[@class='module-search-item']//img/@data-src"
 	},
     "detail_rule": {
             "play_url": "//div[@class='play-btny']/a/@abs:href",
