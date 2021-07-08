@@ -10,7 +10,7 @@
     "detail_rule": {
             "play_url": "",
             "intro": "//p[@class='sqjj_a']/allText()",
-            "thumb": "//div[@class='module-item-pic'/]/img/@data-src",
+            "thumb": "//div[@class='module-item-pic']/img/@data-src",
             "items": "//div[@class='scroll-content']/a",
 			"attribute": ["//div[@class^='video-info-main']/div[1]/allText()","//div[@class^='video-info-main']/div[2]/allText()","//div[@class^='video-info-main']/div[3]/allText()"]
         },
