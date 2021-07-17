@@ -15,7 +15,7 @@
     "hint": "1.修复搜索内容减少的问题及已知问题",
 	"search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s4.json","https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s1.json","https://gitee.com/svo/config/blob/master/json/qmedia_s5.json"],
     "config": {
-        "root": "https://www.pianku.li/",
+        "root": "https://www.mypianku.net",
         "type_format": "https://9bo.tv/%s/index.html",
         "page_format": "https://9bo.tv/%s/index%d.html",
 		"search_format": "https://9bo.tv/search?wd=%s",
