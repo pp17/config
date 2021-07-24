@@ -6,8 +6,7 @@
     "searchJxUrl": "https://api.yueliangjx.com/?url=",
     "apps": "",
     "ads": [],
-    "downUrl": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
-    "ddu": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
+    "downUrl": "http://wap.apk.anzhi.com/data5/apk/202107/23/b6276e40a38ec0c142b50b617858e6f9_09622500.apk",
     "hint": "1.修复搜索内容减少的问题及已知问题",
 	"search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s4.json"],
     "config": {
