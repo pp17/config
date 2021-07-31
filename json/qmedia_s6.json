@@ -1,24 +1,25 @@
  {
-	"root": "https://www.wo03.com/",
-	"search_format": "https://www.wo03.com/search/-------------.html?wd=%s&submit=",
+	"root": "http://m.msong.net/",
+	"search_format": "http://m.msong.net/tv-search-wd-%s.html",
 	"isPost": false,
 	"search_rule": {
-		"title": "//ul[@class~='stui-vodlist__media\\scol-pd\\sclearfix']/li/div[1]/a/@title",
-        "link": "//ul[@class~='stui-vodlist__media\\scol-pd\\sclearfix']/li/div[1]/a/@abs:href",
-        "img": "//ul[@class~='stui-vodlist__media\\scol-pd\\sclearfix']/li/div[1]/a/@abs:data-original"
+		"title": "//ul[@id~='data_list']/li/div[1]/a/@title",
+        "link": "//ul[@id~='data_list']/li/div[1]/a/@abs:href",
+        "img": "//ul[@id~='data_list']/li/div[1]/a/img/@abs:data-src"
 	},
 	"detail_rule": {
 		"play_url": "//div[@class='online-button']/a/@abs:href",
-        "intro": "//span[@class='detail-content']/allText()",
+        "intro": "//div[@class~='tabConList']/div[2]/div/allText()",
         "thumb": "",
-        "items": "//ul[@class='stui-content__playlist']/li/a",
+        "items": "//div[@id='yunbo_tab_0']/li/a",
 		"attribute": [
-          "//div[@class='stui-content__detail']/p[1]/allText()",
-          "//div[@class='stui-content__detail']/p[2]/allText()",
-          "//div[@class='stui-content__detail']/p[3]/allText()",
-          "//div[@class='stui-content__detail']/p[4]/allText()"
+          "//p[@class='pBottom']/span[1]/allText()",
+          "//p[@class='pBottom']/span[2]/allText()",
+          "//p[@class='pBottom']/span[4]/allText()",
+          "//p[@class='pBottom']/span[5]/allText()",
+          "//p[@class='pBottom']/span[6]/allText()"
         ]
 	}, 
     "isPageFinish":false,
-	"play_video":"regex:\"(http\\S+?\\.m3u8)\";1"
+	"play_video":""
 } 
