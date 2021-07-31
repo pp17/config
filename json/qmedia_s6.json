@@ -13,10 +13,10 @@
         "thumb": "//div[@class='posterPic']/img/@src",
         "items": "//div[@id='yunbo_tab_0']/ul/li/a",
 		"attribute": [
-          "//p[@class='pBottom']/span[1]/allText()",
-          "//p[@class='pBottom']/span[2]/allText()",
           "//p[@class='pBottom']/span[4]/allText()",
           "//p[@class='pBottom']/span[5]/allText()",
+          "//p[@class='pBottom']/span[1]/allText()",
+          "//p[@class='pBottom']/span[2]/allText()",
           "//p[@class='pBottom']/span[6]/allText()"
         ]
 	}, 
