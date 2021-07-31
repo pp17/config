@@ -10,8 +10,8 @@
 	"detail_rule": {
 		"play_url": "//div[@class='online-button']/a/@abs:href",
         "intro": "//div[@class~='tabConList']/div[2]/div/allText()",
-        "thumb": "",
-        "items": "//div[@id='yunbo_tab_0']/li/a",
+        "thumb": "//div[@class='posterPic']/img/@src",
+        "items": "//div[@id='yunbo_tab_0']/ul/li/a",
 		"attribute": [
           "//p[@class='pBottom']/span[1]/allText()",
           "//p[@class='pBottom']/span[2]/allText()",
