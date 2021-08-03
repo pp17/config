@@ -1,6 +1,6 @@
  {
-	"root": "https://www.wo03.com/",
-	"search_format": "https://www.wo03.com/search/-------------.html?wd=%s&submit=",
+	"root": "https://www.kanjd.com/",
+	"search_format": "https://www.kanjd.com/search/-------------.html?wd=%s&submit=",
 	"isPost": false,
 	"search_rule": {
 		"title": "//ul[@class~='stui-vodlist__media\\scol-pd\\sclearfix']/li/div[1]/a/@title",
