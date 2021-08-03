@@ -9,15 +9,14 @@
 	},
 	"detail_rule": {
 		"play_url": "//div[@class='online-button']/a/@abs:href",
-        "intro": "//div[@class~='tabConList']/div[2]/div/allText()",
-        "thumb": "//div[@class='posterPic']/img/@src",
-        "items": "//div[@id='yunbo_tab_0']/ul/li/a",
+        "intro": "//span[@class='sketch content']/allText()",
+        "thumb": "//a[@class~='myui-vodlist__thumb']/img/@abs:data-original",
+        "items": "//div[@id='playlist1']/ul/li/a",
 		"attribute": [
-          "//p[@class='pBottom']/span[4]/allText()",
-          "//p[@class='pBottom']/span[5]/allText()",
-          "//p[@class='pBottom']/span[1]/allText()",
-          "//p[@class='pBottom']/span[2]/allText()",
-          "//p[@class='pBottom']/span[6]/allText()"
+          "//div[@class='myui-content__detail']/p[1]/allText()",
+          "//div[@class='myui-content__detail']/p[2]/allText()",
+          "//div[@class='myui-content__detail']/p[3]/allText()",
+          "//div[@class='myui-content__detail']/p[4]/allText()"
         ]
 	}, 
     "isPageFinish":false,
