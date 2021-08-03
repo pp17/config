@@ -1,6 +1,6 @@
 {
-	"root": "https://www.siguyy.com/",
-	"search_format": "https://www.siguyy.com/search/-------------.html?wd=%s&submit=",
+	"root": "https://447k.com/",
+	"search_format": "https://447k.com/search/-------------.html?wd=%s&submit=",
 	"isPost": false,
 	"search_rule": {
 		"title": "//ul[@id='searchList']/li/div[1]/a/@title",
