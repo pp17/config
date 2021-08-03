@@ -3,9 +3,9 @@
 	"search_format": "http://www.unss.net/vodsearch/-------------.html?wd=%s&submit=",
 	"isPost": false,
 	"search_rule": {
-		"title": "//ul[@id~='data_list']/li/div[1]/a/@title",
-        "link": "//ul[@id~='data_list']/li/div[1]/a/@abs:href",
-        "img": "//ul[@id~='data_list']/li/div[1]/a/img/@abs:data-src"
+		"title": "//ul[@id='searchList']/li/div[1]/a/@title",
+        "link": "//ul[@id='searchList']/li/div[1]/a/@abs:href",
+        "img": "//ul[@id='searchList']/li/div[1]/a/@abs:data-original"
 	},
 	"detail_rule": {
 		"play_url": "//div[@class='online-button']/a/@abs:href",
