@@ -1,6 +1,6 @@
  {
-	"root": "http://m.msong.net/",
-	"search_format": "http://m.msong.net/tv-search-wd-%s.html",
+	"root": "http://www.unss.net/",
+	"search_format": "http://www.unss.net/vodsearch/-------------.html?wd=%s&submit=",
 	"isPost": false,
 	"search_rule": {
 		"title": "//ul[@id~='data_list']/li/div[1]/a/@title",
