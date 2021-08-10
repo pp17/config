@@ -2,7 +2,7 @@
     "includeOld": false,
     "version": 202105155,
     "help": "1不显示视频内容，0显示",
-    "huawei": 1,
+    "huawei": 0,
     "qihu": 0,
     "anzhi": 0,
     "potal": 0,
