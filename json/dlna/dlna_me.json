@@ -2,7 +2,7 @@
 	"maxV": 202105130,
 	"forceV": 391,
 	"downUrl": "https://lovevideo.bj.bcebos.com/apk/dlna_me.apk",
-    "jxUrl": "https://jx.m3u8.tv/jiexi/?url=",
+    "jxUrl": "http://47.95.28.242/jx/own/json/?url=",
     "ykJxUrl": "https://api.yueliangjx.com/?url=",
     "xtHelpUrl": "https://svo.gitee.io/svo/2021/07/02/xthelp/",
 	"sites": [{
