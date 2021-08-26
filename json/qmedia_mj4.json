@@ -1,0 +1,20 @@
+ {
+	"root": "https://www.meijui.com/",
+	"search_format": "https://www.meijui.com/search/-------------.html?wd=%s",
+	"isPost": false,
+	"search_rule": {
+		"title": "//div[@class~='video-content']//article/a/h2/text()",
+        "link": "//div[@class~='video-content']//article/a/@abs:href",
+        "img": "//div[@class~='video-content']//article/a//img/@abs:data-original"
+	},
+	"detail_rule": {
+		"play_url": "",
+        "intro": "//p[@class='jianjie']/allText()",
+        "thumb": "",
+        "items": "//div[@id='detail-content']/ul/li/a",
+		"attribute": [
+          "//div[@class='video_info']/strong[1]/allText()"
+        ]
+	}, 
+	"play_video":"strict"
+} 
