@@ -1,20 +1,24 @@
  {
-	"root": "https://www.meijui.com/",
-	"search_format": "https://www.meijui.com/search/-------------.html?wd=%s",
+	"root": "http://www.imj6.com/",
+	"search_format": "http://www.imj6.com/search/-------------.html?wd=%s",
 	"isPost": false,
 	"search_rule": {
-		"title": "//div[@class~='video-content']//article/a/h2/text()",
-        "link": "//div[@class~='video-content']//article/a/@abs:href",
-        "img": "//div[@class~='video-content']//article/a//img/@abs:data-original"
+		"title": "//div[@class~='m-movies']//article/a/h2/text()",
+        "link": "//div[@class~='m-movies']//article/a/@abs:href",
+        "img": "//div[@class~='m-movies']//article/a//img/@abs:data-original"
 	},
 	"detail_rule": {
 		"play_url": "",
-        "intro": "//p[@class='jianjie']/allText()",
+        "intro": "//p[@class='abstract-content']/allText()",
         "thumb": "",
-        "items": "//div[@id='detail-content']/ul/li/a",
+        "items": "//div[@id='video_list_li']/li/a",
 		"attribute": [
-          "//div[@class='video_info']/strong[1]/allText()"
+          "//div[@class='title11']/p[1]/allText()",
+          "//div[@class='title11']/p[2]/allText()",
+          "//div[@class='title11']/p[3]/allText()",
+          "//div[@class='title11']/p[5]/allText()",
+          "//div[@class='title11']/p[6]/allText()"
         ]
 	}, 
-	"play_video":"strict"
+	"play_video":""
 } 
