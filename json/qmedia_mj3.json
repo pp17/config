@@ -16,5 +16,5 @@
           "//div[@class='video_info']/strong[1]/allText()"
         ]
 	}, 
-	"play_video":"strict"
+	"play_video":""
 } 
