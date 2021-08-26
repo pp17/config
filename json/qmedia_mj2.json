@@ -1,11 +1,11 @@
  {
-	"root": "https://www.meiju11.com/",
-	"search_format": "https://www.meiju11.com/new/video/search/%s.html",
+	"root": "https://www.imeiju.io/",
+	"search_format": "https://www.imeiju.io/?s=%s",
 	"isPost": false,
 	"search_rule": {
-		"title": "//ul[@class~='thumbnail-group']/li/div/h5/a/@title",
-        "link": "//ul[@class~='thumbnail-group']/li/div/h5/a/@abs:href",
-        "img": "//ul[@class~='thumbnail-group']/li//img/@abs:src"
+		"title": "//div[@class~='list-content']//article/a/h2/text()",
+        "link": "//div[@class~='list-content']//article/a/@abs:href",
+        "img": "//div[@class~='list-content']//article/a//img/@abs:data-original"
 	},
 	"detail_rule": {
 		"play_url": "",
