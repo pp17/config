@@ -1,6 +1,6 @@
 {
     "maxVersion": 202107130,
-    "forceV": 202007240,
+    "forceV": 202107130,
     "gen": "http://www.yc2050.com/",
     "gen2": "http://www.aiaiaike.com/",
     "gen3": "http://www.biqiaqia.com/",
@@ -9,7 +9,7 @@
     "ads": [],
     "downUrl": "https://lovevideo.bj.bcebos.com/apk/mjyoyo.apk",
     "ddu": "https://lovevideo.bj.bcebos.com/apk/mjyoyo.apk",
-    "hint": "1.修复会员视频解析功能\n2.新的app，内容更丰富",
+    "hint": "请使用美剧YoYo2:\n1.新的应用，旧版本不再维护",
     "rec": {"1":[82081,198763,105033,196501,198528,133022,180576],"2":[222075,222790,102625,199106,180036,197583,207115],"3":[167542,223609,224399,224364,223608,224216,224386],"4":[225326,224826,225600,225655,225527,214391,223886]},
 	"search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s3.json","https://gitee.com/svo/config/blob/master/json/qmedia_s1.json","https://gitee.com/svo/config/blob/master/json/qmedia_s5.json"],
     "config": {
