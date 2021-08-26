@@ -5,7 +5,7 @@
 	"search_rule": {
 		"title": "//div[@class~='m-movies']//article/a/h2/text()",
         "link": "//div[@class~='m-movies']//article/a/@abs:href",
-        "img": "//div[@class~='m-movies']//article/a//img/@abs:data-original"
+        "img": "//div[@class~='m-movies']//article/a//img/@abs:src"
 	},
 	"detail_rule": {
 		"play_url": "",
