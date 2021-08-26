@@ -9,14 +9,14 @@
 	},
 	"detail_rule": {
 		"play_url": "",
-        "intro": "//p[@class='detail-intro']/allText()",
+        "intro": "//div[@class='abstract-content']/allText()",
         "thumb": "",
-        "items": "//ul[@class='detail-play-list']/li/a",
+        "items": "//div[@id='video_list_li']/a",
 		"attribute": [
-          "//ul[@class='detail-actor']/li[1]/allText()",
-          "//ul[@class='detail-actor']/li[2]/allText()",
-          "//ul[@class='detail-actor']/li[3]/allText()",
-          "//ul[@class='detail-actor']/li[4]/allText()"
+          "//ul[@id='video_list']/li[1]/allText()",
+          "//ul[@id='video_list']/li[2]/allText()",
+          "//ul[@id='video_list']/li[5]/allText()",
+          "//ul[@id='video_list']/li[8]/allText()"
         ]
 	}, 
 	"play_video":"strict"
