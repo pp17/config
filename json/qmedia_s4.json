@@ -1,6 +1,6 @@
 {
 	"root": "https://cvcv.tv/",
-	"search_format": "https://cvcv.tv/search/-------------.html?wd=%s&submit=",
+	"search_format": "https://cvcv.tv/index.php/vod/search/wd/%s.html",
 	"isPost": false,
 	"search_rule": {
 		"title": "//ul[@id='searchList']/li/div[1]/a/@title",
