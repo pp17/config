@@ -11,7 +11,8 @@
 		"play_url": "//div[@class='online-button']/a/@abs:href",
         "intro": "//span[@class='sketch content']/allText()",
         "thumb": "//a[@class~='myui-vodlist__thumb']/img/@abs:data-original",
-        "items": "//div[@id='playlist1']/ul/li/a",
+        "lines": "//div[@class='tab-content myui-panel_bd']/div",
+        "items": "//div[@class='tab-content myui-panel_bd']/div/ul/li/a",
 		"attribute": [
           "//div[@class='myui-content__detail']/p[1]/allText()",
           "//div[@class='myui-content__detail']/p[2]/allText()",
