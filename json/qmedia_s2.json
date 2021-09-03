@@ -11,6 +11,7 @@
             "play_url": "//a[@class='ico play']/@abs:href",
             "intro": "//div[@class='movie-detail']/allText()",
             "thumb": "//img[@data-toggle='lightbox']/@abs:data-image",
+            "lines": "//ul[@class='clearfix']",
             "items": "//ul[@class='clearfix']/li/a",
 			"attribute": ["//div[@class^='col-md-9']/p[1]/allText()","//div[@class~='col-md-9']/p[2]/allText()","//div[@class^='col-md-9']/p[3]/allText()","//div[@class^='col-md-9']/p[4]/allText()","//div[@class^='col-md-9']/p[5]/allText()"]
         },
