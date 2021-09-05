@@ -1,7 +1,7 @@
 {
-	"maxV": 202009270,
-	"forceV": 391,
-	"downUrl": "https://lovevideo.bj.bcebos.com/apk/dlna.apk",
+	"maxV": 212109040,
+	"forceV": 202104090,
+	"downUrl": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
 	"apps": [{
 		"name": "妖色",
 		"tag": "美女私房照-大饱眼福",
@@ -14,19 +14,10 @@
 		"size": "3.87M",
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
 		"link": "http://lovevideo.bj.bcebos.com/apk%2Fqmedia.apk"
-	},{
-		"name": "桔子影视TV版",
-		"tag": "VIP资源免费看,破解神器",
-		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
-		"link": "https://51video.github.io/"
 	}],
-	"hint": "1.0.1版本更新通知:\n1.增加在线直播投屏功能\n2.增加影视搜索、观看及投屏功能",
+	"hint": "全新改版，桔子影视:\n1.新的应用，功能更强大\n2.在旧版本基础上，搜索功能聚合多处来源，影视更全，观看体验更好\n3.旧版不再维护",
 	"home_config": {
 		"hide": [],
-		"ads": [{
-			"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1gf8arcd8a4j30fk09d75k.jpg",
-			"adLink": "https://t.cn/A6wDWJC7",
-			"adTxt": "显示内容"
-		}]
+		"ads": []
 	}
 }
