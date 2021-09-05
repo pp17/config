@@ -1,10 +1,10 @@
 {
-	"maxV": 202107060,
+	"maxV": 212109040,
 	"forceV": 202107050,
-	"downUrl": "https://lovevideo.bj.bcebos.com/apk/dlna0311.apk",
+	"downUrl": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
     "jxUrl": "http://47.95.28.242/jx/own/json/?url=",
 	"apps": [],
-	"hint": "2.3.7版本更新通知:\n1.增加美剧、日剧等来源\n2.搜索功能大调整\n3.修复电影分类问题",
+	"hint": "全新改版，桔子影视:\n1.新的应用，功能更强大\n2.在旧版本基础上，搜索功能聚合多处来源，影视更全，观看体验更好\n3.旧版不再维护",
 	"home_config": {
 		"hide": [],
 		"ads": [{
