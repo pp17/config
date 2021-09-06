@@ -15,9 +15,9 @@
 		"attribute": [
           "//div[@class='ct-c']/dl/dt[2]/allText()",
           "//div[@class='ct-c']/dl/dt[3]/allText()",
-          "//div[@class='ct-c']/dl/dd[5]/allText()",
-          "//div[@class='ct-c']/dl/dd[6]/allText()",
-          "//div[@class='ct-c']/dl/dd[7]/allText()"
+          "//div[@class='ct-c']/dl/dd[2]/allText()",
+          "//div[@class='ct-c']/dl/dd[3]/allText()",
+          "//div[@class='ct-c']/dl/dd[4]/allText()"
         ]
 	},
 	"play_video":""
