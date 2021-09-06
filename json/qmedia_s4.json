@@ -1,22 +1,23 @@
 {
-	"root": "https://cvcv.tv/",
-	"search_format": "https://cvcv.tv/index.php/vod/search.html?wd=%s&submit=",
-	"isPost": false,
+	"root": "http://www.nindedy.com/",
+	"search_format": "http://www.nindedy.com/search.php?searchword=%s",
+	"isPost": true,
 	"search_rule": {
-		"title": "//ul[@id='searchList']/li/div[1]/a/@title",
-        "link": "//ul[@id='searchList']/li/div[1]/a/@abs:href",
-        "img": "//ul[@id='searchList']/li/div[1]/a/@abs:data-original"
+		"title": "//div[@class='index-area clearfix']/ul/li/a/@title",
+        "link": "//div[@class='index-area clearfix']/ul/li/a/@abs:href",
+        "img": "//div[@class='index-area clearfix']/ul/li/a/img/@abs:data-original"
 	},
 	"detail_rule": {
 		"play_url": "",
-        "intro": "//span[@class='data']/allText()",
+        "intro": "//div[@name='ee']/@ee",
         "thumb": "",
-        "items": "//ul[@class='myui-content__list']/li/a",
+        "items": "//div[@id='vlink_1']/ul/li/a",
 		"attribute": [
-          "//div[@class='myui-content__detail']/p[1]/allText()",
-          "//div[@class='myui-content__detail']/p[2]/allText()",
-          "//div[@class='myui-content__detail']/p[3]/allText()",
-          "//div[@class='myui-content__detail']/p[4]/allText()"
+          "//div[@class='ct-c']/dl/dt[2]/allText()",
+          "//div[@class='ct-c']/dl/dt[3]/allText()",
+          "//div[@class='ct-c']/dl/dt[5]/allText()",
+          "//div[@class='ct-c']/dl/dt[6]/allText()",
+          "//div[@class='ct-c']/dl/dt[7]/allText()"
         ]
 	},
 	"play_video":""
