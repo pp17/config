@@ -11,7 +11,7 @@
     "ads": [],
     "downUrl": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
     "lzUrl": "https://51video.lanzoui.com/i8in6to0chc",
-    "hint": "1.修复搜索内容减少的问题及已知问题",
+    "hint": "2.6.1版本更新内容：\n1.记录视频播放位置 \n2.完善播放历史功能 \n3.优化及完善",
 	"search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s6.json","https://gitee.com/svo/config/blob/master/json/qmedia_s5.json","https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s1.json","https://gitee.com/svo/config/blob/master/json/qmedia_s7.json","https://gitee.com/svo/config/blob/master/json/qmedia_s4.json"],
     "config": {
         "root": "https://9bo.tv/",
