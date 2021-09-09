@@ -3,8 +3,8 @@
 	"search_format": "https://www.meiju11.com/search.php?searchword=%s",
 	"isPost": false,
 	"search_rule": {
-		"title": "//dl[@class='content']/dd//a[1]/@title",
-        "link": "//dl[@class='content']/dd//a[1]/@abs:href",
+		"title": "//dl[@class='content']/dd/div[1]/h3/a/text()",
+        "link": "//dl[@class='content']/dd/div[1]/h3/a/@abs:href",
         "img": "//dl[@class='content']/dt/a/@style"
 	},
 	"detail_rule": {
