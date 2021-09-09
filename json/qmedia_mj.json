@@ -1,6 +1,6 @@
  {
 	"root": "https://www.meiju11.com/",
-	"search_format": "https://www.meiju11.com/new/video/search/%s.html",
+	"search_format": "https://www.meiju11.com/search.php?searchword=%s",
 	"isPost": false,
 	"search_rule": {
 		"title": "//ul[@class~='thumbnail-group']/li/div/h5/a/@title",
