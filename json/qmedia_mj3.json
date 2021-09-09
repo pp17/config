@@ -1,6 +1,6 @@
  {
-	"root": "https://www.meijui.com/",
-	"search_format": "https://www.meijui.com/search/-------------.html?wd=%s",
+	"root": "https://www.meijui.net/",
+	"search_format": "https://www.meijui.net/search.html?wd=%s",
 	"isPost": false,
 	"search_rule": {
 		"title": "//div[@class~='video-content']//article/a/h2/text()",
