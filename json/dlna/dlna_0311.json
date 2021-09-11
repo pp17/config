@@ -8,9 +8,10 @@
 	"home_config": {
 		"hide": [],
 		"ads": [{
-			"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1gf8arcd8a4j30fk09d75k.jpg",
-			"adLink": "https://t.cn/A6wDWJC7",
-			"adTxt": "显示内容"
-		}]
+	"adImgUrl": "https://gitee.com/svo/config/raw/master/media/img/xiandan.jpg",
+	"adLink": "http://xiandan3.lcrlzy.cn/",
+	"alpha": 255,
+	"adTxt": "显示内容"
+}]
 	}
 }
