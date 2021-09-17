@@ -2,7 +2,7 @@
 	"maxV": 202105130,
 	"forceV": 391,
 	"downUrl": "https://lovevideo.bj.bcebos.com/apk/dlna_me.apk",
-    "jxUrl": "http://47.95.28.242/jx/own/json/?url=",
+    "jxUrl": "https://jx.xmflv.com/?url=",
     "ykJxUrl": "https://api.yueliangjx.com/?url=",
     "xtHelpUrl": "https://svo.gitee.io/svo/2021/07/02/xthelp/",
     "search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s5.json","https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s1.json","https://gitee.com/svo/config/blob/master/json/qmedia_s7.json","https://gitee.com/svo/config/blob/master/json/qmedia_s4.json"],
