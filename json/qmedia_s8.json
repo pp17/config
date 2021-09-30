@@ -1,0 +1,25 @@
+ {
+	"root": "http://www.unss.net/",
+	"search_format": "http://www.unss.net/vodsearch/-------------.html?wd=%s&submit=",
+	"isPost": false,
+	"search_rule": {
+		"title": "//ul[@id='searchList']/li/div[1]/a/@title",
+        "link": "//ul[@id='searchList']/li/div[1]/a/@abs:href",
+        "img": "//ul[@id='searchList']/li/div[1]/a/@abs:data-original"
+	},
+	"detail_rule": {
+		"play_url": "//div[@class='online-button']/a/@abs:href",
+        "intro": "//span[@class='sketch content']/allText()",
+        "thumb": "//a[@class~='myui-vodlist__thumb']/img/@abs:data-original",
+        "lines": "//div[@class='tab-content myui-panel_bd']/div",
+        "items": "//div[@class='tab-content myui-panel_bd']/div/ul/li/a",
+		"attribute": [
+          "//div[@class='myui-content__detail']/p[1]/allText()",
+          "//div[@class='myui-content__detail']/p[2]/allText()",
+          "//div[@class='myui-content__detail']/p[3]/allText()",
+          "//div[@class='myui-content__detail']/p[4]/allText()"
+        ]
+	}, 
+    "isPageFinish":false,
+	"play_video":""
+} 
