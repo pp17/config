@@ -8,16 +8,16 @@
         "img": "//div[@class='module-search-item']/div[1]/div[1]/a/img/@abs:data-src"
 	},
 	"detail_rule": {
-		"play_url": "//div[@class='online-button']/a/@abs:href",
-        "intro": "//span[@class='sketch content']/allText()",
-        "thumb": "//a[@class~='myui-vodlist__thumb']/img/@abs:data-original",
-        "lines": "//div[@class='tab-content myui-panel_bd']/div",
-        "items": "//div[@class='tab-content myui-panel_bd']/div/ul/li/a",
+		"play_url": "",
+        "intro": "//p[@class='sqjj_a']/allText()",
+        "thumb": "",
+        "lines": "//div[@class='scroll-content']",
+        "items": "//div[@class='scroll-content']/a",
 		"attribute": [
-          "//div[@class='myui-content__detail']/p[1]/allText()",
-          "//div[@class='myui-content__detail']/p[2]/allText()",
-          "//div[@class='myui-content__detail']/p[3]/allText()",
-          "//div[@class='myui-content__detail']/p[4]/allText()"
+          "//div[@class='video-info-main']/div[1]/allText()",
+          "//div[@class='video-info-main']/div[2]/allText()",
+          "//div[@class='video-info-main']/div[3]/allText()",
+          "//div[@class='video-info-main']/div[4]/allText()"
         ]
 	}, 
     "isPageFinish":false,
