@@ -12,8 +12,8 @@
     "laba": "def",
     "ads": [],
     "downUrl": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
-    "lzUrl": "https://51video.lanzoui.com/ieToYu2clkf",
-    "hint": "2.6.5版本更新内容：\n1.添加美剧等外剧资源 \n2.电视直播功能强化 \n3.添加热门搜索",
+    "lzUrl": "https://51video.lanzoui.com/i8ru6uostzg",
+    "hint": "2.6.6版本更新内容：\n1.解决跳转快应用问题\n2.添加美剧等外剧资源 \n3.添加热门搜索",
 	"search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s5.json","https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s1.json","https://gitee.com/svo/config/blob/master/json/qmedia_s7.json","https://gitee.com/svo/config/blob/master/json/qmedia_s4.json"],
     "config": {
         "root": "https://9bo.tv/",
