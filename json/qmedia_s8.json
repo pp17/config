@@ -1,11 +1,11 @@
  {
-	"root": "http://www.unss.net/",
-	"search_format": "http://www.unss.net/vodsearch/-------------.html?wd=%s&submit=",
+	"root": "https://www.jiujiukp.com/",
+	"search_format": "https://www.jiujiukp.com/search?wd=%s",
 	"isPost": false,
 	"search_rule": {
-		"title": "//ul[@id='searchList']/li/div[1]/a/@title",
-        "link": "//ul[@id='searchList']/li/div[1]/a/@abs:href",
-        "img": "//ul[@id='searchList']/li/div[1]/a/@abs:data-original"
+		"title": "//div[@class='module-search-item']/div[1]/div[1]/a/img/@alt",
+        "link": "//div[@class='module-search-item']/div[1]/div[1]/a/@abs:href",
+        "img": "//div[@class='module-search-item']/div[1]/div[1]/a/img/@abs:data-src"
 	},
 	"detail_rule": {
 		"play_url": "//div[@class='online-button']/a/@abs:href",
