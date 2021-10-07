@@ -5,9 +5,9 @@
   "hint": "1.修复在部分电视上崩溃的问题\n2.完善视频解析",
   "config": [
     {
-      "root": "http://www.k2938.com/",
-      "page_format": "http://www.k2938.com/type/%s/%d.html",
-      "search_format": "http://www.k2938.com/search?wd=%s",
+      "root": "https://www.jiujiukanpian.com/",
+      "page_format": "https://www.jiujiukanpian.com/type/%s/%d.html",
+      "search_format": "https://www.jiujiukanpian.com/search?wd=%s",
       "search_rule": {
         "title": "//div[@class='movie-item']/a/@title",
         "link": "//div[@class='movie-item']/a/@abs:href",
