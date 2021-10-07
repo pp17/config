@@ -1,6 +1,6 @@
  {
-	"root": "https://www.jiujiukp.com/",
-	"search_format": "https://www.jiujiukp.com/search?wd=%s",
+	"root": "https://www.jiujiukanju.com/",
+	"search_format": "https://www.jiujiukanju.com/search?wd=%s",
 	"isPost": false,
 	"search_rule": {
 		"title": "//div[@class='module-search-item']/div[1]/div[1]/a/img/@alt",
