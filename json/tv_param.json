@@ -1,7 +1,7 @@
 {
   "maxVersion": 202110220,
   "forceV": 201912120,
-  "downUrl": "https://lovevideo.bj.bcebos.com/apk%2Fqmedia_tv.apk",
+  "downUrl": "https://lovevideo.bj.bcebos.com/apk%2Fqmedia.apk",
   "jxUrl": "https://jx.xmflv.com/?url=",
   "hint": "1.修复在部分电视上崩溃的问题\n2.完善视频解析",
   "config": [
