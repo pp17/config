@@ -1,6 +1,6 @@
  {
-	"root": "https://www.jiujiukanju.com/",
-	"search_format": "https://www.jiujiukanju.com/search?wd=%s",
+	"root": "https://www.jiujiukanpian.com/",
+	"search_format": "https://www.jiujiukanpian.com/search?wd=%s",
 	"isPost": false,
 	"search_rule": {
 		"title": "//div[@class='movie-item']/a/@title",
