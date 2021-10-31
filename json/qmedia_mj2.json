@@ -11,6 +11,7 @@
 		"play_url": "",
         "intro": "//div[@class='abstract-content']/allText()",
         "thumb": "",
+        "lines": "//div[@class='playlist']",
         "items": "//div[@class='playlist']/li/a",
 		"attribute": [
           "//ul[@id='video_list']/li[1]/allText()",
