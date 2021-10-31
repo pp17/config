@@ -20,5 +20,5 @@
           "//ul[@id='video_list']/li[8]/allText()"
         ]
 	}, 
-	"play_video":""
+	"play_video":"strict"
 } 
