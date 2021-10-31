@@ -1,11 +1,11 @@
  {
 	"root": "https://www.imeiju.io/",
-	"search_format": "https://www.imeiju.io/?s=%s",
+	"search_format": "https://www.imeiju.io/search.php?searchword=%s",
 	"isPost": false,
 	"search_rule": {
-		"title": "//div[@class~='list-content']//article/a/h2/text()",
-        "link": "//div[@class~='list-content']//article/a/@abs:href",
-        "img": "//div[@class~='list-content']//article/a//img/@abs:data-original"
+		"title": "//div[@class~='m-movies clearfix']/article/a/h2/text()",
+        "link": "//div[@class~='m-movies clearfix']/article/a/@abs:href",
+        "img": "//div[@class~='m-movies clearfix']/article/a//img/@abs:data-original"
 	},
 	"detail_rule": {
 		"play_url": "",
