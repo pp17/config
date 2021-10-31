@@ -11,10 +11,10 @@
 		"play_url": "",
         "intro": "//div[@class='abstract-content']/allText()",
         "thumb": "",
-        "items": "//div[@id='video_list_li']/a",
+        "items": "//div[@class='playlist']/li/a",
 		"attribute": [
           "//ul[@id='video_list']/li[1]/allText()",
-          "//ul[@id='video_list']/li[2]/allText()",
+          "//ul[@id='video_list']/li[3]/allText()",
           "//ul[@id='video_list']/li[5]/allText()",
           "//ul[@id='video_list']/li[8]/allText()"
         ]
