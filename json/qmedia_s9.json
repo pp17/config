@@ -1,0 +1,26 @@
+ {
+	"root": "https://www.jiujiukanpian.com/",
+	"search_format": "https://www.jiujiukanpian.com/search?wd=%s",
+	"isPost": false,
+	"search_rule": {
+		"title": "//div[@class='movie-item']/a/@title",
+        "link": "//div[@class='movie-item']/a/@abs:href",
+        "img": "//div[@class='movie-item']/a/img/@abs:src"
+	},
+	"detail_rule": {
+		"play_url": "",
+        "intro": "//p[@class='summary']/allText()",
+        "thumb": "",
+        "lines": "//ul[@class='dslist-group']",
+        "items": "//ul[@class='dslist-group']/li/a",
+		"attribute": [
+          "//tbody/tr[1]/allText()",
+          "//tbody/tr[2]/allText()",
+          "//tbody/tr[3]/allText()",
+          "//tbody/tr[5]/allText()",
+          "//tbody/tr[6]/allText()"
+        ]
+	}, 
+    "isPageFinish":false,
+	"play_video":""
+} 
