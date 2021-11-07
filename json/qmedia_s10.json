@@ -1,24 +1,23 @@
  {
-	"root": "https://www.jiujiukanpian.com/",
-	"search_format": "https://www.jiujiukanpian.com/search?wd=%s",
+	"root": "https://www.bjoku.com/",
+	"search_format": "https://www.bjoku.com/sosou.html?wd=%s&submit=",
 	"isPost": false,
 	"search_rule": {
-		"title": "//div[@class='movie-item']/a/@title",
-        "link": "//div[@class='movie-item']/a/@abs:href",
-        "img": "//div[@class='movie-item']/a/img/@abs:src"
+		"title": "//ul[@class='stui-vodlist__media col-pd clearfix']/li/div[1]/a/@title",
+        "link": "//ul[@class='stui-vodlist__media col-pd clearfix']/li/div[1]/a/@abs:href",
+        "img": "//ul[@class='stui-vodlist__media col-pd clearfix']/li/div[1]/a/@abs:data-original"
 	},
 	"detail_rule": {
 		"play_url": "",
-        "intro": "//p[@class='summary']/allText()",
+        "intro": "//p[@class='desc detail hidden-xs']/allText()",
         "thumb": "",
-        "lines": "//ul[@class='dslist-group']",
-        "items": "//ul[@class='dslist-group']/li/a",
+        "lines": "//ul[@class='stui-content__playlist column8 clearfix']",
+        "items": "//ul[@class='stui-content__playlist column8 clearfix']/li/a",
 		"attribute": [
-          "//tbody/tr[1]/allText()",
-          "//tbody/tr[2]/allText()",
-          "//tbody/tr[3]/allText()",
-          "//tbody/tr[5]/allText()",
-          "//tbody/tr[6]/allText()"
+          "//div[@class='stui-content__detail']/p[1]/allText()",
+          "//div[@class='stui-content__detail']/p[2]/allText()",
+          "//div[@class='stui-content__detail']/p[3]/allText()",
+          "//div[@class='stui-content__detail']/p[4]/allText()"
         ]
 	}, 
     "isPageFinish":false,
