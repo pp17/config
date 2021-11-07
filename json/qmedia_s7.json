@@ -15,9 +15,9 @@
         "items": "//ul[@class='stui-content__playlist clearfix']/li/a",
 		"attribute": [
           "//div[@class='stui-content__detail']/p[1]/allText()",
-          "//div[@class='myui-content__detail']/p[2]/allText()",
-          "//div[@class='myui-content__detail']/p[3]/allText()",
-          "//div[@class='myui-content__detail']/p[4]/allText()"
+          "//div[@class='stui-content__detail']/p[2]/allText()",
+          "//div[@class='stui-content__detail']/p[3]/allText()",
+          "//div[@class='stui-content__detail']/p[4]/allText()"
         ]
 	}, 
     "isPageFinish":false,
