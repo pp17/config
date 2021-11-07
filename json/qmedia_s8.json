@@ -1,24 +1,24 @@
  {
-	"root": "http://70dvd.cc/",
-	"search_format": "http://70dvd.cc/search.php?searchword=%s",
+	"root": "https://www.jiujiukanpian.com/",
+	"search_format": "https://www.jiujiukanpian.com/search?wd=%s",
 	"isPost": false,
 	"search_rule": {
-		"title": "//div[@class='index-area clearfix']/ul/li/a/@title",
-        "link": "//div[@class='index-area clearfix']/ul/li/a/@abs:href",
-        "img": "//div[@class='index-area clearfix']/ul/li/a/img/@abs:data-original"
+		"title": "//div[@class='movie-item']/a/@title",
+        "link": "//div[@class='movie-item']/a/@abs:href",
+        "img": "//div[@class='movie-item']/a/img/@abs:src"
 	},
 	"detail_rule": {
 		"play_url": "",
-        "intro": "//div[@class='tab-jq']/allText()",
+        "intro": "//p[@class='summary']/allText()",
         "thumb": "",
-        "lines": "//div[@class='videourl clearfix']",
-        "items": "//div[@class='videourl clearfix']/ul/li/a",
+        "lines": "//ul[@class='dslist-group']",
+        "items": "//ul[@class='dslist-group']/li/a",
 		"attribute": [
-          "//div[@class='ct-c']/dl/dt[2]/allText()",
-          "//div[@class='ct-c']/dl/dt[3]/allText()",
-          "//div[@class='ct-c']/dl/dd[1]/allText()",
-          "//div[@class='ct-c']/dl/dd[2]/allText()",
-          "//div[@class='ct-c']/dl/dd[3]/allText()"
+          "//tbody/tr[1]/allText()",
+          "//tbody/tr[2]/allText()",
+          "//tbody/tr[3]/allText()",
+          "//tbody/tr[5]/allText()",
+          "//tbody/tr[6]/allText()"
         ]
 	}, 
     "isPageFinish":false,
