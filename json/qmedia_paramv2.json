@@ -14,7 +14,7 @@
     "downUrl": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
     "lzUrl": "https://51video.lanzoui.com/ipCyzv5t9od",
     "hint": "2.6.7版本更新内容：\n1.解决电视直播无法观看问题",
-	"search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s6.json","https://gitee.com/svo/config/blob/master/json/qmedia_s5.json","https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s1.json","https://gitee.com/svo/config/blob/master/json/qmedia_s7.json","https://gitee.com/svo/config/blob/master/json/qmedia_s4.json"],
+	"search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s6.json","https://gitee.com/svo/config/blob/master/json/qmedia_s5.json","https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s1.json","https://gitee.com/svo/config/blob/master/json/qmedia_s7.json","https://gitee.com/svo/config/blob/master/json/qmedia_s4.json","https://gitee.com/svo/config/blob/master/json/qmedia_s9.json"],
     "config": {
         "root": "https://9bo.tv/",
         "type_format": "https://9bo.tv/%s/index.html",
