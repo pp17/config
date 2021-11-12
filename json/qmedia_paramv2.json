@@ -1,5 +1,5 @@
 {
-    "maxVersion": 212110100,
+    "maxVersion": 212111120,
     "forceV": 212109010,
     "jxUrl": "https://jx.xmflv.com/?url=",
     "searchJxUrl": "http://47.95.28.242/jx/own/json/?url=",
@@ -12,8 +12,8 @@
     "laba": "def",
     "ads": [],
     "downUrl": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
-    "lzUrl": "https://51video.lanzoui.com/ipCyzv5t9od",
-    "hint": "2.6.7版本更新内容：\n1.解决电视直播无法观看问题",
+    "lzUrl": "https://51video.lanzoui.com/is2H7weyjyd",
+    "hint": "2.6.8版本更新内容：\n1.增加优选搜索来源，高清流畅不卡顿",
 	"search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s10.json","https://gitee.com/svo/config/blob/master/json/qmedia_s6.json","https://gitee.com/svo/config/blob/master/json/qmedia_s5.json","https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s1.json","https://gitee.com/svo/config/blob/master/json/qmedia_s7.json","https://gitee.com/svo/config/blob/master/json/qmedia_s4.json","https://gitee.com/svo/config/blob/master/json/qmedia_s9.json"],
     "config": {
         "root": "https://9bo.tv/",
