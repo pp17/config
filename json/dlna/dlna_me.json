@@ -3,7 +3,7 @@
 	"forceV": 391,
 	"downUrl": "https://appdl-1-drcn.dbankcdn.com:443/dl/appdl/application/apk/0b/0bc692f39442484193307ebc6ba81d65/com.svo.tp.2109272005.apk",
     "jxUrl": "https://jx.renrenmi.cc/?url=",
-    "ykJxUrl": "https://api.yueliangjx.com/?url=",
+    "ykJxUrl": "https://jx.renrenmi.cc/?url=",
     "xtHelpUrl": "https://svo.gitee.io/svo/2021/07/02/xthelp/",
     "search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s5.json","https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s1.json","https://gitee.com/svo/config/blob/master/json/qmedia_s7.json","https://gitee.com/svo/config/blob/master/json/qmedia_s4.json"],
 	"sites": [{
