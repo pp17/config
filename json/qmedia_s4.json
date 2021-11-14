@@ -1,6 +1,6 @@
 {
-	"root": "http://www.nindedy.com/",
-	"search_format": "http://www.nindedy.com/search.php?searchword=%s",
+	"root": "http://www.andedy.com/",
+	"search_format": "http://www.andedy.com/search.php?searchword=%s",
 	"isPost": true,
 	"search_rule": {
 		"title": "//div[@class='index-area clearfix']/ul/li/a/@title",
