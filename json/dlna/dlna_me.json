@@ -5,7 +5,7 @@
     "jxUrl": "https://jx.m3u8.tv/jiexi/?url=",
     "ykJxUrl": "https://jx.renrenmi.cc/?url=",
     "xtHelpUrl": "https://svo.gitee.io/svo/2021/07/02/xthelp/",
-    "search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s5.json","https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s1.json","https://gitee.com/svo/config/blob/master/json/qmedia_s7.json","https://gitee.com/svo/config/blob/master/json/qmedia_s4.json"],
+    "search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s5.json","https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s1.json","https://gitee.com/svo/config/blob/master/json/qmedia_s7.json","https://gitee.com/svo/config/blob/master/json/qmedia_s9.json"],
 	"sites": [{
 		"name": "BiliBili",
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
