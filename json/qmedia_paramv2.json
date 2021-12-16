@@ -1,6 +1,6 @@
 {
-    "maxVersion": 212111220,
-    "forceV": 212109010,
+    "maxVersion": 212112160,
+    "forceV": 212112160,
     "jxUrl": "https://jx.m3u8.tv/jiexi/?url=",
     "searchJxUrl": "http://47.95.28.242/jx/own/json/?url=",
     "m3u8AppUrl": "https://svo.gitee.io/md/redirect/m3u8.html",
@@ -12,8 +12,8 @@
     "laba": "def",
     "ads": [],
     "downUrl": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
-    "lzUrl": "https://51video.lanzoui.com/iJLphwroqva",
-    "hint": "2.7.0版本更新内容：\n1.解析优选视频播放过程中无法播放问题",
+    "lzUrl": "https://51video.lanzouo.com/idW25xo2prg",
+    "hint": "2.8.0版本更新内容：\n1.全新app，后续请用海川视频app",
 	"search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s10.json","https://gitee.com/svo/config/blob/master/json/qmedia_s5.json","https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s1.json","https://gitee.com/svo/config/blob/master/json/qmedia_s7.json","https://gitee.com/svo/config/blob/master/json/qmedia_s9.json"],
     "config": {
         "root": "https://9bo.tv/",
