@@ -12,7 +12,7 @@
     "laba": "def",
     "ads": [],
     "downUrl": "https://lovevideo.bj.bcebos.com/apk/qmedia.apk",
-    "lzUrl": "https://51video.lanzouo.com/idW25xo2prg",
+    "lzUrl": "",
     "hint": "2.8.0版本更新内容：\n1.全新app，后续请用海川视频app",
 	"search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s10.json","https://gitee.com/svo/config/blob/master/json/qmedia_s5.json","https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s1.json","https://gitee.com/svo/config/blob/master/json/qmedia_s7.json","https://gitee.com/svo/config/blob/master/json/qmedia_s9.json"],
     "config": {
