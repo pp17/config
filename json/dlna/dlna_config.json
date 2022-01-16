@@ -1,12 +1,12 @@
 {
     "includeOld": false,
-    "version": 202105160,
+    "version": 202105170,
     "help": "1不显示视频内容，0显示",
     "huawei": 0,
     "qihu": 0,
     "anzhi": 0,
     "potal": 0,
     "qq": 0,
-    "ali": 0,
+    "ali": 1,
 	"xiaomi": 0
 }
