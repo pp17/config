@@ -1,6 +1,12 @@
 {
-    "maxV": 20161118,
-    "forceV": 20161118,
-	"downUrl": "https://gitee.com/svo/config/raw/master/apk/cili.apk",
-	"hint": "1.修改MD5更快<br>2.全新改版<br>3.增加批量修改功能"
+	"parseShort": {
+		"img": "https://lovevideo.bj.bcebos.com/img/md/learn.jpg",
+		"link": "https://v.kuaishou.com/8ubqpS",
+		"text": ""
+	},
+	"all": {
+		"img": "https://lovevideo.bj.bcebos.com/img/md/learn.jpg",
+		"link": "https://v.kuaishou.com/8ubqpS",
+		"text": ""
+	}
 }
