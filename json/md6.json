@@ -12,7 +12,7 @@
 		"thumb": "https://gitee.com/svo/config/raw/master/media/img/dlna.png",
 		"link": "https://lovevideo.bj.bcebos.com/apk%2Fdlna.apk"
 	}],
-	"hint": "6.4.8版本更新通知:\n1.增加一键搬运功能\n2.增加视频转高清Gif功能\n3.增加直播视频下载功能\n4.增加批量去水印功能\n5.版本太旧，请更新",
+	"hint": "6.6.3版本更新通知:\n1.增加一键搬运功能\n2.增加视频转高清Gif功能\n3.增加直播视频下载功能\n4.增加批量去水印功能\n5.增加内录小工具功能\n6.版本太旧，请更新",
 	"home_config": {
 		"hide": [],
 		"ads": [{
