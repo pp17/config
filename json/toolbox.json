@@ -1,18 +1,28 @@
 {
-	"maxV": 202008221,
-	"forceV": 391,
-	"downUrl": "http://www.apk.anzhi.com/data5/apk/202008/11/47e1431f081b9a7e0f84ca52613f6169_36192700.apk",
-    "search_plug": ["https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s1.json","https://gitee.com/svo/config/blob/master/json/qmedia_s3.json"],
-	"apps": [{
-		"name": "妖色",
-		"tag": "美女私房照-大饱眼福",
-		"size": "4.04M",
-		"thumb": "https://gitee.com/svo/config/raw/master/media/img/yaose.png",
-		"link": "https://lovevideo.bj.bcebos.com/apk%2Fyaose.apk"
-	}],
-	"hint": "4.40版本更新通知:\n1.增加爬取网站视频链接功能\n2.优化屏幕录制功能\n3.优化解析视频功能",
+	"maxV": 202203150,
+	"forceV": 202101080,
+	"downUrl": "",
+	"lzUrl": "https://51video.lanzoum.com/i6DhT01i8kra",
+	"isShowTjs": true,
+	"hints": {
+		"buyInApp": "yes",
+		"price": "1.月会员15元(大部分功能)\t2.季度会员39元\n3.年度会员99元(全部功能) \t4.永久会员139元\n恢复出厂卡密失效\n手机与虚拟机卡密不共用",
+		"buyVipUrl": "https://shop.autofaka.com//links/CE7606B5",
+		"orderQueryUrl": "http://shop.autofaka.com/orderquery",
+		"parseKamiUrl": "http://shop.autofaka.com/orderquery?orderid=%s&querytype=2",
+		"helpOrderUrl": "http://shop.autofaka.com/index/index/content.html?id=93",
+		"filterKey": "/index/order/query.html?orderid=FK"
+	},
+	"wxs": {
+	},
+	"search_plug": [
+	],
+	"apps": [
+	],
+	"hint": "6.6.4版本升级:\n1.视频\n2.完善",
 	"home_config": {
 		"hide": [],
-		"ads": []
+		"ads": [
+		]
 	}
 }
