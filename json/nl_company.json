@@ -1,8 +1,8 @@
 {
-	"maxV": 202203210,
+	"maxV": 202203230,
 	"forceV": 202203180,
 	"downUrl": "",
-	"lzUrl": "https://51video.lanzoum.com/iaKer01thhrc",
+	"lzUrl": "https://51video.lanzoum.com/i7MMk01wm6li",
 	"isShowTjs": true,
 	"hints": {
 		"buyInApp": "yes",
@@ -20,7 +20,7 @@
 	],
 	"apps": [
 	],
-	"hint": "3.0版本升级:\n1.修复部分手机抖音拍摄时无视频的问题",
+	"hint": "3.0版本升级:\n1.修复大多数手机抖音拍摄时无视频的问题",
 	"home_config": {
 		"hide": [],
 		"ads": [
