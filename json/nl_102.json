@@ -1,0 +1,30 @@
+{
+	"maxV": 202203230,
+	"forceV": 202203180,
+	"downUrl": "",
+	"lzUrl": "https://51video.lanzoum.com/iuorQ01wm8va",
+	"isShowTjs": true,
+	"hints": {
+		"buyInApp": "yes",
+		"price": "1.月会员15元(大部分功能)\t2.季度会员39元\n3.年度会员99元(全部功能) \t4.永久会员139元\n恢复出厂卡密失效\n手机与虚拟机卡密不共用",
+		"buyVipUrl": "https://shop.autofaka.com//links/012990A3",
+        "dyUrl": "https://wwi.lanzoul.com/idjoV01kb01e",
+		"orderQueryUrl": "http://shop.autofaka.com/orderquery",
+		"parseKamiUrl": "http://shop.autofaka.com/orderquery?orderid=%s&querytype=2",
+		"helpOrderUrl": "http://shop.autofaka.com/index/index/content.html?id=93",
+		"filterKey": "/index/order/query.html?orderid=FK"
+	},
+	"wxs": {
+        "nl101": "haoxin670"
+	},
+	"search_plug": [
+	],
+	"apps": [
+	],
+	"hint": "3.0版本升级:\n1.修复大多数手机抖音拍摄时无视频的问题",
+	"home_config": {
+		"hide": [],
+		"ads": [
+		]
+	}
+}
