@@ -9,10 +9,10 @@
 	},
 	"detail_rule": {
             "play_url": "//a[@class='ico play']/@abs:href",
-            "intro": "//div[@class='cdes1']/allText()",
+            "intro": "//div[@class='tab-content myui-panel_bd']/allText()",
             "thumb": "//div[@class='img']/img/@src",
-            "items": "//div[@id='stab_11']/ul/li/a",
-			"attribute": ["//div[@class='info']/dl[1]/dt/allText()","//div[@class='info']/dl[1]/dd/allText()","//div[@class='info']/dl[2]/dt/allText()","//div[@class='info']/dl[2]/dd/allText()","//div[@class='info']/dl[4]/dt/allText()","//div[@class='info']/dl[4]/dd/allText()","//div[@class='info']/dl[6]/dt/allText()","//div[@class='info']/dl[6]/dd/allText()","//div[@class='info']/dl[7]/dt/allText()","//div[@class='info']/dl[7]/dd/allText()"]
+            "items": "//div[@class='tab-content myui-panel_bd']/div/ul/li/a",
+			"attribute": ["//div[@class='myui-content__detail']/p[2]/allText()","//div[@class='myui-content__detail']/p[3]/allText()","//div[@class='myui-content__detail']/p[5]/allText()"]
 	},
 	"play_video":""
 }
