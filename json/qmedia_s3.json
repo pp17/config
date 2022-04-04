@@ -9,7 +9,7 @@
 	},
 	"detail_rule": {
             "play_url": "//a[@class='ico play']/@abs:href",
-            "intro": "//div[@class='tab-content myui-panel_bd']/allText()",
+            "intro": "//div[@id='jq']/div/div[2]/allText()",
             "thumb": "//div[@class='img']/img/@src",
             "items": "//div[@class='tab-content myui-panel_bd']/div/ul/li/a",
 			"attribute": ["//div[@class='myui-content__detail']/p[2]/allText()","//div[@class='myui-content__detail']/p[3]/allText()","//div[@class='myui-content__detail']/p[5]/allText()"]
