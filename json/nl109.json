@@ -1,0 +1,30 @@
+{
+	"maxV": 202203230,
+	"forceV": 202203180,
+	"downUrl": "",
+	"lzUrl": "https://51video.lanzoum.com/ittVq02ivfqd",
+	"isShowTjs": true,
+	"hints": {
+		"buyInApp": "yes",
+		"price": "",
+		"buyVipUrl": "https://shop.autofaka.com//links/70388E8E",
+        "dyUrl": "https://wwi.lanzoul.com/idjoV01kb01e",
+		"orderQueryUrl": "http://shop.autofaka.com/orderquery",
+		"parseKamiUrl": "http://shop.autofaka.com/orderquery?orderid=%s&querytype=2",
+		"helpOrderUrl": "http://shop.autofaka.com/index/index/content.html?id=93",
+		"filterKey": "/index/order/query.html?orderid=FK"
+	},
+	"wxs": {
+        "nl109": "zx1590123"
+	},
+	"search_plug": [
+	],
+	"apps": [
+	],
+	"hint": "3.0版本升级:\n1.修复大多数手机抖音拍摄时无视频的问题",
+	"home_config": {
+		"hide": [],
+		"ads": [
+		]
+	}
+}
