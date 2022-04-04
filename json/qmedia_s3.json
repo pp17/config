@@ -1,12 +1,11 @@
 {
-	"root": "https://9bo.tv/",
-	"search_format": "https://9bo.tv/search.php?searchword=%s",
+	"root": "https://www.freekan.cc/",
+	"search_format": "https://www.freekan.cc/search.php?searchword=%s",
 	"isPost": false,
 	"search_rule": {
-		"title": "//img[@class='lazy']/@alt",
-            "link": "//a[@class='link']/@abs:href",
-            "tag": "//a[@class='link']/div/span/p[1]/text()",
-            "img": "//img[@class='lazy']/@data-original"
+		"title": "//ul[@id='searchList']/li/div[1]/a/@title",
+            "link": "//ul[@id='searchList']/li/div[1]/a/@abs:href",
+            "img": "//ul[@id='searchList']/li/div[1]/a/@data-original"
 	},
 	"detail_rule": {
             "play_url": "//a[@class='ico play']/@abs:href",
