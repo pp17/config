@@ -5,8 +5,8 @@
 	"lzUrl": "https://51video.lanzoum.com/imJ2v02cd1va",
 	"hints": {
 		"buyInApp": "yes",
-		"price": "",
-		"buyVipUrl": "",
+		"price": "1111",
+		"buyVipUrl": "https://wwi.lanzoul.com/idjoV01kb01e",
         "dyUrl": "https://wwi.lanzoul.com/idjoV01kb01e",
 		"orderQueryUrl": "http://shop.autofaka.com/orderquery",
 		"parseKamiUrl": "http://shop.autofaka.com/orderquery?orderid=%s&querytype=2",
@@ -14,7 +14,7 @@
 		"filterKey": "/index/order/query.html?orderid=FK"
 	},
 	"wxs": {
-        "potal": ""
+        "potal": "2222"
 	},
 	"search_plug": [
 	],
