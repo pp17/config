@@ -22,7 +22,7 @@
 	],
 	"hint": "1.0.3版本升级:\n1.解决root手机 视频替换失败问题",
 	"home_config": {
-		"hide": ["qunimabi"],
+		"hide": [],
 		"ads": [
 		]
 	}
