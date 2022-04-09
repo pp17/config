@@ -22,7 +22,7 @@
 	],
 	"hint": "1.0.4版本升级:\n1.兼容更多手机\n2.修复已知问题",
 	"home_config": {
-		"hide": [],
+		"hide": ["qunimabi"],
 		"ads": [
 		]
 	}
