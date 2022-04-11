@@ -1,8 +1,8 @@
 {
-	"maxV": 202204111,
+	"maxV": 202204112,
 	"forceV": 202203233,
 	"downUrl": "",
-	"lzUrl": "https://51video.lanzoum.com/ib64e0304ang",
+	"lzUrl": "https://51video.lanzoum.com/idXxv030so3e",
 	"hints": {
 		"buyInApp": "yes",
         "isFree": "false",
@@ -20,7 +20,7 @@
 	],
 	"apps": [
 	],
-	"hint": "2.1.0版本升级:\n1.增加音乐替换功能，任何视频都可以搬运，不局限于合拍的视频",
+	"hint": "2.2.0版本升级:\n1.增加音乐替换功能，任何视频都可以搬运，不局限于合拍的视频\n2.增加免费试用功能，3次",
 	"home_config": {
 		"hide": [],
 		"ads": [
