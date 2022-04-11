@@ -1,8 +1,8 @@
 {
-	"maxV": 202204110,
+	"maxV": 202204111,
 	"forceV": 202203233,
 	"downUrl": "",
-	"lzUrl": "https://51video.lanzoum.com/idln602ztleh",
+	"lzUrl": "https://51video.lanzoum.com/isnny030493a",
 	"hints": {
 		"buyInApp": "yes",
         "isFree": "false",
@@ -20,7 +20,7 @@
 	],
 	"apps": [
 	],
-	"hint": "2.0.0版本升级:\n1.解决部分root手机 视频替换失败问题",
+	"hint": "2.1.0版本升级:\n1.增加音乐替换功能，任何视频都可以搬运，不局限于合拍的视频",
 	"home_config": {
 		"hide": [],
 		"ads": [
