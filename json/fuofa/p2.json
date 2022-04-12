@@ -1,8 +1,8 @@
 {
-	"maxV": 202204111,
+	"maxV": 202204120,
 	"forceV": 202203233,
 	"downUrl": "",
-	"lzUrl": "https://51video.lanzoum.com/ik6p103049jg",
+	"lzUrl": "https://51video.lanzoum.com/itRCB033b23i",
 	"hints": {
 		"buyInApp": "yes",
         "isFree": "false",
@@ -22,7 +22,7 @@
 	],
 	"apps": [
 	],
-	"hint": "2.1.0版本升级:\n1.增加音乐替换功能，任何视频都可以搬运，不局限于合拍的视频",
+	"hint": "3.0.0版本升级:\n1.支持快手草稿替换\n2.增加免费试用功能，3次",
 	"home_config": {
 		"hide": [],
 		"ads": [
