@@ -33,7 +33,7 @@
 	}],
 	"hint": "6.3.4版本升级:\n1.优化快手搬运功能，通过率接近百分百",
 	"home_config": {
-		"hide": [],
+		"hide": ["dlna","m3u8","iqiyi","liveDown"],
 		"ads": []
 	}
 }
