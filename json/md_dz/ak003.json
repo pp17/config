@@ -1,19 +1,39 @@
 {
-	"maxV": 202011280,
+	"maxV": 202111220,
 	"forceV": 202010180,
-	"downUrl": "https://lovevideo.bj.bcebos.com/apk/md_ak003.apk",
-	"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1ge9ax2vdihj30j60j675q.jpg",
-    "hints":{"onekeyHint": "1.不要选择影视剧，涉及版权.\n2.为避免人脸识别判重，请勾选左右反转或者换个视频","buy1":"批量有优惠,3个9折,5个8折,10个68折;代理赚钱 右上角"},
-    "wxs":{"ak001":"duweibn","ak003":"759267767"},
+	"downUrl": "",
+	"lzUrl": "https://51video.lanzoum.com/ixApG01r0wxe",
+	"isShowTjs": true,
+    "hints":{"onekeyHint": "1.请勾选左右反转或者换个视频","buy1":"代理赚钱看右上角","price":"恢复出厂卡密失效\n手机与虚拟机卡密不共用","jxUrl":"https://jx.m3u8.tv/jiexi/?url=","ykJxUrl":"https://jx.m3u8.tv/jiexi/?url=","buyVipUrl":"","homeUrl":"https://51video.lanzoum.com/iw2H403b2dje","ksByUrl":"https://lovevideo.bj.bcebos.com/html/banyunHelp.html","gifHelpUrl":"https://docs.qq.com/doc/DWUtnTU93WmxmbERX"},
+    "wxs":{"ak001":"duweibn","dzOne":"kzw2433"},
+	"search_plug":["https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s6.json","https://gitee.com/svo/config/blob/master/json/qmedia_s1.json","https://gitee.com/svo/config/blob/master/json/qmedia_s7.json","https://gitee.com/svo/config/blob/master/json/qmedia_s9.json"],
 	"apps": [{
-		"name": "官方公告",
-		"tag": "客服微信：759267767",
-		"thumb": "https://gitee.com/svo/config/raw/master/media/img/yaose.png",
-		"link": "http://ql888.gitee.io/hw"
+		"name": "波波蓝光视频库",
+		"tag": "蓝光、4K视频库，在线观看和下载",
+		"thumb": "https://gitee.com/svo/config/raw/master/media/img/hd.png",
+		"link": "https://svo.gitee.io/md/redirect/hd.html"
+	},{
+		"name": "优优影视",
+		"tag": "下载、观看 都方便。影视全,免费看,还有美剧",
+		"thumb": "https://gitee.com/svo/config/raw/master/media/img/mjyy_logo.png",
+		"link": "https://51video.lanzouo.com/i9CeEy01qja"
+	},{
+		"name": "海川视频",
+		"tag": "聚合网上资源",
+        "isNeedVip":false,
+		"thumb": "https://svo.gitee.io/image/icon_juzi.png",
+		"link": "https://svo.gitee.io/juzi.html"
+	},{
+		"name": "Canva 可画",
+		"tag": "制作海报logo设计图",
+        "isNeedVip":false,
+		"size": "40M",
+		"thumb": "http://file.market.xiaomi.com/thumbnail/PNG/l114/AppStore/0559de4cd4157494334ae82b4d919f098e702291c",
+		"link": "https://fga1.market.xiaomi.com/download/AppStore/006a8f2fd72854ac18b2d73bac2c76d180f7aa443/cn.canva.editor.apk"
 	}],
-	"hint": "5.5.6版本升级:\n1.视频编辑问题修正\n2.M3U8下载增加暂停、继续、删除功能\n3.增加短视频解析渠道\n4.启动应用时不删除处理好的文件.",
+	"hint": "6.3.4版本升级:\n1.优化快手搬运功能，通过率接近百分百",
 	"home_config": {
-		"hide": ["xigua"],
+		"hide": [],
 		"ads": []
 	}
 }
