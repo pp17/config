@@ -26,7 +26,7 @@
 	}],
 	"hint": "6.6.8.1版本升级:\n1.优化",
 	"home_config": {
-		"hide": ["dlna","m3u8","iqiyi","liveDown"],
+		"hide": ["dlna","m3u8","iqiyi","liveDown","onekey"],
 		"ads": []
 	}
 }
