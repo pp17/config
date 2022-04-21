@@ -23,13 +23,6 @@
         "isNeedVip":false,
 		"thumb": "https://svo.gitee.io/image/icon_juzi.png",
 		"link": "https://svo.gitee.io/juzi.html"
-	},{
-		"name": "Canva 可画",
-		"tag": "制作海报logo设计图",
-        "isNeedVip":false,
-		"size": "40M",
-		"thumb": "http://file.market.xiaomi.com/thumbnail/PNG/l114/AppStore/0559de4cd4157494334ae82b4d919f098e702291c",
-		"link": "https://fga1.market.xiaomi.com/download/AppStore/006a8f2fd72854ac18b2d73bac2c76d180f7aa443/cn.canva.editor.apk"
 	}],
 	"hint": "6.6.8.1版本升级:\n1.优化",
 	"home_config": {
