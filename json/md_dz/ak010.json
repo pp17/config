@@ -1,61 +1,39 @@
 {
-	"maxV": 202012060,
+	"maxV": 202111220,
 	"forceV": 202010180,
-	"downUrl": "http://www.apk.anzhi.com/data5/apk/202012/08/10b8af4c6ff22665c613e9995c8b5891_82186400.apk",
-	"adImgUrl": "https://wx4.sinaimg.cn/mw690/007ZCETily1ge9ax2vdihj30j60j675q.jpg",
-    "hints":{"onekeyHint": "1.尽量不要选择影视剧，涉及版权.\n2.为避免人脸识别判重，请勾选左右反转或者换个视频","buy1":"代理赚钱 右上角"},
-    "wxs":{"ak010":"selimotf"},
+	"downUrl": "",
+	"lzUrl": "https://51video.lanzoum.com/ixApG01r0wxe",
+	"isShowTjs": true,
+    "hints":{"onekeyHint": "1.请勾选左右反转或者换个视频","buy1":"代理赚钱看右上角","price":"恢复出厂卡密失效\n手机与虚拟机卡密不共用","jxUrl":"https://jx.m3u8.tv/jiexi/?url=","ykJxUrl":"https://jx.m3u8.tv/jiexi/?url=","buyVipUrl":"","homeUrl":"https://51video.lanzoum.com/iw2H403b2dje","ksByUrl":"https://lovevideo.bj.bcebos.com/html/banyunHelp.html","gifHelpUrl":"https://docs.qq.com/doc/DWUtnTU93WmxmbERX"},
+    "wxs":{"ak001":"duweibn","dzOne":"kzw2433"},
+	"search_plug":["https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s6.json","https://gitee.com/svo/config/blob/master/json/qmedia_s1.json","https://gitee.com/svo/config/blob/master/json/qmedia_s7.json","https://gitee.com/svo/config/blob/master/json/qmedia_s9.json"],
 	"apps": [{
-		"name": "51投屏",
-		"tag": "无线投屏-海量影视免费看",
-		"size": "5.85M",
-		"thumb": "https://gitee.com/svo/config/raw/master/media/img/dlna.png",
-		"link": "https://lovevideo.bj.bcebos.com/apk%2Fdlna.apk"
+		"name": "波波蓝光视频库",
+		"tag": "蓝光、4K视频库，在线观看和下载",
+		"thumb": "https://gitee.com/svo/config/raw/master/media/img/hd.png",
+		"link": "https://svo.gitee.io/md/redirect/hd.html"
 	},{
-		"name": "妖色",
-		"tag": "美女私房照-大饱眼福",
-		"size": "4.04M",
-		"thumb": "https://gitee.com/svo/config/raw/master/media/img/yaose.png",
-		"link": "https://lovevideo.bj.bcebos.com/apk%2Fyaose.apk?time=20201021"
+		"name": "优优影视",
+		"tag": "下载、观看 都方便。影视全,免费看,还有美剧",
+		"thumb": "https://gitee.com/svo/config/raw/master/media/img/mjyy_logo.png",
+		"link": "https://51video.lanzouo.com/i9CeEy01qja"
 	},{
-		"name": "桔子影视",
-		"tag": "VIP资源免费看,破解神器",
-		"size": "3.87M",
-		"thumb": "https://gitee.com/svo/config/raw/master/media/img/icon.png",
-		"link": "http://lovevideo.bj.bcebos.com/apk%2Fqmedia.apk"
+		"name": "海川视频",
+		"tag": "聚合网上资源",
+        "isNeedVip":false,
+		"thumb": "https://svo.gitee.io/image/icon_juzi.png",
+		"link": "https://svo.gitee.io/juzi.html"
 	},{
-		"name": "酷我音乐破解版",
-		"tag": "会员音乐免费听、免费下载",
-        "isNeedVip":true,
-		"thumb": "https://src.onlinedown.net/d/imgjpg/005bb5b75d0d4175e5fd4f33a66570b7.jpg",
-		"link": "https://wenda.lanzous.com/ihwaue9lhri"
-	},{
-		"name": "酷狗音乐会员版",
-		"tag": "会员音乐免费下载",
-        "isNeedVip":true,
-		"thumb": "https://bkimg.cdn.bcebos.com/pic/3801213fb80e7bec54e73cea7364ae389b504fc23d2c",
-		"link": "https://www.lanzoui.com/tp/ixoBhitzltc"
-	},{
-		"name": "TIKTOK",
-		"tag": "抖音国际版",
-        "isNeedVip":true,
-		"thumb": "https://bkimg.cdn.bcebos.com/pic/9a504fc2d5628535566f21249eef76c6a7ef632c",
-		"link": "https://wenda.lanzous.com/igO6te9l4oh"
-	},{
-		"name": "虚拟定位",
-		"tag": "模拟GPS定位等",
-        "isNeedVip":true,
-		"thumb": "https://gitee.com/svo/config/raw/master/media/img/logo_location.png",
-		"link": "https://wenda.lanzous.com/iqwwce7cvsh"
+		"name": "Canva 可画",
+		"tag": "制作海报logo设计图",
+        "isNeedVip":false,
+		"size": "40M",
+		"thumb": "http://file.market.xiaomi.com/thumbnail/PNG/l114/AppStore/0559de4cd4157494334ae82b4d919f098e702291c",
+		"link": "https://fga1.market.xiaomi.com/download/AppStore/006a8f2fd72854ac18b2d73bac2c76d180f7aa443/cn.canva.editor.apk"
 	}],
-	"hint": "5.6.0版本升级:\n1.解决无水印工厂之西瓜视频部分无声音问题\n2.增加查询代理收益功能\n3.增加年会员去所有广告特权\n4.增加添加文件到相册功能",
+	"hint": "6.3.4版本升级:\n1.优化快手搬运功能，通过率接近百分百",
 	"home_config": {
-		"hide": ["xigua"],
-		"ads": [{
-	"adImgUrl": "https://gitee.com/svo/config/raw/master/media/img/learn.jpg",
-	"adLink": "https://v.kuaishou.com/8ubqpS",
-	"alpha": 255,
-	"adTxt": "显示内容"
-}]
+		"hide": ["dlna","m3u8","iqiyi","liveDown"],
+		"ads": []
 	}
 }
