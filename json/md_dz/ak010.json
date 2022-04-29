@@ -1,8 +1,8 @@
 {
-	"maxV": 202111220,
+	"maxV": 202204290,
 	"forceV": 202010180,
 	"downUrl": "",
-	"lzUrl": "https://51video.lanzoum.com/ixApG01r0wx",
+	"lzUrl": "https://51video.lanzoum.com/iyDHA0409puj",
 	"isShowTjs": true,
     "hints":{"onekeyHint": "1.请勾选左右反转或者换个视频","buy1":"代理赚钱看右上角","price":"恢复出厂卡密失效\n手机与虚拟机卡密不共用","jxUrl":"https://jx.m3u8.tv/jiexi/?url=","ykJxUrl":"https://jx.m3u8.tv/jiexi/?url=","buyVipUrl":"","homeUrl":"https://51video.lanzoum.com/iw2H403b2dje","ksByUrl":"https://lovevideo.bj.bcebos.com/html/banyunHelp.html","gifHelpUrl":"https://docs.qq.com/doc/DWUtnTU93WmxmbERX"},
     "wxs":{"ak001":"duweibn","dzOne":"kzw2433"},
@@ -23,15 +23,8 @@
         "isNeedVip":false,
 		"thumb": "https://svo.gitee.io/image/icon_juzi.png",
 		"link": "https://svo.gitee.io/juzi.html"
-	},{
-		"name": "Canva 可画",
-		"tag": "制作海报logo设计图",
-        "isNeedVip":false,
-		"size": "40M",
-		"thumb": "http://file.market.xiaomi.com/thumbnail/PNG/l114/AppStore/0559de4cd4157494334ae82b4d919f098e702291c",
-		"link": "https://fga1.market.xiaomi.com/download/AppStore/006a8f2fd72854ac18b2d73bac2c76d180f7aa443/cn.canva.editor.apk"
 	}],
-	"hint": "6.3.4版本升级:\n1.优化快手搬运功能，通过率接近百分百",
+	"hint": "6.6.9版本升级:\n1.优化一键处理搬运功能",
 	"home_config": {
 		"hide": ["dlna","m3u8","iqiyi","liveDown"],
 		"ads": []
