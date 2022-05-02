@@ -1,8 +1,8 @@
 {
-	"maxV": 202204111,
+	"maxV": 202205020,
 	"forceV": 202203233,
 	"downUrl": "",
-	"lzUrl": "https://51video.lanzoum.com/i8Cjh033b1ti",
+	"lzUrl": "https://51video.lanzoum.com/ijn7j0457wih",
 	"hints": {
 		"buyInApp": "yes",
         "isFree": "false",
@@ -20,7 +20,7 @@
 	],
 	"apps": [
 	],
-	"hint": "3.0.0版本升级:\n1.支持快手草稿替换\n2.增加免费试用功能，3次",
+	"hint": "4.0.0版本升级:\n1.支持宅家人类图鉴替换搬运",
 	"home_config": {
 		"hide": [],
 		"ads": [
