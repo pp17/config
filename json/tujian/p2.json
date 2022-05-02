@@ -1,8 +1,8 @@
 {
-	"maxV": 202204111,
+	"maxV": 202204113,
 	"forceV": 202203233,
 	"downUrl": "",
-	"lzUrl": "https://51video.lanzoum.com/itRCB033b23i",
+	"lzUrl": "https://51video.lanzoum.com/iGD7F0454suh",
 	"hints": {
 		"buyInApp": "yes",
         "isFree": "false",
@@ -22,7 +22,7 @@
 	],
 	"apps": [
 	],
-	"hint": "3.0.0版本升级:\n1.支持快手草稿替换\n2.增加免费试用功能，3次",
+	"hint": "2.3.0版本升级:\n1.修复替换后视频变短的问题，视频长度精确到毫秒",
 	"home_config": {
 		"hide": [],
 		"ads": [
