@@ -1,8 +1,8 @@
 {
-	"maxV": 202204113,
+	"maxV": 202204115,
 	"forceV": 202203233,
 	"downUrl": "",
-	"lzUrl": "https://51video.lanzoum.com/i6Qrg0454ryf",
+	"lzUrl": "https://51video.lanzoum.com/i6Yg004d0nne",
 	"hints": {
 		"buyInApp": "yes",
         "isFree": "false",
@@ -20,7 +20,7 @@
 	],
 	"apps": [
 	],
-	"hint": "2.3.0版本升级:\n1.修复替换后视频变短的问题，视频长度精确到毫秒",
+	"hint": "2.5.0版本升级:\n1.修复部分手机黑屏问题",
 	"home_config": {
 		"hide": [],
 		"ads": [
