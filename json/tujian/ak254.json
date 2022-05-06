@@ -1,8 +1,8 @@
 {
-	"maxV": 202204091,
+	"maxV": 202204115,
 	"forceV": 202203233,
 	"downUrl": "",
-	"lzUrl": "",
+	"lzUrl": "https://51video.lanzoum.com/iXKch04d0mdi",
 	"hints": {
 		"buyInApp": "no",
         "isFree": "false",
@@ -20,7 +20,7 @@
 	],
 	"apps": [
 	],
-	"hint": "1.0.5版本升级:\n1.解决部分root手机 视频替换失败问题",
+	"hint": "2.5.0版本升级:\n1.修复部分手机黑屏问题",
 	"home_config": {
 		"hide": [],
 		"ads": [
