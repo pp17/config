@@ -1,8 +1,8 @@
 {
-	"maxV": 202204115,
+	"maxV": 202204116,
 	"forceV": 202203233,
 	"downUrl": "",
-	"lzUrl": "https://51video.lanzoum.com/iDfuU04d0nxe",
+	"lzUrl": "https://51video.lanzoum.com/iMbQW04dxufg",
 	"hints": {
 		"buyInApp": "yes",
         "isFree": "false",
@@ -22,7 +22,7 @@
 	],
 	"apps": [
 	],
-	"hint": "2.5.0版本升级:\n1.修复部分手机黑屏问题",
+	"hint": "2.6.0版本升级:\n1.修复部分手机黑屏问题\n2.增加清除缓存功能，有问题时清除缓存试试",
 	"home_config": {
 		"hide": [],
 		"ads": [
