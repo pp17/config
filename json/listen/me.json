@@ -1,0 +1,29 @@
+{
+	"maxV": 202204116,
+	"forceV": 202203233,
+	"downUrl": "",
+	"lzUrl": "https://51video.lanzoum.com/iAmvQ04dxjuf",
+	"hints": {
+		"buyInApp": "yes",
+        "isFree": "false",
+		"price": "请不要刷机或者恢复出厂，否则卡密失效。\n若在虚拟机里使用，请不要卸载此软件重新安装，否则卡密失效。\n虚拟机相当于另外一部手机\n",
+		"buyVipUrl": "https://shop.autofaka.com//liebiao/B5BC1CC7E81489D7",
+		"orderQueryUrl": "http://shop.autofaka.com/orderquery",
+		"parseKamiUrl": "http://shop.autofaka.com/orderquery?orderid=%s&querytype=2",
+		"helpOrderUrl": "http://shop.autofaka.com/index/index/content.html?id=93",
+		"filterKey": "/index/order/query.html?orderid=FK"
+	},
+	"wxs": {
+        "me": "duweibn"
+	},
+	"search_plug": [
+	],
+	"apps": [
+	],
+	"hint": "2.6.0版本升级:\n1.使用正常 不用升级\n2.修复部分手机黑屏问题\n3.增加清除缓存功能，有问题时清除缓存试试",
+	"home_config": {
+		"hide": [],
+		"ads": [
+		]
+	}
+}
