@@ -1,0 +1,31 @@
+{
+	"maxV": 202205020,
+	"forceV": 202203233,
+	"downUrl": "",
+	"lzUrl": "https://51video.lanzoum.com/iSvY50457x7c",
+	"hints": {
+		"buyInApp": "yes",
+        "isFree": "false",
+        "homeHint":"",
+		"price": "请不要刷机或者恢复出厂，否则卡密失效。\n若在虚拟机里使用，请不要卸载此软件重新安装，否则卡密失效。\n虚拟机相当于另外一部手机\n\n对于使用root手机的用户，合拍完后，不要立马去佛法无边操作，建议刷新下草稿列表，有延迟，否则可能会出现设置视频失败的情况。",
+		"buyVipUrl": "",
+        "dyUrl": "https://wwi.lanzoul.com/idjoV01kb01e",
+		"orderQueryUrl": "http://shop.autofaka.com/orderquery",
+		"parseKamiUrl": "http://shop.autofaka.com/orderquery?orderid=%s&querytype=2",
+		"helpOrderUrl": "http://shop.autofaka.com/index/index/content.html?id=93",
+		"filterKey": "/index/order/query.html?orderid=FK"
+	},
+	"wxs": {
+        "potal": ""
+	},
+	"search_plug": [
+	],
+	"apps": [
+	],
+	"hint": "4.0.0版本升级:\n1.支持宅家人类图鉴替换搬运",
+	"home_config": {
+		"hide": [],
+		"ads": [
+		]
+	}
+}
