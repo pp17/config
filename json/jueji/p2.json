@@ -1,0 +1,31 @@
+{
+	"maxV": 202205020,
+	"forceV": 202203233,
+	"downUrl": "",
+	"lzUrl": "https://51video.lanzoum.com/iSvY50457x7c",
+	"hints": {
+		"buyInApp": "yes",
+        "isFree": "false",
+        "homeHint":"",
+		"price": "请不要刷机或者恢复出厂，否则卡密失效。",
+		"buyVipUrl": "",
+        "dyUrl": "https://wwi.lanzoul.com/idjoV01kb01e",
+		"orderQueryUrl": "http://shop.autofaka.com/orderquery",
+		"parseKamiUrl": "http://shop.autofaka.com/orderquery?orderid=%s&querytype=2",
+		"helpOrderUrl": "http://shop.autofaka.com/index/index/content.html?id=93",
+		"filterKey": "/index/order/query.html?orderid=FK"
+	},
+	"wxs": {
+        "potal": ""
+	},
+	"search_plug": [
+	],
+	"apps": [
+	],
+	"hint": "4.0.0版本升级:\n1.支持宅家人类图鉴替换搬运",
+	"home_config": {
+		"hide": [],
+		"ads": [
+		]
+	}
+}
