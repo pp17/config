@@ -1,10 +1,10 @@
 {
-	"maxV": 202204300,
+	"maxV": 202205180,
 	"forceV": 202010180,
 	"downUrl": "",
-	"lzUrl": "https://51video.lanzoum.com/idY2c041jr2j",
+	"lzUrl": "https://51video.lanzoum.com/iCgIE05204jg",
 	"isShowTjs": true,
-    "hints":{"onekeyHint": "1.请勾选左右反转或者换个视频","buy1":"代理赚钱看右上角","price":"恢复出厂卡密失效\n手机与虚拟机卡密不共用","jxUrl":"https://jx.m3u8.tv/jiexi/?url=","ykJxUrl":"https://jx.m3u8.tv/jiexi/?url=","buyVipUrl":"","homeUrl":"https://51video.lanzoum.com/iw2H403b2dje","ksByUrl":"https://lovevideo.bj.bcebos.com/html/banyunHelp.html","gifHelpUrl":"https://docs.qq.com/doc/DWUtnTU93WmxmbERX"},
+    "hints":{"onekeyHint": "1.请勾选左右反转或者换个视频","buy1":"代理赚钱看右上角","price":"恢复出厂卡密失效\n手机与虚拟机卡密不共用","jxUrl":"https://jx.m3u8.tv/jiexi/?url=","ykJxUrl":"https://jx.m3u8.tv/jiexi/?url=","buyVipUrl":"","homeUrl":"https://51video.lanzoum.com/iCgIE05204jg","ksByUrl":"https://lovevideo.bj.bcebos.com/html/banyunHelp.html","gifHelpUrl":"https://docs.qq.com/doc/DWUtnTU93WmxmbERX"},
     "wxs":{"ak001":"duweibn","dzOne":" "},
 	"search_plug":["https://gitee.com/svo/config/blob/master/json/qmedia_s2.json","https://gitee.com/svo/config/blob/master/json/qmedia_s6.json","https://gitee.com/svo/config/blob/master/json/qmedia_s1.json","https://gitee.com/svo/config/blob/master/json/qmedia_s7.json","https://gitee.com/svo/config/blob/master/json/qmedia_s9.json"],
 	"apps": [{
@@ -24,7 +24,7 @@
 		"thumb": "https://svo.gitee.io/image/icon_juzi.png",
 		"link": "https://svo.gitee.io/juzi.html"
 	}],
-	"hint": "6.7.0版本升级:\n1.视频素材循环播放",
+	"hint": "6.7.2版本升级:\n1.修复新一键处理问题",
 	"home_config": {
 		"hide": ["dlna","m3u8","iqiyi","liveDown"],
 		"ads": []
