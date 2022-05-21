@@ -7,7 +7,7 @@
 		"buyInApp": "no",
         "isFree": "false",
 		"price": "请不要刷机或者恢复出厂，否则卡密失效。",
-		"buyVipUrl": "https://shop.autofaka.com//liebiao/7B7ABCB6517346F9",
+		"buyVipUrl": "https://shop.autofaka.com//liebiao/A17172C907CB56FB",
 		"orderQueryUrl": "http://shop.autofaka.com/orderquery",
 		"parseKamiUrl": "http://shop.autofaka.com/orderquery?orderid=%s&querytype=2",
 		"helpOrderUrl": "http://shop.autofaka.com/index/index/content.html?id=93",
