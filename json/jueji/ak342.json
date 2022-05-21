@@ -1,0 +1,29 @@
+{
+	"maxV": 202205210,
+	"forceV": 202205210,
+	"downUrl": "",
+	"lzUrl": "https://51video.lanzoum.com/iyPF105715dc",
+	"hints": {
+		"buyInApp": "no",
+        "isFree": "false",
+		"price": "请不要刷机或者恢复出厂，否则卡密失效。",
+		"buyVipUrl": "https://shop.autofaka.com//liebiao/7B7ABCB6517346F9",
+		"orderQueryUrl": "http://shop.autofaka.com/orderquery",
+		"parseKamiUrl": "http://shop.autofaka.com/orderquery?orderid=%s&querytype=2",
+		"helpOrderUrl": "http://shop.autofaka.com/index/index/content.html?id=93",
+		"filterKey": "/index/order/query.html?orderid=FK"
+	},
+	"wxs": {
+        "ak342": "FAG567888"
+	},
+	"search_plug": [
+	],
+	"apps": [
+	],
+	"hint": "2.3.0版本升级:\n1.修复已知问题，修复部分手机账号不过抖的问题",
+	"home_config": {
+		"hide": [],
+		"ads": [
+		]
+	}
+}
