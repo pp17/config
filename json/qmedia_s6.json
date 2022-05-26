@@ -8,11 +8,11 @@
         "img": "//ul[@class~='stui-vodlist__media']/li/div[1]/a/@abs:data-original"
 	},
 	"detail_rule": {
-		"play_url": "//div[@class='online-button']/a/@abs:href",
-        "intro": "//div[@class~='tabConList']/div[2]/div/allText()",
-        "thumb": "//div[@class='posterPic']/img/@src",
-        "lines": "//div[@class~='yunbo_url']",
-        "items": "//div[@class~='yunbo_url']/ul/li/a",
+		"play_url": "",
+        "intro": "//p[@class='col-pd']/allText()",
+        "thumb": "",
+        "lines": "//div[@class~='stui-pannel-box b playlist mb']",
+        "items": "//div[@class~='stui-pannel-box b playlist mb']//ul/li/a",
 		"attribute": [
           "//p[@class='pBottom']/span[4]/allText()",
           "//p[@class='pBottom']/span[5]/allText()",
