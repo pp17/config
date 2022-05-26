@@ -3,14 +3,14 @@
 	"search_format": "http://www.unss.net/index.php/vod/search/wd/%s.html",
 	"isPost": false,
 	"search_rule": {
-		"title": "//ul[@class~='stui-vodlist__media']/li/div[1]/a/@title",
-        "link": "//ul[@class~='stui-vodlist__media']/li/div[1]/a/@abs:href",
-        "img": "//ul[@class~='stui-vodlist__media']/li/div[1]/a/@abs:data-original"
+		"title": "//ul[@id='searchList']/li/div[1]/a/@title",
+            "link": "//ul[@id='searchList']/li/div[1]/a/@abs:href",
+            "img": "//ul[@id='searchList']/li/div[1]/a/@data-original"
 	},
 	"detail_rule": {
-		"play_url": "//a[@class='btn btn-primary']/@abs:href",
-        "intro": "//p[@class='col-pd']/allText()",
-        "thumb": "//a[@class~='myui-vodlist__thumb']/img/@abs:data-original",
+		"play_url": "",
+        "intro": "//span[@class='data']/allText()",
+        "thumb": "",
         "lines": "//div[@class~='tab-pane fade in']",
         "items": "//div[@class~='tab-pane fade in']/ul[@class='stui-content__playlist clearfix']/li/a",
 		"attribute": [
