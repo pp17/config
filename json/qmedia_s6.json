@@ -1,6 +1,6 @@
  {
-	"root": "http://m.ruogo.net/",
-	"search_format": "http://m.ruogo.net/tv-search-wd-%s.html",
+	"root": "https://www.baoweiyu.com/",
+	"search_format": "https://www.baoweiyu.com/tv-search-wd-%s.html",
 	"isPost": false,
 	"search_rule": {
 		"title": "//ul[@id~='data_list']/li/div[1]/a/@title",
