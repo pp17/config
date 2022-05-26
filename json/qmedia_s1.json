@@ -1,6 +1,6 @@
 {
-	"root": "https://www.007ts.cc/",
-	"search_format": "https://www.007ts.cc/search/-------------.html?wd=%s",
+	"root": "https://www.007ts.tv/",
+	"search_format": "https://www.007ts.tv/search/-------------.html?wd=%s",
 	"isPost": false,
 	"search_rule": {
 		"title": "//div[@class='module-search-item']//img/@alt",
