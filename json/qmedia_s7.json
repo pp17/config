@@ -12,7 +12,7 @@
         "intro": "//span[@class='data']/allText()",
         "thumb": "",
         "lines": "//div[@class~='tab-pane']",
-        "items": "//div[@class~='tab-pane']/ul[@class='stui-content__playlist clearfix']/li/a",
+        "items": "//div[@class~='tab-pane']/ul/li/a",
 		"attribute": [
           "//div[@class='myui-content__detail']/p[1]/allText()",
           "//div[@class='myui-content__detail']/p[2]/allText()",
