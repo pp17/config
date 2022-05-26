@@ -5,7 +5,7 @@
 	"search_rule": {
 		"title": "//ul[@class~='stui-vodlist__media']/li/div[1]/a/@title",
         "link": "//ul[@class~='stui-vodlist__media']/li/div[1]/a/@abs:href",
-        "img": "//ul[@class~='stui-vodlist__media']/li/div[1]/a/img/@abs:data-original"
+        "img": "//ul[@class~='stui-vodlist__media']/li/div[1]/a/@abs:data-original"
 	},
 	"detail_rule": {
 		"play_url": "//div[@class='online-button']/a/@abs:href",
