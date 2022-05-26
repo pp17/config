@@ -1,6 +1,6 @@
  {
 	"root": "http://www.unss.net/",
-	"search_format": "http://www.unss.net/vodsearch/-------------.html?wd=%s",
+	"search_format": "http://www.unss.net/index.php/vod/search/wd/%s.html",
 	"isPost": false,
 	"search_rule": {
 		"title": "//ul[@class~='stui-vodlist__media']/li/div[1]/a/@title",
